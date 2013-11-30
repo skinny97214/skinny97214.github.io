@@ -3,3 +3,5 @@ markdown: redcarpet
 pygments: true
 permalink: /blog/:title
 url: http://crystalbeasley.com
+exclude:
+- CNAME
