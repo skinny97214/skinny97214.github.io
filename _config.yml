@@ -1,0 +1,5 @@
+name: Crystal Beasley
+markdown: redcarpet
+pygments: true
+permalink: /blog/:title
+url: https://crystalbeasley.com
