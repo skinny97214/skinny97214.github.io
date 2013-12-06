@@ -10,20 +10,7 @@ tags: []
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '1'
-  _yoast_wpseo_focuskw: ''
-  _yoast_wpseo_title: ''
-  _yoast_wpseo_metadesc: ''
-  _yoast_wpseo_meta-robots-noindex: '0'
-  _yoast_wpseo_meta-robots-nofollow: '0'
-  _yoast_wpseo_meta-robots-adv: none
-  _yoast_wpseo_sitemap-include: ! '-'
-  _yoast_wpseo_sitemap-prio: ! '-'
-  _yoast_wpseo_canonical: ''
-  _yoast_wpseo_redirect: ''
-  _thumbnail_id: '944'
-  _yoast_wpseo_linkdex: '0'
+permalink: /blog/code-talks-and-designers-dont-speak-the-language/930/
 ---
 <a href="http://skinnywhitegirl.com/blog/wp-content/uploads/2012/10/code-talks-600px.jpg"><img class="alignnone size-full wp-image-942" title="Why design in open source is hard" src="http://skinnywhitegirl.com/blog/wp-content/uploads/2012/10/code-talks-600px.jpg" alt="" width="600" height="341" /></a>
 

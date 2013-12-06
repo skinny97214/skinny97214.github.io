@@ -7,6 +7,7 @@ tags: []
 status: publish
 type: post
 published: true
+permalink: /blog/twitter-notification-email-spam/2222/
 meta:
   _edit_last: '1'
   tmac_last_id: '193422052156375044'

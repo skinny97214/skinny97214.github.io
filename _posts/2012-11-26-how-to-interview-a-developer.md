@@ -7,21 +7,9 @@ categories:
 - mozilla
 tags: []
 status: publish
+permalink: /blog/how-to-interview-a-developer/1002/
 type: post
 published: true
-meta:
-  _yoast_wpseo_linkdex: '0'
-  _edit_last: '1'
-  _yoast_wpseo_focuskw: ''
-  _yoast_wpseo_title: ''
-  _yoast_wpseo_metadesc: ''
-  _yoast_wpseo_meta-robots-noindex: '0'
-  _yoast_wpseo_meta-robots-nofollow: '0'
-  _yoast_wpseo_meta-robots-adv: none
-  _yoast_wpseo_sitemap-include: ! '-'
-  _yoast_wpseo_sitemap-prio: ! '-'
-  _yoast_wpseo_canonical: ''
-  _yoast_wpseo_redirect: ''
 ---
 I'm in the fortunate position of interviewing developers for the <a title="Code Talks and Designers Don’t Speak the Language" href="http://identity.mozilla.com/" target="_blank">Identity team</a> at Mozilla. I'm not sure how common it is for a designer to interview a developer, but that's how we do. I <a title="twitter status" href="https://twitter.com/skinny/status/266233924286550016">queried Twitter</a> "Designers: When interviewing a developer for your team, what are your best questions for finding out if you'll work well together?" Here are the excellent responses.
 

@@ -7,35 +7,21 @@ tags: []
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '1'
-  _yoast_wpseo_focuskw: ''
-  _yoast_wpseo_title: ''
-  _yoast_wpseo_metadesc: ''
-  _yoast_wpseo_meta-robots-noindex: '0'
-  _yoast_wpseo_meta-robots-nofollow: '0'
-  _yoast_wpseo_meta-robots-adv: none
-  _yoast_wpseo_sitemap-include: ! '-'
-  _yoast_wpseo_sitemap-prio: ! '-'
-  _yoast_wpseo_canonical: ''
-  _yoast_wpseo_redirect: ''
-  _thumbnail_id: '920'
-  tmac_last_id: '193422006899843078'
-  _yoast_wpseo_linkdex: '0'
+permalink: /blog/top-sites-agree-required-login-is-whac/824/
 ---
 <a href="http://skinnywhitegirl.com/blog/wp-content/uploads/2012/02/login_cookies.png"><img src="http://skinnywhitegirl.com/blog/wp-content/uploads/2012/02/login_cookies.png" alt="" title="require login cookies " width="308" height="283" class="alignnone size-full wp-image-915" /></a>
 
 I've been <a href="http://skinnywhitegirl.com/blog/how-people-think-facebook-connect-login-logout-work/861/" title="How People *Think* Facebook Connect Log‑in and Log‑out Work">thinking about log-in</a> <a href="http://skinnywhitegirl.com/blog/password-strength-bank-simple/788/" title="Simple: Getting users to pick strong, memorable passwords">a lot lately</a>. Yesterday it occurred to me to see what sites across the web were doing about it. Do they require log-in? Sure, almost all of these have user accounts, but can you use the core functionality of the site without one? The results were overwhelming, 87 of the top 100 US sites by traffic are useful without a log-in.
 
-Let's talk about the outliers. What can be so valuable that they can put a locked door in front of the users? 
+Let's talk about the outliers. What can be so valuable that they can put a locked door in front of the users?
 
-Banking is not a surprise. They don't hand off their log-in to a third party like Facebook Connect because security and privacy are the paramount concern. Banks already have a brick-and-mortar relationship with the customer that they extend in the online space. 
+Banking is not a surprise. They don't hand off their log-in to a third party like Facebook Connect because security and privacy are the paramount concern. Banks already have a brick-and-mortar relationship with the customer that they extend in the online space.
 
-All of the site below started as online-only concerns, so they didn't have that advantage. 
+All of the site below started as online-only concerns, so they didn't have that advantage.
 
 Facebook, Twitter and a pair of dating sites make up the next category. These things are inextricably tied to your identity. It makes sense that you can't participate in these sites without logging in, as it would destroy the whole fabric of what they are.
 
-In the media category we have Netflix and Pandora. I should note that Hulu is in the no log-in required club, and they are challenging Netflix's business model. All of Pandora's direct competitors seem to require log-in. All I can surmise is, people really want this content and DRM is a bitch. 
+In the media category we have Netflix and Pandora. I should note that Hulu is in the no log-in required club, and they are challenging Netflix's business model. All of Pandora's direct competitors seem to require log-in. All I can surmise is, people really want this content and DRM is a bitch.
 
 Let's back up and talk about Twitter for one more second. I put Twitter in the category of log-in required, but it's not that black and white. The majority of users reading Twitter do have an account, but you actually can get started with the site by following celebrities. They increased their sign-ups by 29% when they redesigned their sign-up forms with principles of <a href="http://www.lukew.com/ff/entry.asp?1128" title="Gradual Engagement Boosts Twitter Sign-Ups by 29%">gradual engagement</a>.
 

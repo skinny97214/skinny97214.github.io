@@ -7,6 +7,7 @@ categories:
 tags: []
 status: publish
 type: post
+permalink: /blog/ux-of-a-wine-glass-2/1021/
 published: true
 meta:
   _edit_last: '1'
