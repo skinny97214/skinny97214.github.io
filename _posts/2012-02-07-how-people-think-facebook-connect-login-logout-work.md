@@ -7,22 +7,6 @@ tags: []
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '1'
-  _yoast_wpseo_focuskw: ''
-  _yoast_wpseo_title: ''
-  _yoast_wpseo_metadesc: ''
-  _yoast_wpseo_meta-robots-noindex: '0'
-  _yoast_wpseo_meta-robots-nofollow: '0'
-  _yoast_wpseo_meta-robots-adv: none
-  _yoast_wpseo_sitemap-include: ! '-'
-  _yoast_wpseo_sitemap-prio: ! '-'
-  _yoast_wpseo_canonical: ''
-  _yoast_wpseo_redirect: ''
-  _thumbnail_id: '903'
-  enclosure: ! "http://dc2.usertesting.com/videos/255685-1.mp4\r\n531062\r\nvideo/mp4\r\n"
-  tmac_last_id: '193422018102837252'
-  _yoast_wpseo_linkdex: '0'
 ---
 <a href="http://skinnywhitegirl.com/blog/wp-content/uploads/2012/02/facebook-connect1.png"><img class="alignnone size-large wp-image-888" title="facebook-connect-login" src="http://skinnywhitegirl.com/blog/wp-content/uploads/2012/02/facebook-connect1-600x113.png" alt="" width="600" height="113" /></a>
 

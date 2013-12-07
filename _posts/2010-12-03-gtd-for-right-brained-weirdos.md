@@ -7,11 +7,8 @@ tags: []
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '1'
-  tmac_last_id: '193422040974364677'
 ---
-One of my coworkers at Cheezburger asked me to post pics of my GTD, Getting Things Done, system. I put my to do's up on the wall next to my desk. I'm a visual person, so having tasks on paper where I can see it at all times is a winner. I've used digital task management tools such as <a href="http://hiveminder.com">hiveminder.com</a> and <a href="http://teuxdeux.com">teuxdeux.com</a> but I do best with paper systems. 
+One of my coworkers at Cheezburger asked me to post pics of my GTD, Getting Things Done, system. I put my to do's up on the wall next to my desk. I'm a visual person, so having tasks on paper where I can see it at all times is a winner. I've used digital task management tools such as <a href="http://hiveminder.com">hiveminder.com</a> and <a href="http://teuxdeux.com">teuxdeux.com</a> but I do best with paper systems.
 
 Each task is written up as the next actionable task. There's a row for things to do today, a row for tomorrow, this week, and this month. I change marker colors each week so I can tell what tasks are really old.
 

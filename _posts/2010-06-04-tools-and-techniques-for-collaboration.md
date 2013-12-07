@@ -9,9 +9,6 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '1'
-  tmac_last_id: '193422040974364677'
 ---
 Now that I'm working remotely at my fake job at Cheezburger Network, I've been thinking a lot about tools for collaboration. What works? The tools so radically shape the interaction that I'm taking a studied approach to who/when/why to use each. Here's a little graph of some common tools. It's no surprise, the lower the effort, the lower the reward. The cost of contacting has to be factored into the decision of which tool to use to contact someone.
 

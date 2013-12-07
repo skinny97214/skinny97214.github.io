@@ -7,20 +7,6 @@ tags: []
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '1'
-  _wp_old_slug: ''
-  tmac_last_id: '193422018111225859'
-  _thumbnail_id: '575'
-  _yoast_wpseo_focuskw: ''
-  _yoast_wpseo_title: ''
-  _yoast_wpseo_metadesc: ''
-  _yoast_wpseo_meta-robots-noindex: '0'
-  _yoast_wpseo_meta-robots-nofollow: '0'
-  _yoast_wpseo_meta-robots-adv: none
-  _yoast_wpseo_canonical: ''
-  _yoast_wpseo_redirect: ''
-  _yoast_wpseo_linkdex: '0'
 ---
 [caption id="attachment_575" align="aligncenter" width="580" caption="Illustration by amateur on Creative Collective"]<a href="http://skinnywhitegirl.com/blog/wp-content/uploads/2011/06/moz-fox.jpg"><img src="http://skinnywhitegirl.com/blog/wp-content/uploads/2011/06/moz-fox.jpg" alt="" title="Mozilla Creative Collective by amateur" width="580" height="580" class="size-full wp-image-575" /></a>[/caption]
 

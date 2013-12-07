@@ -6,6 +6,5 @@ tags: []
 status: draft
 type: post
 published: false
-permalink: /blog/lou-rosenfeld-redesign-must-die/928/
 ---
 

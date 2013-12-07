@@ -9,9 +9,6 @@ tags: []
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '1'
-  tmac_last_id: '193422040974364677'
 ---
 The media has been good to me. Here's a round-up of the love fest:
 

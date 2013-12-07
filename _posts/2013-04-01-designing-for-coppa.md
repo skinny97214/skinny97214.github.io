@@ -9,7 +9,6 @@ tags: []
 status: publish
 type: post
 published: true
-permalink: /blog/designing-for-coppa/1033/
 meta:
   _edit_last: '1'
   _thumbnail_id: '1042'

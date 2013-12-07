@@ -7,7 +7,6 @@ categories:
 tags: []
 status: publish
 type: post
-permalink: /blog/my-one-third-life-crisis/1058/
 published: true
 ---
 Today is my one-third life birthday. I'm 33 and 1/3 years old. I have a lot of great stories from this first chunk. So what's next?

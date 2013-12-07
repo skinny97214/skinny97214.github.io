@@ -10,21 +10,6 @@ tags: []
 status: publish
 type: post
 published: true
-meta:
-  tmac_last_id: '193422018102837252'
-  _edit_last: '1'
-  _yoast_wpseo_focuskw: ''
-  _yoast_wpseo_title: ''
-  _yoast_wpseo_metadesc: ''
-  _yoast_wpseo_meta-robots-noindex: '0'
-  _yoast_wpseo_meta-robots-nofollow: '0'
-  _yoast_wpseo_meta-robots-adv: none
-  _yoast_wpseo_sitemap-include: ! '-'
-  _yoast_wpseo_sitemap-prio: ! '-'
-  _yoast_wpseo_canonical: ''
-  _yoast_wpseo_redirect: ''
-  _thumbnail_id: '721'
-  _yoast_wpseo_linkdex: '0'
 ---
 &nbsp;
 

@@ -8,21 +8,6 @@ tags: []
 status: draft
 type: post
 published: false
-meta:
-  _edit_last: '1'
-  _yoast_wpseo_focuskw: ''
-  _yoast_wpseo_title: ! 'Log-in that doesn''t suck: Can single sign-on finally deliver?'
-  _yoast_wpseo_metadesc: ! 'Kiss password buh-bye? Tasked with the challenge of reinventing
-    a core paradigm of the internet, I take a deep sigh. '
-  _yoast_wpseo_meta-robots-noindex: '0'
-  _yoast_wpseo_meta-robots-nofollow: '0'
-  _yoast_wpseo_meta-robots-adv: none
-  _yoast_wpseo_sitemap-include: ! '-'
-  _yoast_wpseo_sitemap-prio: ! '-'
-  _yoast_wpseo_canonical: ''
-  _yoast_wpseo_redirect: ''
-  _thumbnail_id: '698'
-  _yoast_wpseo_linkdex: '0'
 ---
 <a href="http://skinnywhitegirl.com/blog/wp-content/uploads/2011/11/Screen-shot-2011-11-16-at-4.49.05-PM.png"><img class="alignleft size-large wp-image-677" title="Screen shot 2011-11-16 at 4.49.05 PM" src="http://skinnywhitegirl.com/blog/wp-content/uploads/2011/11/Screen-shot-2011-11-16-at-4.49.05-PM-600x204.png" alt="" width="600" height="204" /></a>
 
@@ -46,8 +31,8 @@ This isn't a sign-on provider. It's a meta chooser that supports OpenID,SAML, OA
 <a href="http://skinnywhitegirl.com/blog/wp-content/uploads/2011/11/analysis-identity-providers.jpg"><img src="http://skinnywhitegirl.com/blog/wp-content/uploads/2011/11/analysis-identity-providers.jpg" alt="existing userbase versus UI problems with remembering which signup method" title="analysis-identity-providers" width="600" height="400" class="alignleft size-full wp-image-689" /></a>
 Facebook has the massive userbase but concerns about a profit-driven company owning your access to accounts and problems when users go to a site of knowing how they signed up. OpenID has neither users nor convenient UI. BrowserID will automate keeping track of which email you used to sign up for which sites, but it doesn't have the userbase. It's a problem I'm happy to be digging my teeth into.
 
-Further reading: 
+Further reading:
 
-Ben Adida's <a href="http://blog.webfwd.org/post/12829575514/id-log-in-but-i-lost-my-post-it-with-all-my-password" title="    I’d log in, but I lost my post-it with all my password info…">I’d log in, but I lost my post-it with all my password info…</a> 
+Ben Adida's <a href="http://blog.webfwd.org/post/12829575514/id-log-in-but-i-lost-my-post-it-with-all-my-password" title="    I’d log in, but I lost my post-it with all my password info…">I’d log in, but I lost my post-it with all my password info…</a>
 
 Luke Wroblewski's <a href="http://uxdesign.smashingmagazine.com/2011/08/22/new-approaches-to-designing-login-forms/">New Approaches to Designing Log-in Forms</a>

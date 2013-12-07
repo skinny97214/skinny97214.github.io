@@ -9,22 +9,6 @@ tags: []
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '1'
-  _thumbnail_id: '637'
-  _yoast_wpseo_focuskw: project rooms creativity
-  _yoast_wpseo_title: ! 'Spaces shape creativity: Ziba project rooms - crystal beasley'
-  _yoast_wpseo_metadesc: ! 'Ziba''s space was organized around the idea that the most
-    creative work is done when you get people out from  their desks into a big room. '
-  _yoast_wpseo_meta-robots-noindex: '0'
-  _yoast_wpseo_meta-robots-nofollow: '0'
-  _yoast_wpseo_meta-robots-adv: none
-  _yoast_wpseo_sitemap-include: ! '-'
-  _yoast_wpseo_sitemap-prio: ! '-'
-  _yoast_wpseo_canonical: ''
-  _yoast_wpseo_redirect: ''
-  tmac_last_id: '193422018102837252'
-  _yoast_wpseo_linkdex: '64'
 ---
 I visited <a title="ziba industrial design agency" href="http://ziba.com">Ziba</a> on a sunny, crisp fall day. (Yes, we do have them at least once a decade here in Portland.) One of their talented creative directors, Kai Halsinger, was generous enough to show me around the studio and talk about what makes it all work. Specifically on my mind was how their physical space influence the work they do. This building was carefully considered to support their creative process.
 

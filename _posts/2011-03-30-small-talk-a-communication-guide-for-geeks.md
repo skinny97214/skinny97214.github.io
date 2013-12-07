@@ -8,11 +8,6 @@ tags: []
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '1'
-  _wp_old_slug: ''
-  tmac_last_id: '193422026797617154'
-  _thumbnail_id: '344'
 ---
 <img src="http://skinnywhitegirl.com/blog/wp-content/uploads/2011/03/communication-protocols1.jpg" alt="" title="communication-protocols" width="410" height="403" class="aligncenter size-full wp-image-344" />
 
@@ -22,7 +17,7 @@ Depending on the mindset of whomever you ask, small talk is either the foundatio
 
 You can see this reluctance to jump into a conversation without small talk by listening to a radio call in show. When a caller is put on air, it takes them a second to collect themselves and launch into their thought. They often want to go through the usual rituals of starting a conversation, saying hello and complimenting the host. Even though the handlers have coached guests to get straight to the point, the hosts often have to prompt the guest again with "what's your question." The pressure is on to be as efficient in communication as possible, but most people fail because we're socialized to preface our conversations.
 
-The most efficient from the point of view of not using small talk are toddlers. They blurt out their requests without regard to whether the caregiver is listening or not. Through patient effort, they are socialized to request an audience first. This has its own difficult stage as the toddler repeats that request "mommy, mommy, mommy..." ad nauseum. 
+The most efficient from the point of view of not using small talk are toddlers. They blurt out their requests without regard to whether the caregiver is listening or not. Through patient effort, they are socialized to request an audience first. This has its own difficult stage as the toddler repeats that request "mommy, mommy, mommy..." ad nauseum.
 
 Fortunately we (mostly) all make it past these stages with proper adult manners to first request someone's attention. Their response allows us judge the person's mood and level of engagement so we may adjust our communication style.
 

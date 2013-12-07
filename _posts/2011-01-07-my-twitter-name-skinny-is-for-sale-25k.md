@@ -7,10 +7,6 @@ tags: []
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '1'
-  _wp_old_slug: ''
-  tmac_last_id: '193422026797617154'
 ---
 Since I've had a few inquiries, I'm officially putting up my twitter username, <a href="http://twitter.com/skinny">@skinny</a>, up for sale. It's a certified, one-owner name in like-new condition. The first $25,000 cashier check or cash takes it.
 

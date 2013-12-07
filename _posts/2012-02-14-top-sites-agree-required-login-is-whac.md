@@ -7,7 +7,6 @@ tags: []
 status: publish
 type: post
 published: true
-permalink: /blog/top-sites-agree-required-login-is-whac/824/
 ---
 <a href="http://skinnywhitegirl.com/blog/wp-content/uploads/2012/02/login_cookies.png"><img src="http://skinnywhitegirl.com/blog/wp-content/uploads/2012/02/login_cookies.png" alt="" title="require login cookies " width="308" height="283" class="alignnone size-full wp-image-915" /></a>
 

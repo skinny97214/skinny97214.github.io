@@ -7,21 +7,6 @@ tags: []
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '1'
-  _yoast_wpseo_focuskw: ''
-  _yoast_wpseo_title: ''
-  _yoast_wpseo_metadesc: ''
-  _yoast_wpseo_meta-robots-noindex: '0'
-  _yoast_wpseo_meta-robots-nofollow: '0'
-  _yoast_wpseo_meta-robots-adv: none
-  _yoast_wpseo_sitemap-include: ! '-'
-  _yoast_wpseo_sitemap-prio: ! '-'
-  _yoast_wpseo_canonical: ''
-  _yoast_wpseo_redirect: ''
-  tmac_last_id: '193422018102837252'
-  _thumbnail_id: '925'
-  _yoast_wpseo_linkdex: '0'
 ---
 <div style="width:610px" id="__ss_11180207"><strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/skinnywhitegirl/13-signs-your-ux-needs-an-exorcism" title="13 Signs Your UX Needs an Exorcism">13 Signs Your UX Needs an Exorcism</a></strong><object id="__sse11180207" width="610" height="514"><param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=13-signs-ux-exorcism-ss-120120132124-phpapp01&stripped_title=13-signs-your-ux-needs-an-exorcism&userName=skinnywhitegirl" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><param name="wmode" value="transparent"/><embed name="__sse11180207" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=13-signs-ux-exorcism-ss-120120132124-phpapp01&stripped_title=13-signs-your-ux-needs-an-exorcism&userName=skinnywhitegirl" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" wmode="transparent" width="610" height="514"></embed></object><div style="padding:5px 0 12px">View more <a href="http://www.slideshare.net/">presentations</a> from <a href="http://www.slideshare.net/skinnywhitegirl">Crystal Beasley</a>.</div></div>
 

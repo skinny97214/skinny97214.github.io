@@ -8,9 +8,6 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '1'
-  tmac_last_id: '193422040974364677'
 ---
 <img src="http://skinnywhitegirl.com/blog/wp-content/uploads/2010/05/screen-shot-2010-05-28-at-21656-pm.png" alt="screen-shot-2010-05-28-at-21656-pm" title="screen-shot-2010-05-28-at-21656-pm" width="155" height="138" class="alignleft size-full wp-image-56" />If I haven't already gone swoony-eyed over the dating site, <a href="http://okcupid.com">okcupid.com</a> in front of you, just give me time. I love them not only because I meet my Mr. Smoochy there, but because they do in such a damn geeky smart way. The latest: MyBestFace. It lets you upload several pictures of yourself and be rated on which one makes you the most attractive to the target market. You guessed it, it's an amazing experience.
 
@@ -31,7 +28,7 @@ This morning, I awoke to find a freshly pressed report waiting on me. The result
 
 <h3>So why should you care about some dating site? </h3>
 
-They're doing it right. They know who their core audience is and what their concerns are. They're providing amazingly compelling experiences. I've kept my account up just so I can keep playing with their cool tools! 
+They're doing it right. They know who their core audience is and what their concerns are. They're providing amazingly compelling experiences. I've kept my account up just so I can keep playing with their cool tools!
 
 + Provide a tool that gives your users value that <strong>gets to the core</strong> of what you're doing.
 + <strong>Pay to play</strong>: They require you to rate users to get your report.

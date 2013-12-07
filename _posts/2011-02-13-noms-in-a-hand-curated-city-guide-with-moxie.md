@@ -7,10 +7,6 @@ tags: []
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '1'
-  _wp_old_slug: ''
-  tmac_last_id: '193422026797617154'
 ---
 <a href="http://noms.in"><img src="http://skinnywhitegirl.com/blog/wp-content/uploads/2011/02/Screen-shot-2011-02-13-at-1.32.53-PM-410x418.png" alt="" title="noms.in, a hand-curated city guide with moxie" width="410" height="418" class="aligncenter size-medium wp-image-292" /></a>
 

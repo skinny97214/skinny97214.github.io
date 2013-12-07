@@ -9,10 +9,6 @@ tags: []
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '1'
-  _wp_old_slug: ''
-  tmac_last_id: '193422026797617154'
 ---
 <a href="http://twitter.com/sxswcrush"><img src="http://skinnywhitegirl.com/blog/wp-content/uploads/2011/02/sxswcrush-logo-410x142.png" alt="" title="sxswcrush-logo" width="410" height="142" class="aligncenter size-medium wp-image-302" /></a>
 

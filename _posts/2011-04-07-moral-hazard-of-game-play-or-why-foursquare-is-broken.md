@@ -8,10 +8,6 @@ tags: []
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '1'
-  _wp_old_slug: ''
-  tmac_last_id: '193422026797617154'
 ---
 <a href="http://www.flickr.com/photos/scarletoak/4659606921/"><img alt="Iron Cactus SXSWi 2010" src="http://farm5.static.flickr.com/4012/4659606921_6890e1c168.jpg" class="alignnone" width="410" height="307" /></a>
 
@@ -21,7 +17,7 @@ Down this road lies the problem. Foursquare incentivizes you to check into place
 
 The game layer is added to keep Foursquare interesting for the other 360 days a year for those of use who don't live in NYC or SF. You're essentially playing a game with a leaderboard of friends. I could care less about this and only use Foursquare at SXSWi. The thing is, the point are the only value for most people, in most cities, most of the time.
 
-The <b>BIG PROBLEM</b> is that there are people who are playing Foursquare at SXSWi like it's only for the game layer. They're checking in for points. I don't play this way. I don't give a fig about points. My assumption is you check into a venue if you want people to come find you and hang out. This is the only reason I check in ever. 
+The <b>BIG PROBLEM</b> is that there are people who are playing Foursquare at SXSWi like it's only for the game layer. They're checking in for points. I don't play this way. I don't give a fig about points. My assumption is you check into a venue if you want people to come find you and hang out. This is the only reason I check in ever.
 
 This difference of expectations led to a small faux pas. My NYC buddy (who shall not be named) checked in at the Iron Cactus. I was hoping to see him while I was in Austin, so I tracked him down. Unfortunately, he was in the middle of a serious business conversation and couldn't really be interrupted. He had checking in for the points, not because he wanted that serendipitous connection to happen.
 

@@ -7,9 +7,6 @@ tags: []
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '1'
-  tmac_last_id: '193422040974364678'
 ---
 As a freelancer, I'm running rather lean when it comes to insurance. I barely have health insurance, much less vision insurance. I'm sadly disillusioned when it comes to Yelp's icky business practices and besides, there are only five optometrists listed in all of Portland. So what's a girl to do? Consult twitter for recommendations and call them up to do an old fashioned cost comparison. What I found was a big variation in the way doctors package up and price their services.
 

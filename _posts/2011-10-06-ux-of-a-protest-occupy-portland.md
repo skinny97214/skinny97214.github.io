@@ -8,22 +8,6 @@ tags: []
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '1'
-  _thumbnail_id: '611'
-  _yoast_wpseo_focuskw: occupy portland
-  _yoast_wpseo_title: ''
-  _yoast_wpseo_metadesc: ! 'There aren''t too many things more viscerally experienced
-    than a protest. It''s got all the right components: big crowds, a common purpose '
-  _yoast_wpseo_meta-robots-noindex: '0'
-  _yoast_wpseo_meta-robots-nofollow: '0'
-  _yoast_wpseo_meta-robots-adv: none
-  _yoast_wpseo_sitemap-include: ! '-'
-  _yoast_wpseo_sitemap-prio: ! '-'
-  _yoast_wpseo_canonical: ''
-  _yoast_wpseo_redirect: ''
-  tmac_last_id: '193422018102837252'
-  _yoast_wpseo_linkdex: '84'
 ---
 <a href="http://skinnywhitegirl.com/blog/wp-content/uploads/2011/10/occupy-portland-pioneer-square.jpg"><img class="alignleft size-large wp-image-611" title="occupy-portland-pioneer-square" src="http://skinnywhitegirl.com/blog/wp-content/uploads/2011/10/occupy-portland-pioneer-square-600x440.jpg" alt="Occupy Portland : Pioneer Courhouse Square" width="600" height="440" /></a>
 

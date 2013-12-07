@@ -7,10 +7,6 @@ tags: []
 status: publish
 type: post
 published: true
-permalink: /blog/twitter-notification-email-spam/2222/
-meta:
-  _edit_last: '1'
-  tmac_last_id: '193422052156375044'
 ---
 
 If you are like me, you've been hammered with so many "SomeUser is now following you on Twitter!" emails that you just can't be bothered to care anymore. At SXSW, I declared new follower bankruptcy and simply deleted all of the emails. It's a shame, though, because I'm sure I'm missing friends, both new and old.

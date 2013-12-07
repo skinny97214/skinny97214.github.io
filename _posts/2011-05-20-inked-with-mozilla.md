@@ -8,16 +8,12 @@ tags: []
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '1'
-  _wp_old_slug: ''
-  tmac_last_id: '193422026797617154'
 ---
 <img src="http://skinnywhitegirl.com/blog/wp-content/uploads/2011/05/mozilla-contract-signing.gif" alt="mozilla contract signing" title="mozilla-contract-signing" width="410" height="306" class="aligncenter size-full wp-image-378" />
 
-Hooray! I just inked a contract with Mozilla to come on as a full-time UX Designer. I'll be working on external stuff like campaign sites and internal tools like crash reporter. I start June 13th. 
+Hooray! I just inked a contract with Mozilla to come on as a full-time UX Designer. I'll be working on external stuff like campaign sites and internal tools like crash reporter. I start June 13th.
 
-The whole 35 person Web UX team is flying up to Portland the week after to meet me. Ok, not really. They're coming for <a href="http://opensourcebridge.org/">OSBridge</a>. Several Mozillans have talks: 
+The whole 35 person Web UX team is flying up to Portland the week after to meet me. Ok, not really. They're coming for <a href="http://opensourcebridge.org/">OSBridge</a>. Several Mozillans have talks:
 
 <ul>
 <li>Ryan Snyder: <a href="http://opensourcebridge.org/sessions/622">Pulling the Plug</a></li>

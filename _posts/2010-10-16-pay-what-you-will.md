@@ -9,18 +9,6 @@ tags: []
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '1'
-  tmac_last_id: '193422040974364677'
-  _yoast_wpseo_title: ''
-  _yoast_wpseo_metadesc: ''
-  _yoast_wpseo_focuskw: ''
-  _thumbnail_id: '199'
-  _yoast_wpseo_meta-robots-noindex: '0'
-  _yoast_wpseo_meta-robots-nofollow: '0'
-  _yoast_wpseo_meta-robots-adv: none
-  _yoast_wpseo_canonical: ''
-  _yoast_wpseo_redirect: ''
 ---
 <a href="http://skinnywhitegirl.com/blog/wp-content/uploads/2010/10/chalkboard.jpg"><img src="http://skinnywhitegirl.com/blog/wp-content/uploads/2010/10/chalkboard-600x450.jpg" alt="" title="chalkboard" width="600" height="450" class="aligncenter size-large wp-image-199" /></a>
 
@@ -30,11 +18,11 @@ The next week I also let people pay however much they would like, but this time 
 
 The third week I repeated the same envelope experiment. This time I had customers report the number of slices on the outside of the envelope. Also, I explained to each person that all proceeds of the cart for this day would benefit The <a href="http://nationalmall.org">Trust for the National Mall</a> in Washington, DC. I wanted to see if this would raise the median amount per person.
 
-Why this nonprofit? It is the recommended charity for the <a href="http://rallytorestoresanity.com">Rally to Restore Sanity</a> coming up in two weeks which I am lucky enough to be attending. It seemed like a good choice because it is a politically neutral charity that presumably is acceptable to a large majority of people. 
+Why this nonprofit? It is the recommended charity for the <a href="http://rallytorestoresanity.com">Rally to Restore Sanity</a> coming up in two weeks which I am lucky enough to be attending. It seemed like a good choice because it is a politically neutral charity that presumably is acceptable to a large majority of people.
 
 Side note: The two weeks of envelope experiments had a super wonderful side effect of me not touching the money very much. I only needed to break bills for a handful of folks. This allowed me to not have to switch back and forth between needing clean hands to cut pie and then handling money. I could ditch the plastic gloves. Yay! It also dramatically speeded the transaction, definitely a good thing since I've had mad long lines lately.
 
-Results, already! 
+Results, already!
 
 <strong>First week: payment is public</strong>
 <style type="text/css">

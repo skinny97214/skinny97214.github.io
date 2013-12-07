@@ -7,7 +7,6 @@ categories:
 - mozilla
 tags: []
 status: publish
-permalink: /blog/how-to-interview-a-developer/1002/
 type: post
 published: true
 ---

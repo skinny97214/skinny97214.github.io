@@ -7,20 +7,6 @@ tags: []
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '1'
-  _wp_old_slug: ''
-  tmac_last_id: '193422018102837252'
-  _thumbnail_id: '577'
-  _yoast_wpseo_focuskw: ''
-  _yoast_wpseo_title: ''
-  _yoast_wpseo_metadesc: ''
-  _yoast_wpseo_meta-robots-noindex: '0'
-  _yoast_wpseo_meta-robots-nofollow: '0'
-  _yoast_wpseo_meta-robots-adv: none
-  _yoast_wpseo_canonical: ''
-  _yoast_wpseo_redirect: ''
-  _yoast_wpseo_linkdex: '0'
 ---
 [caption id="attachment_577" align="aligncenter" width="500" caption="Photo by Jim Fruchterman, distributed under creative commons license"]<a href="http://skinnywhitegirl.com/blog/wp-content/uploads/2011/08/diplomatic-communication.jpg"><img src="http://skinnywhitegirl.com/blog/wp-content/uploads/2011/08/diplomatic-communication.jpg" alt="" title="diplomatic-communication" width="500" height="333" class="size-full wp-image-577" /></a>[/caption]
 

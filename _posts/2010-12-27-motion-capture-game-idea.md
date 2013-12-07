@@ -8,9 +8,6 @@ tags: []
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '1'
-  tmac_last_id: '193422026797617154'
 ---
 <a rel="lightbox" href="http://skinnywhitegirl.com/blog/wp-content/uploads/2010/12/motion-capture-game1.jpg"><img src="http://skinnywhitegirl.com/blog/wp-content/uploads/2010/12/motion-capture-game1-410x305.jpg" alt="motion-capture-game1" title="motion-capture-game1" width="410" height="305" class="alignnone size-medium wp-image-230" /></a>
 
@@ -21,7 +18,7 @@ The idea is pretty simple, a motion capture game that projects a dot onto the wa
 
 Requirements: projector, motion capture camera, bouncy ball
 
-It could be marketed to 
+It could be marketed to
 + gyms as awesome cardio workout
 + in-store promo for fitness brands
 + baseball clinic

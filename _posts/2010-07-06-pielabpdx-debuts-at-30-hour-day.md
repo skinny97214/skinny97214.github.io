@@ -9,9 +9,6 @@ tags: []
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '1'
-  tmac_last_id: '193422040974364677'
 ---
 Sorry for the absence of postings lately, but I've been busy building things... physical things with molecules and stuff and not just pushing ones and zeroes around. The thing in question: a pie cart. When I tell people I'm building a pie cart I get a blank stare. They blink a few times and then say "You mean, you're building a pie cart?" I say "Yes! A pie cart! With, you know... pie! Also, ice cream and coffee!" Then I launch into explaining that it's a laboratory for behavioral experiments. That takes even longer to sink in.
 

@@ -8,7 +8,6 @@ categories:
 tags: []
 status: publish
 type: post
-permalink: /blog/people-care-about-little-p-privacy/970/
 published: true
 ---
 <a href="http://skinnywhitegirl.com/blog/wp-content/uploads/2012/10/sister-computer.jpg"><img class="size-large wp-image-971" title="sister-computer" alt="" src="http://skinnywhitegirl.com/blog/wp-content/uploads/2012/10/sister-computer-600x485.jpg" width="600" height="485" /></a>

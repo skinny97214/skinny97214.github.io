@@ -10,19 +10,6 @@ tags: []
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '1'
-  _wp_old_slug: ''
-  tmac_last_id: '193422019428237317'
-  _thumbnail_id: '585'
-  _yoast_wpseo_focuskw: ''
-  _yoast_wpseo_title: ''
-  _yoast_wpseo_metadesc: ''
-  _yoast_wpseo_meta-robots-noindex: '0'
-  _yoast_wpseo_meta-robots-nofollow: '0'
-  _yoast_wpseo_meta-robots-adv: none
-  _yoast_wpseo_canonical: ''
-  _yoast_wpseo_redirect: ''
 ---
 <a href="http://skinnywhitegirl.com/blog/wp-content/uploads/2011/05/webvisions.gif"><img src="http://skinnywhitegirl.com/blog/wp-content/uploads/2011/05/webvisions.gif" alt="" title="webvisions" width="410" height="121" class="alignleft size-full wp-image-385" /></a>
 

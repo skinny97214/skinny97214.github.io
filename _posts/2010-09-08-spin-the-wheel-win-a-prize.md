@@ -9,9 +9,6 @@ tags: []
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '1'
-  tmac_last_id: '193422040974364677'
 ---
 [caption id="attachment_143" align="aligncenter" width="410" caption="wheel of fortune"]<img src="http://skinnywhitegirl.com/blog/wp-content/uploads/2010/09/wheel_of_fortune-410x394.jpg" alt="wheel of fortune" title="wheel_of_fortune" width="410" height="394" class="size-medium wp-image-143" />[/caption]
 
@@ -21,13 +18,13 @@ For the last two weeks, I've been using the wheel to list pie flavors. Each week
 
 Two weeks ago, I gave customers the option to spin the wheel or, if they knew what they wanted, choose the flavor. This is an optional game. People didn't have to spin unless they wanted to and the only real incentive was the special free space. 34% spun the wheel.
 
-Last week, I gave them the same option to spin or choose, but this time there was a $1.00 discount if you spun the wheel. This time 50% spun. 
+Last week, I gave them the same option to spin or choose, but this time there was a $1.00 discount if you spun the wheel. This time 50% spun.
 
 <img src="http://skinnywhitegirl.com/blog/wp-content/uploads/2010/09/spin_vs_choose.gif" alt="spin_vs_choose" title="spin_vs_choose" width="410" height="435" class="aligncenter size-full wp-image-146" />
 
-These experiments need to be repeated to get a larger sample size, but early results are that most of the people who are spinning are doing so simply for the fun of it. Financial incentives certainly do sway the number of people who will take a chance but I expected the bump to be more than 15%. 
+These experiments need to be repeated to get a larger sample size, but early results are that most of the people who are spinning are doing so simply for the fun of it. Financial incentives certainly do sway the number of people who will take a chance but I expected the bump to be more than 15%.
 
-I also tracked whether the folks who chose did so because they wanted a certain flavor or to avoid an unpleasant choice. 76% were choosing to choose instead of spin because they knew what they wanted. 
+I also tracked whether the folks who chose did so because they wanted a certain flavor or to avoid an unpleasant choice. 76% were choosing to choose instead of spin because they knew what they wanted.
 
 Many people have suggested that I provide a bad flavor to see how that changes things. I think this is a valid point, but I don't know exactly how to implement. What one person sees as a bad flavor (see rhubarb, gooseberry) is the next guy's favorite. I'm mulling it over, but it is against my cooking sensibilities to make something truly awful like earwax flavor.
 

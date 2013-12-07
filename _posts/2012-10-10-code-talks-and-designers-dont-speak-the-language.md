@@ -10,7 +10,6 @@ tags: []
 status: publish
 type: post
 published: true
-permalink: /blog/code-talks-and-designers-dont-speak-the-language/930/
 ---
 <a href="http://skinnywhitegirl.com/blog/wp-content/uploads/2012/10/code-talks-600px.jpg"><img class="alignnone size-full wp-image-942" title="Why design in open source is hard" src="http://skinnywhitegirl.com/blog/wp-content/uploads/2012/10/code-talks-600px.jpg" alt="" width="600" height="341" /></a>
 
