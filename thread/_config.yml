@@ -1,7 +1,7 @@
 name: Crystal Beasley
 description: Pixels on thread
-url: http://crystalbeasley.com
-baseurl: /
+url: http://crystalbeasley.com/thread
+baseurl: /thread
 
 markdown: rdiscount
 
