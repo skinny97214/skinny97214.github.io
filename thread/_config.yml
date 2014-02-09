@@ -1,0 +1,14 @@
+name: Person and Place
+description: Stories and images from the life of Crystal Beasley
+url: http://crystalbeasley.com
+baseurl: /
+
+markdown: rdiscount
+
+permalink: /:year/:month/:day/:title
+lsi: false
+
+exclude:
+- CNAME
+- README.md
+- /scss/
