@@ -1,4 +1,4 @@
-Person and Place Dot Com
+Crystal Beasley Dot Com
 ==================
 
 This repo contains the site at [http://personandplace](http://crystalbeasley.com/) (an art and story newsletter by Crystal Beasley).
