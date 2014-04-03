@@ -1,13 +1,33 @@
 ---
 layout: default
-title: Crystal Beasley
+title: Crystal Beasley tinkers on things
 ---
+<div id="headerHome" class="hide-for-small">
+	<div class="row">
+		<div class="large-12 columns text-center">
+			
+		</div>
+	</div>
+</div> <!-- /headerHome -->
 
-<div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-</div>
+<div id="pullout">
+	<div class="row">
+		<div class="small-12 columns text-center">
+			{% for post in site.posts limit:1 %}
+			<p>Latest Post: <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></p>
+			{% endfor %}
+		</div>
+	</div>
+</div> <!-- /pullout -->
+
+
+<div id="post">
+	<div class="row">
+		<div class="large-12 columns">
+			{% for post in site.posts limit:10 %}
+			<h3><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h3>
+			{{ post.content }}
+			{% endfor %}
+		</div>
+	</div>
+</div> <!-- /post -->

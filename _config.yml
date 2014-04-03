@@ -1,7 +1,14 @@
 name: Crystal Beasley
-markdown: redcarpet
-pygments: true
-permalink: /blog/:title
-url: http://crystalbeasley.com
+description: excited and terrified, just like I like it
+url: crystalbeasley.com
+baseurl: /
+
+markdown: rdiscount
+
+permalink: /:year/:month/:day/:title
+lsi: false
+
 exclude:
 - CNAME
+- README.md
+- /scss/

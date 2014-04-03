@@ -1,9 +1,36 @@
----
-layout: default
----
-<h2>{{ page.title }}</h2>
-<p class="meta">{{ page.date | date_to_string }}</p>
+{% include header.html %}
 
-<div class="post">
-{{ content }}
-</div>
+<div id="headerPost" class="hide-for-small">
+</div> <!-- /headerPost -->
+
+<div id="post">
+	<div class="row">
+		<div class="large-12 columns">
+			<h3>{{ page.title }}</h3>
+			{{ content }}
+			<a href="{{ site.baseurl }}archive/" class="small button"><i class="icon-folder-close"></i>Archive</a> <a href="http://twitter.com/share?url={{ site.url | escape }}{{ page.url | escape }}/&text=Crystal Beasley: {{ page.title | escape }}" target="_blank" class="small button"><i class="icon-twitter"></i>Tweet</a>
+			<hr />
+			{% for tag in page.tags %}
+			  <h3 id="{{ tag }}-ref">Other posts tagged {{ tag }}</h3>
+			
+			  {% for post in site.posts reversed %}
+			
+			    {% if post.tags contains tag %}
+			      <h3><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h3>
+			      {{ post.content }}
+			    {% endif %}
+			
+			  {% endfor %}
+			
+			{% endfor %}
+			</div>
+			
+
+			<hr>
+
+
+		</div>
+	</div>
+</div> <!-- /post -->
+
+{% include footer.html %}
