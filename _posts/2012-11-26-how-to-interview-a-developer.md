@@ -14,7 +14,7 @@ I'm in the fortunate position of interviewing developers for the <a title="Code 
 
 &nbsp;
 
-<a href="http://skinnywhitegirl.com/blog/wp-content/uploads/2012/11/interviewing-devs.png"><img class="alignnone size-full wp-image-1004" title="interviewing-devs" src="http://skinnywhitegirl.com/blog/wp-content/uploads/2012/11/interviewing-devs.png" alt="twitter replies" width="511" height="1235" /></a>
+<a href="/img/interviewing-devs.png"><img class="alignnone size-full wp-image-1004" title="interviewing-devs" src="/img/interviewing-devs.png" alt="twitter replies" width="511" height="1235" /></a>
 
 &nbsp;
 

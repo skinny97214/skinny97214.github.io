@@ -10,7 +10,7 @@ status: publish
 type: post
 published: true
 ---
-<img src="http://skinnywhitegirl.com/blog/wp-content/uploads/2010/08/first_day.jpg" alt="first_day" title="first_day" width="409" height="430" class="aligncenter size-full wp-image-134" />
+<img src="/img/first_day.jpg" alt="first_day" title="first_day" width="409" height="430" class="aligncenter size-full wp-image-134" />
 
 Friday was my first day! Exclamation point! Exclamation point! Finally I was able to legally stand on the corner with my little red and pink pie stand.The first game was Rock Paper Scissors. If we roshambo and I win, I get to pick what flavor pie you get. If you win, you choose.
 

@@ -8,7 +8,7 @@ status: publish
 type: post
 published: true
 ---
-<a href="http://noms.in"><img src="http://skinnywhitegirl.com/blog/wp-content/uploads/2011/02/Screen-shot-2011-02-13-at-1.32.53-PM-410x418.png" alt="" title="noms.in, a hand-curated city guide with moxie" width="410" height="418" class="aligncenter size-medium wp-image-292" /></a>
+<a href="http://noms.in"><img src="/img/Screen-shot-2011-02-13-at-1.32.53-PM.png" alt="" title="noms.in, a hand-curated city guide with moxie" width="410" height="418" class="aligncenter size-medium wp-image-292" /></a>
 
 <a href="http://twitter.com/ryansnyder">Ryan Snyder</a> and <a href="http://twitter.com/autonome">Dietrich Ayala</a>, both devs at Mozilla, and I put together a city curation site, <a href="http://noms.in">noms.in</a>. Basically, the idea is that you're in a city, say St. Louis, for a conference or wedding or somesuch. What you really wish is that you had a college buddy that's awesome that can show you the magic of the city. Unfortunately, you know no one. Instead of spending a couple days sorting through Yelp, you can get a curated list of the top 6 to 10 spots with us.
 

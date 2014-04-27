@@ -12,7 +12,7 @@ published: true
 ---
 Now that I'm working remotely at my fake job at Cheezburger Network, I've been thinking a lot about tools for collaboration. What works? The tools so radically shape the interaction that I'm taking a studied approach to who/when/why to use each. Here's a little graph of some common tools. It's no surprise, the lower the effort, the lower the reward. The cost of contacting has to be factored into the decision of which tool to use to contact someone.
 
-<img src="http://skinnywhitegirl.com/blog/wp-content/uploads/2010/06/collaboration_tools2.gif" alt="collaboration_tools2" title="collaboration_tools2" width="410" height="410" class="aligncenter size-full wp-image-76" />
+<img src="/img/collaboration_tools2.gif" alt="collaboration_tools2" title="collaboration_tools2" width="410" height="410" class="aligncenter size-full wp-image-76" />
 
 Why aren't sites like BaseCamp, PivotalTracker or Google Buzz (just kidding)  on this grid? Honestly, because I don't know quite where they fall on the grid. They usually rely on hooks into email to notify of change. Also, because I've yet to work at a place that uses it and is completely happy with their system.
 

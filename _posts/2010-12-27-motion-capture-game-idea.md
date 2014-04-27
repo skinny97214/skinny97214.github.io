@@ -9,7 +9,7 @@ status: publish
 type: post
 published: true
 ---
-<a rel="lightbox" href="http://skinnywhitegirl.com/blog/wp-content/uploads/2010/12/motion-capture-game1.jpg"><img src="http://skinnywhitegirl.com/blog/wp-content/uploads/2010/12/motion-capture-game1-410x305.jpg" alt="motion-capture-game1" title="motion-capture-game1" width="410" height="305" class="alignnone size-medium wp-image-230" /></a>
+<a rel="lightbox" href="/img/motion-capture-game1.jpg"><img src="/img/motion-capture-game1.jpg" alt="motion-capture-game1" title="motion-capture-game1" width="410" height="305" class="alignnone size-medium wp-image-230" /></a>
 
 
 What do you do with ideas that aren't really in your area of expertise? I'm going to blog it and see what happens.

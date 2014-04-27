@@ -9,7 +9,7 @@ status: publish
 type: post
 published: true
 ---
-<img src="http://skinnywhitegirl.com/blog/wp-content/uploads/2011/05/mozilla-contract-signing.gif" alt="mozilla contract signing" title="mozilla-contract-signing" width="410" height="306" class="aligncenter size-full wp-image-378" />
+<img src="/img/mozilla-contract-signing.gif" alt="mozilla contract signing" title="mozilla-contract-signing" width="410" height="306" class="aligncenter size-full wp-image-378" />
 
 Hooray! I just inked a contract with Mozilla to come on as a full-time UX Designer. I'll be working on external stuff like campaign sites and internal tools like crash reporter. I start June 13th.
 

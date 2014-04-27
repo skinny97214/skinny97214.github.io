@@ -8,13 +8,13 @@ status: publish
 type: post
 published: true
 ---
-<a href="http://skinnywhitegirl.com/blog/wp-content/uploads/2011/08/amazon-comic.jpg"><img src="http://skinnywhitegirl.com/blog/wp-content/uploads/2011/08/amazon-comic-600x261.jpg" alt="persistent login from amazon ux" title="amazon-login-ux" width="600" height="261" class="alignleft size-large wp-image-472" /></a>
+<a href="/img/amazon-comic.jpg"><img src="/img/amazon-comic.jpg" alt="persistent login from amazon ux" title="amazon-login-ux" width="600" height="261" class="alignleft size-large wp-image-472" /></a>
 
 Login persistence has to be one of my top three UX annoyances. I see it everywhere, on tons of sites, big and small. Login friction is a huge problem and yet so many get it wrong.
 
 I have a couple of theories about why this is. Login persistence seems like a minor issue and it's never URGENT so it never makes it up to the top of the list to get fixed. Also, there's no real upside for a developer in reducing security. Setting the login cookie to expire in a year or never means someone *could* impersonate a user on a shared and/or public computer. OH NOES! They could add tons of comments to your TPR report generator site in someone else's name! OH THE HORROR!
 
-<img src="http://skinnywhitegirl.com/blog/wp-content/uploads/2011/08/remember-me-410x180.jpg" alt="checkbox login openid" title="remember-me" width="410" height="180" class="aligncenter size-medium wp-image-456" />
+<img src="/img/remember-me.jpg" alt="checkbox login openid" title="remember-me" width="410" height="180" class="aligncenter size-medium wp-image-456" />
 
 To add insult to injury is that damnable little "remember me" checkbox. Does it ever do anything? I'd like it if when I checked the box it would make the developer rip a really big windy at that moment. I digress... People are sad when you forget them. ALWAYS REMEMBER PEOPLE.
 

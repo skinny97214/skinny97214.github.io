@@ -10,7 +10,7 @@ status: publish
 type: post
 published: true
 ---
-<a href="http://skinnywhitegirl.com/blog/wp-content/uploads/2010/10/chalkboard.jpg"><img src="http://skinnywhitegirl.com/blog/wp-content/uploads/2010/10/chalkboard-600x450.jpg" alt="" title="chalkboard" width="600" height="450" class="aligncenter size-large wp-image-199" /></a>
+<a href="/img/chalkboard.jpg"><img src="/img/chalkboard.jpg" alt="" title="chalkboard" width="600" height="450" class="aligncenter size-large wp-image-199" /></a>
 
 The past three weeks I've been playing some variation on letting people pay whatever they want to. The first week I told customers they could pay me however much they thought it was worth. I removed the tip jar and put a question mark on the menu board in the place of the price. Many folks asked how much it usually cost and I told them I wasn't allowed to tell. I recorded how much they paid by chalking up tally marks next the prices per slice 3, 4, 5, 6 ... I was surprised that I had to add 7, 8 and 9. Although I did have a few outliers in those high and low, most people handed me a $5 bill and didn't ask for change back.
 

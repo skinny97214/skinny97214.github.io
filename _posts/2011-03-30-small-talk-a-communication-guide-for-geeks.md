@@ -9,7 +9,7 @@ status: publish
 type: post
 published: true
 ---
-<img src="http://skinnywhitegirl.com/blog/wp-content/uploads/2011/03/communication-protocols1.jpg" alt="" title="communication-protocols" width="410" height="403" class="aligncenter size-full wp-image-344" />
+<img src="/img/communication-protocols1.jpg" alt="" title="communication-protocols" width="410" height="403" class="aligncenter size-full wp-image-344" />
 
 <em>This post is a response to <a href="http://tantek.com">Tantek Çelic's</a> article on <a href="http://tantek.pbworks.com/w/page/19402879/CommunicationProtocols#Dontpresencequery">communication protocols</a>. I agree with most all of it, except the bit about IM protocol.</em>
 

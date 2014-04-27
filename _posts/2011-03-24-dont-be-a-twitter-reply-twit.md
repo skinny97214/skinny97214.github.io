@@ -8,7 +8,7 @@ status: publish
 type: post
 published: true
 ---
-<img src="http://skinnywhitegirl.com/blog/wp-content/uploads/2011/03/mistweets1.png" alt="" title="mistweets" width="410" height="421" class="aligncenter size-full wp-image-334" />
+<img src="/img/mistweets1.png" alt="" title="mistweets" width="410" height="421" class="aligncenter size-full wp-image-334" />
 
 <em>If I personally sent you a link to this article, it's because you were an @reply dope. You mistakenly sent a message that ended up in my @reply box.</em>
 

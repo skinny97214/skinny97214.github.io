@@ -12,19 +12,19 @@
 			<hr />
 			{% for tag in page.tags %}
 			  <h3 id="{{ tag }}-ref">Other posts tagged {{ tag }}</h3>
-			
+
 			  {% for post in site.posts reversed %}
-			
+
 			    {% if post.tags contains tag %}
 			      <h3><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h3>
 			      {{ post.content }}
 			    {% endif %}
-			
+
 			  {% endfor %}
-			
+
 			{% endfor %}
 			</div>
-			
+
 
 			<hr>
 

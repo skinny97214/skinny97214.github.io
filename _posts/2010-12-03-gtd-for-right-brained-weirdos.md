@@ -19,5 +19,5 @@ UPDATE -----
 I've added an Awaiting row at the top. Tasks are docked in this row if I'm waiting on something from someone else. It's been very helpful in my morning standups in answering the "what's blocking you" question.
 
 
-<img src="http://skinnywhitegirl.com/blog/wp-content/uploads/2010/12/todo-409x406.jpg" alt="todo" title="todo" width="409" height="406" class="aligncenter size-medium wp-image-221" />
-<img src="http://skinnywhitegirl.com/blog/wp-content/uploads/2010/12/todo_wall-409x359.jpg" alt="todo_wall" title="todo_wall" width="409" height="359" class="aligncenter size-medium wp-image-222" />
+<img src="/img/todo.jpg" alt="todo" title="todo" width="409" height="406" class="aligncenter size-medium wp-image-221" />
+<img src="/img/todo_wall.jpg" alt="todo_wall" title="todo_wall" width="409" height="359" class="aligncenter size-medium wp-image-222" />

@@ -11,7 +11,7 @@ status: publish
 type: post
 published: true
 ---
-<a href="http://skinnywhitegirl.com/blog/wp-content/uploads/2012/10/code-talks-600px.jpg"><img class="alignnone size-full wp-image-942" title="Why design in open source is hard" src="http://skinnywhitegirl.com/blog/wp-content/uploads/2012/10/code-talks-600px.jpg" alt="" width="600" height="341" /></a>
+<a href="/img/code-talks.jpg"><img class="alignnone size-full wp-image-942" title="Why design in open source is hard" src="/img/code-talks.jpg" alt="" width="600" height="341" /></a>
 
 In an exasperated voice <em>"Why is it so hard to get designers in open source."</em> I hear this all the time. Well firstly, it depends on what sorts of skills you're talking about. Just like in code, there are small tactical problems that are good first bugs. Even the simplest issue requires a knowledge of the design patterns that the site employs.
 

@@ -16,11 +16,11 @@ A little background for those unfamiliar: Ziba is an experience design firm here
 
 Two things stood out to me about their offices.
 
-<a href="http://skinnywhitegirl.com/blog/wp-content/uploads/2011/11/ziba-names.jpg"><img class="alignleft size-large wp-image-642" title="ziba-names" src="http://skinnywhitegirl.com/blog/wp-content/uploads/2011/11/ziba-names-600x414.jpg" alt="ziba emphasis on individual contributors" width="600" height="414" /></a>
+<a href="/img/ziba-names.jpg"><img class="alignleft size-large wp-image-642" title="ziba-names" src="/img/ziba-names.jpg" alt="ziba emphasis on individual contributors" width="600" height="414" /></a>
 <h3>Emphasis on the individual contributor</h3>
 Yes, the giant roboman is awesome, but look across. Right when you walk in the lobby, the wall behind reception is covered in the names of the employees. It might seem like a small thing, that is unless you are one of the names on the wall. The list contains the current employees in chronological order of when they started to work for Ziba. The talent is really all information/innovation companies are. This might not resonate as much in non-Westerners where the highest good is to be part of a whole, but from this little girl from Arkansas, much respect.
 
-<a href="http://skinnywhitegirl.com/blog/wp-content/uploads/2011/11/ziba-project-rooms.jpg"><img class="alignleft size-large wp-image-637" title="ziba-project-room" src="http://skinnywhitegirl.com/blog/wp-content/uploads/2011/11/ziba-project-rooms-600x440.jpg" alt="" /></a>
+<a href="/img/ziba-project-rooms.jpg"><img class="alignleft size-large wp-image-637" title="ziba-project-room" src="/img/ziba-project-rooms.jpg" alt="" /></a>
 <h3>Project rooms</h3>
 The desks at Ziba are kept deliberately small. There are no cubes. The desks are arranged into long rows. Funny thing was, almost no one was at their desk. Kai said and observation confirmed, folks spend the majority of their time inside project rooms. The uninitiated might assume it was merely a conference room where no one had bothered to clean all the stuff off the walls.
 

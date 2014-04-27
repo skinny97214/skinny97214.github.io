@@ -8,7 +8,7 @@ status: publish
 type: post
 published: true
 ---
-<a href="http://skinnywhitegirl.com/blog/wp-content/uploads/2012/02/login_cookies.png"><img src="http://skinnywhitegirl.com/blog/wp-content/uploads/2012/02/login_cookies.png" alt="" title="require login cookies " width="308" height="283" class="alignnone size-full wp-image-915" /></a>
+<a href="/img/login_cookies.png"><img src="/img/login_cookies.png" alt="" title="require login cookies " width="308" height="283" class="alignnone size-full wp-image-915" /></a>
 
 I've been <a href="http://skinnywhitegirl.com/blog/how-people-think-facebook-connect-login-logout-work/861/" title="How People *Think* Facebook Connect Log‑in and Log‑out Work">thinking about log-in</a> <a href="http://skinnywhitegirl.com/blog/password-strength-bank-simple/788/" title="Simple: Getting users to pick strong, memorable passwords">a lot lately</a>. Yesterday it occurred to me to see what sites across the web were doing about it. Do they require log-in? Sure, almost all of these have user accounts, but can you use the core functionality of the site without one? The results were overwhelming, 87 of the top 100 US sites by traffic are useful without a log-in.
 

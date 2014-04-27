@@ -8,7 +8,7 @@ status: publish
 type: post
 published: true
 ---
-[caption id="attachment_577" align="aligncenter" width="500" caption="Photo by Jim Fruchterman, distributed under creative commons license"]<a href="http://skinnywhitegirl.com/blog/wp-content/uploads/2011/08/diplomatic-communication.jpg"><img src="http://skinnywhitegirl.com/blog/wp-content/uploads/2011/08/diplomatic-communication.jpg" alt="" title="diplomatic-communication" width="500" height="333" class="size-full wp-image-577" /></a>[/caption]
+[caption id="attachment_577" align="aligncenter" width="500" caption="Photo by Jim Fruchterman, distributed under creative commons license"]<a href="/img/diplomatic-communication.jpg"><img src="/img/diplomatic-communication.jpg" alt="" title="diplomatic-communication" width="500" height="333" class="size-full wp-image-577" /></a>[/caption]
 
 <a href="http://2011.sf.wordcamp.org"><img class="alignright" title="I'm speaking at WordCamp San Francisco 2011!" src="http://2011.sf.wordcamp.org/files/2011/07/wcsf11-badge-speaker.png" alt="I'm speaking at WordCamp San Francisco 2011!" width="150" height="150" /></a>Do your team meetings to discuss what/how/when to build XYZ new hot thing feel a little too much like a session of the United Nations Security Council? Wouldn't it be nice if you had those headsets that translated designspeak to devspeak and vice versa?
 

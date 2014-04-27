@@ -13,7 +13,7 @@ If you are like me, you've been hammered with so many "SomeUser is now following
 
 I don't want to receive any email at all from users that follow more folks that follow them back. Maybe 1:1 is too harsh, so you could use 1:1.5. Ideally, each user would be able to set their own custom threshold. That's it. I did a little analysis of my last 100 followers to see what effect this simple filter would have. Right off the top, this would eliminate more than half of my new follower notices, almost entirely commercial interests or outright spammers.
 
-<img class="alignnone size-full wp-image-9" style="border: 0pt none; padding: 14px 0;" title="Twitter Notification Email Spam" src="http://skinnywhitegirl.com/blog/wp-content/uploads/2009/06/twitter_follower_chart.gif" alt="Twitter Notification Email Spam" width="417" height="260" />
+<img class="alignnone size-full wp-image-9" style="border: 0pt none; padding: 14px 0;" title="Twitter Notification Email Spam" src="/img/twitter_follower_chart.gif" alt="Twitter Notification Email Spam" width="417" height="260" />
 
 I realize that spammers and marketers would adjust their tactics to dodge this simple filter. They could be more aggressive in following and then unfollowing the folks that don't follow back to keep their ratios below the range. It seems like this would raise a big red flag for Twitter to be able to block them accordingly.
 
