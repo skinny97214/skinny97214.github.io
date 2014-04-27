@@ -10,7 +10,7 @@ status: publish
 type: post
 published: true
 ---
-<a href="http://skinnywhitegirl.com/blog/wp-content/uploads/2012/10/sister-computer.jpg"><img class="size-large wp-image-971" title="sister-computer" alt="" src="http://skinnywhitegirl.com/blog/wp-content/uploads/2012/10/sister-computer-600x485.jpg" width="600" height="485" /></a>
+<a href="/img/sister-computer.jpg"><img class="size-large wp-image-971" title="sister-computer" alt="" src="/img/sister-computer.jpg" width="600" height="485" /></a>
 
 There's a common perception that people don't care about privacy. This is sort of right. Our research shows that most users are unaware of how extensively they're being <a href="http://www.technologyreview.com/view/424170/how-facebook-leveraged-publishers-desperation-to/">tracked by advertisers</a> across the websites they visit. Even those that do know are unsure of what to do about it. They know there's a horrible legalese privacy policy hanging out somewhere. They know they <em>should</em> read it. They don't. They know they <em>should</em> use different passwords on each site. They don't.
 

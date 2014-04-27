@@ -9,7 +9,7 @@ status: publish
 type: post
 published: true
 ---
-<a href="http://skinnywhitegirl.com/blog/wp-content/uploads/2011/10/occupy-portland-pioneer-square.jpg"><img class="alignleft size-large wp-image-611" title="occupy-portland-pioneer-square" src="http://skinnywhitegirl.com/blog/wp-content/uploads/2011/10/occupy-portland-pioneer-square-600x440.jpg" alt="Occupy Portland : Pioneer Courhouse Square" width="600" height="440" /></a>
+<a href="/img/occupy-portland-pioneer-square.jpg"><img class="alignleft size-large wp-image-611" title="occupy-portland-pioneer-square" src="/img/occupy-portland-pioneer-square.jpg" alt="Occupy Portland : Pioneer Courhouse Square" width="600" height="440" /></a>
 
 There aren't many things more viscerally experienced than a protest. It's got all the right components: big crowds, a common purpose you're passionate about, defiance of authority and the accompanying tinge of danger.
 

@@ -8,7 +8,7 @@ status: publish
 type: post
 published: true
 ---
-<a href="http://skinnywhitegirl.com/blog/wp-content/uploads/2012/02/facebook-connect1.png"><img class="alignnone size-large wp-image-888" title="facebook-connect-login" src="http://skinnywhitegirl.com/blog/wp-content/uploads/2012/02/facebook-connect1-600x113.png" alt="" width="600" height="113" /></a>
+<a href="/img/facebook-connect1.png"><img class="alignnone size-large wp-image-888" title="facebook-connect-login" src="/img/facebook-connect1.png" alt="" width="600" height="113" /></a>
 
 &nbsp;
 

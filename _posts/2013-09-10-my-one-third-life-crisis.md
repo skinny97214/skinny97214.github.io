@@ -17,7 +17,7 @@ But this isn't about Picasso, this is about me. What am I trying to say here? Li
 
 My next piece will be Cambodia.
 
-<a href="http://skinnywhitegirl.com/blog/wp-content/uploads/2013/08/phnom-penh-facade.jpg"><img src="http://skinnywhitegirl.com/blog/wp-content/uploads/2013/08/phnom-penh-facade-600x405.jpg" alt="License Attribution Noncommercial Share Alike Some rights reserved by Jonas Hansel " width="600" height="405" class="alignnone size-large wp-image-1071" /></a><span style="font-size: 9px;">Some rights reserved by <a title="original photo at flickr" href="http://www.flickr.com/photos/jonashansel/8300113687">Jonas Hansel</a></span>
+<a href="/img/phnom-penh-facade.jpg"><img src="/img/phnom-penh-facade.jpg" alt="License Attribution Noncommercial Share Alike Some rights reserved by Jonas Hansel " width="600" height="405" class="alignnone size-large wp-image-1071" /></a><span style="font-size: 9px;">Some rights reserved by <a title="original photo at flickr" href="http://www.flickr.com/photos/jonashansel/8300113687">Jonas Hansel</a></span>
 
 But I should back up. Did I tell you how many incredible, incredible people are around me? People I can go to in moments of raw, thick, embarassing(!) existential crisis? I didn't? Oh, so one of them is <a href="http://theheretic.me/" title="The Heretic | Pascal Finette" target="_blank">Pascal Finette</a>, Director of the Office of the Chair at Mozilla. He kicks my ass when I need it. (True story, he was a drill sergeant in the German air force.) I told him it'd been four years since my last vision quest where I walked the earth and got some perspective. I told him I needed a recharge.
 

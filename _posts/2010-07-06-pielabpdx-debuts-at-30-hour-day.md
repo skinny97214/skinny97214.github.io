@@ -20,8 +20,8 @@ Again, a giant thanks to all of those who made the <a href="http://bit.ly/pieLab
 
 I debuted at <a href="http://30hourday.org">30 Hour Day,</a> a livestreaming telathon to benefit the Oregon Food Bank this past Saturday. Have a look at the beautiful pics!
 
-[caption id="attachment_120" align="aligncenter" width="410" caption="photo by Aaron Hockley : flickr.com/photos/ahockley/"]<img src="http://skinnywhitegirl.com/blog/wp-content/uploads/2010/07/30hd_rick_cami-410x284.jpg" alt="photo by Aaron Hockley : flickr.com/photos/ahockley/" title="30hd_rick_cami" width="410" height="284" class="size-medium wp-image-120" />[/caption]
+[caption id="attachment_120" align="aligncenter" width="410" caption="photo by Aaron Hockley : flickr.com/photos/ahockley/"]<img src="/img/30hd_rick_cami.jpg" alt="photo by Aaron Hockley : flickr.com/photos/ahockley/" title="30hd_rick_cami" width="410" height="284" class="size-medium wp-image-120" />[/caption]
 
-<img src="http://skinnywhitegirl.com/blog/wp-content/uploads/2010/07/pielab_30hourday-409x307.jpg" alt="pielab_30hourday" title="pielab_30hourday" width="409" height="307" class="aligncenter size-medium wp-image-121" />
+<img src="/img/pielab_30hourday.jpg" alt="pielab_30hourday" title="pielab_30hourday" width="409" height="307" class="aligncenter size-medium wp-image-121" />
 
-<img src="http://skinnywhitegirl.com/blog/wp-content/uploads/2010/07/tshirt-410x444.jpg" alt="tshirt" title="tshirt" width="410" height="444" class="aligncenter size-medium wp-image-125" />
+<img src="/img/tshirt.jpg" alt="tshirt" title="tshirt" width="410" height="444" class="aligncenter size-medium wp-image-125" />

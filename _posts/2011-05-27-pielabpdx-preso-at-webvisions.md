@@ -11,7 +11,7 @@ status: publish
 type: post
 published: true
 ---
-<a href="http://skinnywhitegirl.com/blog/wp-content/uploads/2011/05/webvisions.gif"><img src="http://skinnywhitegirl.com/blog/wp-content/uploads/2011/05/webvisions.gif" alt="" title="webvisions" width="410" height="121" class="alignleft size-full wp-image-385" /></a>
+<a href="/img/webvisions.gif"><img src="/img/webvisions.gif" alt="" title="webvisions" width="410" height="121" class="alignleft size-full wp-image-385" /></a>
 
 I presented my findings from a summer of running a sidewalk pie cart. Well, you might say it was a behavioral experiment disguised as a pie cart.<!--more-->
 

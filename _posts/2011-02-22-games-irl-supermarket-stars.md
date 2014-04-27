@@ -9,7 +9,7 @@ status: publish
 type: post
 published: true
 ---
-<a href="http://skinnywhitegirl.com/blog/wp-content/uploads/2011/02/vintage-food.jpg"><img src="http://skinnywhitegirl.com/blog/wp-content/uploads/2011/02/vintage-food-600x474.jpg" alt="supermarket stars game" title="vintage food" width="600" height="474" class="aligncenter size-large wp-image-325" /></a>
+<a href="/img/vintage-food.jpg"><img src="/img/vintage-food.jpg" alt="supermarket stars game" title="vintage food" width="600" height="474" class="aligncenter size-large wp-image-325" /></a>
 
 I have this fantasy about what a good grocery shopper that I am. As I'm wheeling through the produce section, smugly checking items of my list, cabbage, celery, kale, oranges for juicing... check, check, check, I imagine that there's a roving TV camera crew that will seize upon me and declare my cart the healthiest and most beautiful in all the store. I blame Gordon Elliot's Doorknock Dinners where he knocked at random houses and made dinner from whatever they had in their pantry.
 

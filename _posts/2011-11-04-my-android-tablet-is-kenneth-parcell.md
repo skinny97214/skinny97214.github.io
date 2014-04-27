@@ -8,7 +8,7 @@ status: publish
 type: post
 published: true
 ---
-<a href="http://skinnywhitegirl.com/blog/wp-content/uploads/2011/11/android-goofy-clumsy.jpg"><img class="alignleft size-full wp-image-666" title="android-goofy-clumsy" src="http://skinnywhitegirl.com/blog/wp-content/uploads/2011/11/android-goofy-clumsy.jpg" alt="" width="600" height="359" /></a>
+<a href="/img/android-goofy-clumsy.jpg"><img class="alignleft size-full wp-image-666" title="android-goofy-clumsy" src="/img/android-goofy-clumsy.jpg" alt="" width="600" height="359" /></a>
 
 You know Kenneth. From 30 Rock. The one who's well-meaning, goofy, clumsy, sweet and... charming? Or something not quite like that. His earnestness makes you want it all to work out for him, but you know it won't.
 

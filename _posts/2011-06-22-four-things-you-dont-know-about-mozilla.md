@@ -8,7 +8,7 @@ status: publish
 type: post
 published: true
 ---
-[caption id="attachment_575" align="aligncenter" width="580" caption="Illustration by amateur on Creative Collective"]<a href="http://skinnywhitegirl.com/blog/wp-content/uploads/2011/06/moz-fox.jpg"><img src="http://skinnywhitegirl.com/blog/wp-content/uploads/2011/06/moz-fox.jpg" alt="" title="Mozilla Creative Collective by amateur" width="580" height="580" class="size-full wp-image-575" /></a>[/caption]
+<a href="/img/moz-fox.jpg"><img src="/img/moz-fox.jpg" alt="" title="Mozilla Creative Collective by amateur" width="580" height="580" class="size-full wp-image-575" /></a>
 
 Even though I'd been using Firefox for a half a dozen years and have been working in tech for a decade, there was a lot I didn't know about Mozilla until recently. Judging from the questions I've been fielding since I accepted the position, you don't know either.
 

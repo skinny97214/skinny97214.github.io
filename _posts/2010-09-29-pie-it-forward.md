@@ -11,7 +11,7 @@ type: post
 published: true
 ---
 I've been a busy bee serving smiling customers at PieLabPDX. Since my last post three weeks ago I've been up to some mischief both new and old.
-[caption id="attachment_155" align="alignleft" width="299" caption="photo by @pdxfoodcarts"]<a href="http://skinnywhitegirl.com/blog/wp-content/uploads/2010/09/berry_pie.jpg"><img src="http://skinnywhitegirl.com/blog/wp-content/uploads/2010/09/berry_pie.jpg" alt="" title="berry_pie" width="299" height="500" class="size-full wp-image-155" /></a>[/caption]
+<a href="/img/berry_pie.jpg"><img src="/img/berry_pie.jpg" alt="" title="berry_pie" width="299" height="500" class="size-full wp-image-155" /></a>
 
 For those of you who aren't familiar with the story, that's the original idea that inspired the cart. In this experiment, customers get the order of the person in line ahead of them. Whatever they order goes to the lucky one to come after them, creating a chain of connected people.
 
