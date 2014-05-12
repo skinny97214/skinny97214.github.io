@@ -203,10 +203,6 @@ section.title p, section.title p a {
 	text-transform: uppercase;
 }
 
-section.title p a {
-	border-bottom: 1px solid rgba(255,255,255,0.1);
-}
-
 p.logo { text-align: center; }
 
 

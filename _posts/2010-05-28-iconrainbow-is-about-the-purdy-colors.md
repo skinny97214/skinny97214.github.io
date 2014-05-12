@@ -9,7 +9,7 @@ status: publish
 type: post
 published: true
 ---
-<img src="http://skinnywhitegirl.com/blog/wp-content/uploads/2010/05/unicorn_avatar.gif" alt="unicorn_avatar" title="unicorn_avatar" width="128" height="128" class="alignleft size-full wp-image-44" />I was kicked out of the nest, like many were last May due to the economy. It's been a year. What do I have to show for myself? For one, a little site called <a href="http://iconrainbow.com">IconRainbow</a> I made with the patient assistance of Ryan Snyder, aka <a href="http://twitter.com/ryansnyder">@ryansnyder</a>. It's all about the purdy colors, specifically colors of icons pulled from the iPhone app store.
+<img src="/img/unicorn_avatar.gif" alt="unicorn_avatar" title="unicorn_avatar" width="128" height="128" class="alignleft size-full wp-image-44" />I was kicked out of the nest, like many were last May due to the economy. It's been a year. What do I have to show for myself? For one, a little site called <a href="http://iconrainbow.com">IconRainbow</a> I made with the patient assistance of Ryan Snyder, aka <a href="http://twitter.com/ryansnyder">@ryansnyder</a>. It's all about the purdy colors, specifically colors of icons pulled from the iPhone app store.
 
 <h3>Why color?</h3>
 

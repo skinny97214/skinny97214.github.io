@@ -10,7 +10,7 @@ status: publish
 type: post
 published: true
 ---
-<a class='hyphenation-rollover' href="http://skinnywhitegirl.com/blog/wp-content/uploads/2011/08/hyphenation-lg.jpg" style="width:410px; height:402px; display: block; text-decoration: none; border: 1px solid #ccc; background-image: url('http://skinnywhitegirl.com/blog/wp-content/uploads/2011/08/hyphenation.jpg')"></a>
+<a class='hyphenation-rollover' href="/img/hyphenation-lg.jpg" style="width:410px; height:402px; display: block; text-decoration: none; border: 1px solid #ccc; background-image: url('/img/hyphenation.jpg')"></a>
 
 <p style="font-variant:italic;"><img alt="" src="http://a2.twimg.com/profile_images/1082075935/bram-pitoyo-avatar.jpg" title="bram pitoyo, w3c-font" class="alignleft" width="50" height="50" />Post in collaboration with <a href="http://www.brampitoyo.com/" title="bram pitoyo">Bram Pitoyo</a>, Digital Design Strategist & Typographer at <a href="http://wk.com" title="wieden+kennedy">Wieden+Kennedy</a>.</p><br style="clear:both; height:0;" />
 

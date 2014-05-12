@@ -13,7 +13,7 @@ published: true
 ---
 &nbsp;
 
-<a href="http://skinnywhitegirl.com/blog/wp-content/uploads/2011/11/user-business-technical-needs.jpg"><img class="alignnone size-full wp-image-721" title="user needs technical needs business needs" src="http://skinnywhitegirl.com/blog/wp-content/uploads/2011/11/user-business-technical-needs.jpg" alt="" width="600" height="468" /></a>
+<a href="/img/user-business-technical-needs.jpg"><img class="alignnone size-full wp-image-721" title="user needs technical needs business needs" src="/img/user-business-technical-needs.jpg" alt="" width="600" height="468" /></a>
 
 Yes, this is a post about Mozilla, but you can generalize to any open-source software project. At every conference I hear the same refrain, "Why is design so hard in open source?" It's so hard because *drumroll please* it's not made a priority. None of the top decision-makers are designers. Period. The End. You can stop reading.
 
@@ -23,7 +23,7 @@ If everyone jumped off the bridge, would you do it too? It's true, there aren't 
 
 There's an opportunity for Mozilla to be the first big open-source tech company to deeply bake design DNA into the process. Gary (CEO) has been exalting us to to produce a kick-ass product. UX and UR are a source of innovation. Further, prioritizing around user needs is essential to making an excellent product.
 
-<a href="http://skinnywhitegirl.com/blog/wp-content/uploads/2011/11/Tesla-Roadster-Sport-Tesla-Motors-to-Open-Colorado-Gallery-Rear-Angle.jpg"><img title="Tesla-Roadster-Sport-Tesla-Motors-to-Open-Colorado-Gallery-Rear-Angle" src="http://skinnywhitegirl.com/blog/wp-content/uploads/2011/11/Tesla-Roadster-Sport-Tesla-Motors-to-Open-Colorado-Gallery-Rear-Angle-600x337.jpg" alt="" width="600" height="337" /></a>
+<a href="/img/Tesla-Roadster-Sport-Tesla-Motors-to-Open-Colorado-Gallery-Rear-Angle.jpg"><img title="Tesla-Roadster-Sport-Tesla-Motors-to-Open-Colorado-Gallery-Rear-Angle" src="/img/Tesla-Roadster-Sport-Tesla-Motors-to-Open-Colorado-Gallery-Rear-Angle.jpg" alt="" width="600" height="337" /></a>
 
 One bit I didn't expect in my survey was that the Chief of Design is a well-established role in car companies. Tesla, BMW, Volvo... they all have one. It's curious to me because car manufacturers are entrenched in technical, mechanical requirements as well. Seems as though they've figured out that it takes more than the feature list and specifications to sell cars to people.
 <h3>Get to the point</h3>

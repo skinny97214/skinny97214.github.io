@@ -26,7 +26,7 @@ meta:
 ---
 There's a study that shows that people report that wine tastes better out of fancy crystal wine glass. Poor winemakers toil away in the mud, consulting the phases of the moon, to bottle a more excellent vintage than the last. Who knew all they need do is order up a box of Riedel stems.<!--more-->
 
-<a href="http://skinnywhitegirl.com/blog/wp-content/uploads/2013/02/ux-of-wine-glass.jpg"><img class="alignnone size-large wp-image-1022" alt="ux-of-wine-glass" src="http://skinnywhitegirl.com/blog/wp-content/uploads/2013/02/ux-of-wine-glass-600x402.jpg" width="600" height="402" /></a>
+<a href="/img/ux-of-wine-glass.jpg"><img class="alignnone size-large wp-image-1022" alt="ux-of-wine-glass" src="/img/ux-of-wine-glass.jpg" width="600" height="402" /></a>
 
 Your product is not so different from that bottle of wine. A good visual design will enhance the experience of using your product. The visual design will indicate what sort of this this is, who the product is for, how much it costs, etc. Note that it indicates this whether or not you want it to. Serving Châteauneuf du Pape in a paper cup may not be an intentional choice, it will affect the experience of drinking it nonetheless.
 

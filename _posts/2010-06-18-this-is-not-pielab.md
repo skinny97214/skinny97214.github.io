@@ -10,7 +10,7 @@ status: publish
 type: post
 published: true
 ---
-<img src="http://skinnywhitegirl.com/blog/wp-content/uploads/2010/06/pielab_controversy3.jpg" alt="pielab_controversy3" title="pielab_controversy3" width="410" height="168" class="aligncenter size-full wp-image-101" />
+<img src="/img/pielab_controversy3.jpg" alt="pielab_controversy3" title="pielab_controversy3" width="410" height="168" class="aligncenter size-full wp-image-101" />
 
 -----UPDATE-----
 After a lovely conversation with John of Project M, the founder of PieLab in Greensboro, AL, he generously offered to let me keep using the name.  I'm very grateful to have his support.
