@@ -1,38 +1,76 @@
----
-layout: default
-title: Crystal Beasley tinkers on things
----
-<div id="headerHome" class="hide-for-small">
-	<div class="row">
-		<div class="large-12 columns text-center">
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Crystal</title>
+		<meta charset="utf-8">
+		<meta name="author" content="Crystal Beasley">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+		<link href='http://fonts.googleapis.com/css?family=Plaster|Josefin+Slab:300|Noticia+Text:400,400italic' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" media="screen, projection" href="/css/onepage.css">
+
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+		<script src="jquery.unveil.min.js"></script>
+	</head>
+
+	<body id="container">
+		<section class="title">
+			<h1>
+				BEASLEY
+			</h1>
+			<p>Denim that fits.</p>
+		</section>
+		<section class="white">
+			<p>
+				<img src="/img/icon_663_woman.svg" alt="woman icon">
+				<br>
+				<p>The way we buy clothes is broken.</p>
+				<p>Women's bodies come in 8 different shapes, yet it seems jeans are only made for one kind of body. Why is it this way?
+			</p>
+		</section>
+
+		<section class="white">
+		<img src="/img/2594838123_d59a611a5f_o.jpg" alt="mannequins from the 1960s">
+		</section>
+
+		<section class="hourglass">
+			<p>We're not mannequins.</p>
+			<img src="/img/icon_40333_hourglass.svg" alt="hourglass" />
 			
-		</div>
-	</div>
-</div> <!-- /headerHome -->
+			<p>Only 8% of women have the so-called "hourglass" figure.</p>
 
-<div id="pullout">
-	<div class="row">
-		<div class="small-12 columns text-center">
-			{% for post in site.posts limit:1 %}
-			<p>Latest Post: <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></p>
-			{% endfor %}
-		</div>
-	</div>
-</div> <!-- /pullout -->
+			<p>I want to let you in on a little secret. In talking to dozens of women about fit, they all lament the same thing. Everyone says "I'm hard to fit." There's one thing or another about everyone's bodies that make off-the-rack clothes not work. There's nothing wrong with you, there's something really wrong with retail as we know it.</p>
+		</section>
+		
+		<section class="black">
+			<p><img src="trans.gif" data-src="imac.png" class="tinycentered circleborder"></p>
+			<p>It's time for the tears in dressing rooms to STOP. And what's with the horrible lighting... Have you ever looked worse than in that fluorescent glare?</p>
+		</section>
+		
+		<section class="white">
+			<p>You're not a number, you're beautiful. We're killing the entire concept of a size. With five measures you already know, we tailor-make a perfect pair just for your curves, no measuring tape needed. </p>
+
+			<p>Take your time trying on your jeans in the privacy of your home. Walk around and see how they fit. Sit down on the couch, drink a cup of tea and make sure they feel just right. And if not, tell us what's too big or small and we'll promise to get it right on the next pair. Free returns. Free shipping both ways.</p>
+		</section>
+		
+		<section class="cloud">
+			<p>I need your help to make this real. I'm sourcing high-quality denim and searching for the right factory here in the US of A to do the stitching. If this idea makes you squeal with joy, sign up to get our newsletter. Even better, fill our our survey. We need data from lots of women with lots of different bodies to prove our fit technology really works.</p>
+		</section>
+
+		<section class="white">
+			<p>Fit Survey</p>
+		</section>
 
 
-<div id="post">
-<div class="row">
-<div class="large-3 columns">
-<h3>LATEST POST</h3>
-</div>
-<div class="large-9 columns">
-{% for post in site.posts limit:1 %}
-<h3><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h3>
-{{ post.content }}
-{% endfor %}
-<hr>
-<h4><i class="icon-chevron-right"></i> Discover more in the <a href="/archive/">archive</a>!</h4>
-</div>
-</div>
-</div> <!-- /post -->
+		<footer>
+			<p>Copyright &copy; 2013, Crystal Beasley and respective owners of referenced works.</p>
+			Mannequin photo <a href="https://creativecommons.org/licenses/by-nd/2.0/">CC BY-ND 2.0</a> by <a href="https://www.flickr.com/photos/brownpolyester/2594838123">Luke Larsson</a>. <br />
+			Hour Glass designed by <a href="http://www.thenounproject.com/fterzini">Francesco Terzini</a> from the <a href="http://www.thenounproject.com">Noun Project</a><br />
+			Woman designed by <a href="http://www.thenounproject.com/merdesign">Monika Ciapala</a> from the <a href="http://www.thenounproject.com">Noun Project</a>
+		</footer>
+		<script>
+		  $(document).ready(function(){
+		    $("img").unveil(1000);
+		  });
+		</script>
+	</body>
+</html>

@@ -1,0 +1,284 @@
+@font-face {
+	font-family: 'Josefin Slab', serif;
+    font-style: italic;
+    font-weight: normal;
+}
+
+@font-face {
+	font-family: 'Plaster', cursive;
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Noticia Text', serif;
+	font-weight: normal;
+	font-style: normal;
+}
+
+body {
+	font-family: Noticia Text, Georgia, Times, serif;
+	margin: 0;
+	line-height: 1.5;
+	color: rgba(0,0,0,0.65);
+	font-size: 21px;
+	-webkit-transition: font-size 0.2s ease-out;
+	-moz-transition: font-size 0.2s ease-out;
+	-o-transition: font-size 0.2s ease-out;
+	-ms-transition: font-size 0.2s ease-out;
+	transition: font-size 0.2s ease-out;
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizeLegibility;
+}
+
+video {
+	max-width: 100%;
+	height: auto;
+}
+
+iframe, embed, object {
+	max-width: 100%;
+}
+
+a {
+	-webkit-transition: color 0.2s ease-out;
+	-moz-transition: color 0.2s ease-out;
+	-o-transition: color 0.2s ease-out;
+	-ms-transition: color 0.2s ease-out;
+	transition: color 0.2s ease-out;
+	color: rgba(0,0,0,0.5);
+	text-decoration: none;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+p {
+	max-width: 30em;
+	margin: 1em auto;
+}
+p.centered { text-align: center; }
+
+a:hover { color: #000; }
+
+section { padding: 4em 1em; text-align: center; }
+section.white { background-color: #fff; color: #555; }
+section.black { background-color: #333; color: #f5f5f5; }
+section.realblack { background-color: #000; color: #f5f5f5;}
+section.realblack a { color: #aaa; border-bottom: 1px solid #999;}
+section.video { background-color: #000; color: #fff; text-align: center; }
+section.video iframe { display: block; margin: 0 auto; }
+
+section.video a { color: #fff; border-bottom: 1px solid #555; }
+
+h1 {
+	font-family: Plaster, Times New Roman;
+	font-weight: normal;
+	line-height: 1.1;
+	font-size: 2.5em;
+	text-align: center;
+}
+
+h2 {
+	font-weight: normal;
+}
+
+h1.emph { color: rgb(185, 154, 84); }
+h1.emph.black { color: #555; }
+h1.emph.black span { color: rgba(0,0,0,0.2); }
+
+h1.emph:before {
+	content: '';
+	display: block;
+	margin: 0 auto 1em auto; 
+	width: 3em;
+	border-top: 2px solid rgba(0,0,0,0.1);
+}
+
+h1.emph:after{
+	content: '';
+	display: block;
+	margin: 1em auto 0 auto; 
+	width: 3em;
+	border-top: 2px solid rgba(0,0,0,0.1);
+}
+
+section.black h1.emph:before { border-top: 2px solid rgba(255,255,255,0.1); }
+section.black h1.emph:after { border-top: 2px solid rgba(255,255,255,0.1); }
+
+img.tinycentered {
+	display: block;
+	margin: 1em auto;
+	width: 40%;
+	max-width: 15em;
+}
+
+img.circleborder {
+	border-radius: 70em;
+	padding: 1em;
+	border: 1em solid rgba(0,0,0,0.05);
+	margin-bottom: 3em;
+}
+
+section.black img.circleborder {
+	border: 1em solid rgba(255,255,255,0.05);
+}
+
+img.fullimg {
+	display: block;
+	width: 100%;
+	margin: 1em auto;
+	max-width: 40em;
+}
+
+img.fullimg.real { max-width: none; }
+
+hr {
+	width: 33%;
+	max-width: 15em;
+	border: none;
+	border-top: 2px solid rgba(0,0,0,0.1);
+	margin: 4em auto;
+}
+
+div.clear { clear: both; }
+
+/******
+FOOTER
+*******/
+
+footer {
+	background-color: #333;
+	font-size: 0.8em;
+	padding: 3em 1em;
+	color: #777;
+	text-align: center;
+}
+
+footer p {
+	max-width: 36.5em;
+}
+
+footer a {
+	color: #777;
+	border-bottom: 1px solid #555;
+}
+
+footer a:hover {
+	color: #fff;
+}
+
+
+/* TITLE */
+
+section.tiptop {
+	background-color: #222;
+	color: #777;
+	text-align: center;
+	padding: 1em;
+	font-style: italic;
+}
+
+section.title {
+	background-color: #333;
+	padding-top: 0.5em;
+	background: url('/img/denim.jpg') top center;
+	color: #fff;
+}
+
+section.title h1 {
+	text-align: center;
+	max-width: 7.5em;
+	margin: 0.5em auto 0.5em auto;
+	color: #fff;
+	font-size: 4em;
+	line-height: 1;
+}
+
+section.title h1 span {
+	color: rgba(255,255,255,0.2);
+}
+
+section.title p, section.title p a {
+	color: #90a9cf;
+	font-family: Josefin Slab;
+	text-transform: uppercase;
+}
+
+section.title p a {
+	border-bottom: 1px solid rgba(255,255,255,0.1);
+}
+
+p.logo { text-align: center; }
+
+
+/* foreword */
+
+section.foreword { text-align: center; font-size: 0.9em; }
+section.foreword img, section.white img, section.black img { display: block; margin: 0 auto 1em; }
+
+/* PANEL 1 */
+
+section.panel1 h1 {
+	max-width: 10em;
+	margin: 1em auto;
+}
+
+/* Aspirin */
+
+section.hourglass img {
+	display: block;
+	margin: 0 auto;
+	width: 25%;
+	max-width: 10em;
+	padding: 2.5em;
+}
+
+p.stretch {
+	font-style: italic;
+	text-align: center;
+	border-top: 1px solid rgba(0,0,0,0.1);
+	border-bottom: 1px solid rgba(0,0,0,0.1);
+	padding: 1em 0;
+}
+
+a.noborder { border: none; }
+
+
+section.denim {
+	background: url('http://www.sdwhaven.com/wp-content/uploads/2012/12/Seamless-Denim-Fabric-Texture-600x600.jpg') top center;
+	color: #fff;
+}
+
+section.cloud {
+	
+	background: #f5f5f5 url('http://upload.wikimedia.org/wikipedia/commons/3/3d/Big_pink_cloud_Oia.jpg') repeat center top;
+}
+h2 { text-align: center; font-style: italic; }
+
+blockquote {
+	margin: 2em auto;
+	font-size: 1.2em;
+	max-width: 35em;
+	color: rgb(185, 154, 84);
+}
+
+span.fin:after {
+	content: ' â—†';
+	color: rgba(0,0,0,0.2);
+	position: relative;
+	top: -0.1em;
+}
+
+section.rainbowbreak.last {
+	min-height: 120em;
+}
+
+@media only screen and (max-width: 55em) {	body { font-size: 18px; } }
+@media only screen and (max-width: 45em) { section.rainbowbreak h1 { font-size: 5em; } }
+@media only screen and (max-width: 30em) {
+	section { padding-top: 2em; padding-bottom: 2em; }
+	h1.emph { font-size: 1.8em; }
+	section.title h1 { font-size: 3.5em; }
+	section.rainbowbreak h1 { font-weight: 300; font-size: 2em; }
+	section.somanyhorses { background: url(horseani.gif); }
+	p { -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; }
+}
