@@ -219,7 +219,7 @@ section.panel1 h1 {
 
 /* Aspirin */
 
-section.hourglass img {
+img.centeredIcon {
 	display: block;
 	margin: 0 auto;
 	width: 25%;
