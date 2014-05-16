@@ -61,13 +61,8 @@ a:hover { color: #000; }
 
 section { padding: 4em 1em; text-align: center; }
 section.white { background-color: #fff; color: #555; }
-section.black { background-color: #333; color: #f5f5f5; }
-section.realblack { background-color: #000; color: #f5f5f5;}
-section.realblack a { color: #aaa; border-bottom: 1px solid #999;}
-section.video { background-color: #000; color: #fff; text-align: center; }
-section.video iframe { display: block; margin: 0 auto; }
-
-section.video a { color: #fff; border-bottom: 1px solid #555; }
+section.black { background-color: #394150; color: #f5f5f5; }
+on.video a { color: #fff; border-bottom: 1px solid #555; }
 
 h1 {
 	font-family: Plaster, Times New Roman;
@@ -81,46 +76,6 @@ h2 {
 	font-weight: normal;
 }
 
-h1.emph { color: rgb(185, 154, 84); }
-h1.emph.black { color: #555; }
-h1.emph.black span { color: rgba(0,0,0,0.2); }
-
-h1.emph:before {
-	content: '';
-	display: block;
-	margin: 0 auto 1em auto; 
-	width: 3em;
-	border-top: 2px solid rgba(0,0,0,0.1);
-}
-
-h1.emph:after{
-	content: '';
-	display: block;
-	margin: 1em auto 0 auto; 
-	width: 3em;
-	border-top: 2px solid rgba(0,0,0,0.1);
-}
-
-section.black h1.emph:before { border-top: 2px solid rgba(255,255,255,0.1); }
-section.black h1.emph:after { border-top: 2px solid rgba(255,255,255,0.1); }
-
-img.tinycentered {
-	display: block;
-	margin: 1em auto;
-	width: 40%;
-	max-width: 15em;
-}
-
-img.circleborder {
-	border-radius: 70em;
-	padding: 1em;
-	border: 1em solid rgba(0,0,0,0.05);
-	margin-bottom: 3em;
-}
-
-section.black img.circleborder {
-	border: 1em solid rgba(255,255,255,0.05);
-}
 
 img.fullimg {
 	display: block;
@@ -178,9 +133,9 @@ section.tiptop {
 }
 
 section.title {
-	background-color: #333;
+	background-color: white;
 	padding-top: 0.5em;
-	color: #fff;
+	color: #444;
 }
 
 section.title h1 {
@@ -263,9 +218,17 @@ section.mannequin {
 	max-width: 1000px;
 	margin: 0 auto;
 }
+.survey label {
+	display: block;
+}
+.survey input {
+	width: 100%;
+	max-width: 500px;
+}
 div.survey-container {
 	width: 20%;
 	float: left;
+	padding: 35px 0;
 }
 .survey-container p{
 	margin-bottom: 0px;
@@ -273,10 +236,18 @@ div.survey-container {
 .survey-container input {
 	width: 60px;
 }
-.survey-bigtext textarea {
-	width: 80%;
-	max-width: 500px;
-	height: 80px;
+input#mc-embedded-subscribe {
+	width: 100px;
+	font-size: .8em;
+	background-color: #283e67;
+	border: 0;
+	padding: 2px 0;
+	margin: 30px 0;
+	color: white;
+}
+
+input#mc-embedded-subscribe:hover {
+	background-color: #26457d ;
 }
 span.optional {
 	font-size: 80%;
