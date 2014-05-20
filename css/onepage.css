@@ -254,10 +254,14 @@ span.optional {
 	font-size: 80%;
 }
 
-span.italic {
+.italic {
 	font-style: italic;
 }
 
+.helper {
+	font-style: italic;
+	font-size: .6em;
+}
 div.center {
 	display: table-cell;
 	vertical-align: middle;
