@@ -8,7 +8,7 @@ type: post
 published: true
 ---
 
-I think we can all agree that's a missed opportunity that business writing doesn't use enough Star Trek:TNG references. Steve Jobs needs a day off anyway. Picard was brilliant, not because he knew immediately what the best plan of attack was, but because he surrounded himself with brilliant advisors from each critical ship function. He looked to Data for his unfailingly analytical assessment of a situation. He looked to Geordi to know if the shields would hold. He found advice on alien and human physiology from Beverly. He sought out Deanna's empathic read of an enemy. When Picard weighed out a decision, there were two women at the table. I like this version of the future.
+I think we can all agree it's a missed opportunity that business writing doesn't use enough Star Trek:TNG references. Steve Jobs needs a day off anyway. Picard was brilliant, not because he knew immediately what the best plan of attack was, but because he surrounded himself with brilliant advisors from each critical ship function. He looked to Data for his unfailingly analytical assessment of a situation. He looked to Geordi to know if the shields would hold. He found advice on alien and human physiology from Beverly. He sought out Deanna's empathic read of an enemy. When Picard weighed out a decision, there were two women at the table. I like this version of the future.
 
 What does every good company have in common? They have all their bases covered. They have a balanced team with senior advisor in every area. Too often we have our Geordi, Worf and Data, but no Deanna. Companies must have empathy with customers and stakeholders. They have to know if they're solving a real problem that connects with a real person.
 
