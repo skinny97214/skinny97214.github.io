@@ -1,35 +1,24 @@
 {% include header.html %}
 
-<div id="headerPost" class="hide-for-small">
+<div class="headerPost {{ page.title | remove: ' '}}" class="hide-for-small">
 </div> <!-- /headerPost -->
 
 <div id="post">
-	<div class="row">
-		<div class="large-12 columns">
-			<h3>{{ page.title }}</h3>
-			{{ content }}
-			<a href="{{ site.baseurl }}archive/" class="small button"><i class="icon-folder-close"></i>Archive</a> <a href="http://twitter.com/share?url={{ site.url | escape }}{{ page.url | escape }}/&text=Crystal Beasley: {{ page.title | escape }}" target="_blank" class="small button"><i class="icon-twitter"></i>Tweet</a>
-			<hr />
-			{% for tag in page.tags %}
-			  <h3 id="{{ tag }}-ref">Other posts tagged {{ tag }}</h3>
 
-			  {% for post in site.posts reversed %}
+<div class="row">
+<div class="large-3 columns">
 
-			    {% if post.tags contains tag %}
-			      <h3><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h3>
-			      {{ post.content }}
-			    {% endif %}
+<h3>{{ page.title }}</h3>
+</div>
+<div class="large-9 columns">
+{{ content }}
 
-			  {% endfor %}
-
-			{% endfor %}
-			</div>
+<hr>
+<h4><i class="icon-chevron-right"></i> Discover more in the <a href="/archive/">archive</a>!</h4>
+</div>
+</div>
 
 
-			<hr>
-
-
-		</div>
 	</div>
 </div> <!-- /post -->
 
