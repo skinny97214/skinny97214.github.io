@@ -8,7 +8,9 @@ type: post
 published: true
 ---
 
-I think we can all agree it's a missed opportunity that business writing doesn't use enough Star Trek:TNG references. Steve Jobs needs a day off anyway. Picard was brilliant, not because he knew immediately what the best plan of attack was, but because he surrounded himself with brilliant advisors from each critical ship function. He looked to Data for his unfailingly analytical assessment of a situation. He looked to Geordi to know if the shields would hold. He found advice on alien and human physiology from Beverly. He sought out Deanna's empathic read of an enemy. When Picard weighed out a decision, there were two women at the table. I like this version of the future.
+I think we can all agree it's a missed opportunity that business writing doesn't use enough Star Trek:TNG references. Steve Jobs needs a day off anyway. 
+
+Picard was brilliant, not because he knew immediately what the best plan of attack was, but because he surrounded himself with brilliant advisors from each critical ship function. He looked to Data for his unfailingly analytical assessment of a situation. He looked to Geordi to know if the shields would hold. He found advice on alien and human physiology from Beverly. He sought out Deanna's empathic read of an enemy. When Picard weighed out a decision, there were two women at the table. I like this version of the future.
 
 What does every good company have in common? They have all their bases covered. They have a balanced team with senior advisors in every area. Too often we have our Geordi, Worf and Data, but no Deanna. Companies must have empathy with customers and stakeholders. They have to know if they're solving a real problem that connects with a real person.
 
@@ -29,20 +31,18 @@ Empathy with your customer is a strategic priority. Most companies fail because 
 
 Don’t mistake this an an absolution of responsibility for getting more women in technical roles. We absolutely need to get more women in technical roles. We also have to reshape our concept of what “women’s work” is and why it’s critical.
 
-
-
 And, while we're at it, let’s pay these roles more! Not because you're a *good person* and not because *it feels nice.* If you invest cold, hard cash into this strategic priority, you'll respect their time differently and you'll listen differently when they speak. You'll write their job descriptions differently. You'll hire people with more ability and more capacity to grow into influential roles. 
 
 If you’re looking for merely an office admin, you'll hire a mere office admin. If you reshape your concept into someone who can bring together stakeholders to synthesize their interests and who can direct those scattered ideas into a cohesive vision with which to guide the company (a typical thing office admins do, but rarely get recognition for), you'll give them the autonomy and responsibility they need to accomplish that.
 
-If you’re merely looking for someone to make pretty screens and watch people in usability tests to tell you what’s broken, you’re hire merely a designer/researcher. If you reshape your concept into advocate for the customer, you will find someone who will recenter your product around solving real user problems instead of building yet another impressive but useless feature.
+If you’re merely looking for someone to make pretty screens and watch people in usability tests to tell you what’s broken, you’ll hire merely a designer/researcher. If you reshape your concept into advocate for the customer, you will find someone who will recenter your product around solving real user problems instead of building yet another impressive but useless feature.
 
-If you’re looking for merely someone to respond to all those annoying emails from customers, you’ll hire merely a customer service rep. If reshape your concept into making it everyone’s job to help users, you will fundamentally change the way your company builds products.
+If you’re looking for merely someone to respond to all those annoying emails from customers, you’ll hire merely a customer service rep. If you reshape your concept into making it everyone’s job to help users, you will fundamentally change the way your company builds products.
 
 ###But what about the shit work? Don't we need to hire someone to do the shit work?
 
 
-The best companies take the opposite stance. 37Signals made it [everyone’s job to do the shit work](http://signalvnoise.com/posts/3163-making-shit-work-is-everyones-job). They distributed it out amongst everyone. You can’t have one person whose whole job is to do the shit work. What kind of person would be content to stay in such a role? Look at the [legendary culture of service](http://www.deliveringhappiness.com/) Zappos has built by requiring everyone to spend their first weeks as a warehouse worker.
+The best companies take the opposite stance. 37Signals made it [everyone’s job to do the shit work](http://signalvnoise.com/posts/3163-making-shit-work-is-everyones-job). They distributed it out among everyone. You can’t have one person whose whole job is to do the shit work. What kind of person would be content to stay in such a role? Look at the [legendary culture of service](http://www.deliveringhappiness.com/) Zappos has built by requiring everyone to spend their first weeks as a warehouse worker.
 
 (To dive even deeper: Let’s also examine what tasks you are perceiving as “shit work” and see in what ways there are cultural devaluations of work which women stereotypically do. [Emotional and domestic work](http://en.wikipedia.org/wiki/Emotional_labor) such as childcare, food prep, family negotiator often translate as "office mom" into event planning, ensuring team cohesion and making sure everyone eats a square meal.)
 
