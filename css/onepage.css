@@ -227,10 +227,41 @@ section.mannequin {
 	width: 100%;
 	max-width: 500px;
 }
+
+.input-group li+li {
+	margin-bottom: 6px;
+	font-family: sans-serif;
+	font-size: .7em;
+}
+
+.input-group li:first-child {
+	margin-bottom: 5px;
+}
+
+.three-col ul {
+	list-style: none;
+	float: left;
+	width: 33%;
+	margin: 0;
+	padding: 0 0 35px 0;
+}
+
+.input-group input {
+	display: inline;
+	width: 20px;
+}
+.input-group label {
+	display: inline;
+}
 div.survey-container {
 	width: 20%;
 	float: left;
-	padding: 35px 0;
+}
+.mc-field-group {
+	padding-bottom: 35px;
+}
+.mc-field-group.input-group{
+	padding-bottom: 0;
 }
 .survey-container p{
 	margin-bottom: 0px;
@@ -292,7 +323,7 @@ blockquote {
 @media only screen and (max-width: 30em) {
 	section { padding-top: 2em; padding-bottom: 2em; }
 	section.nude, section.cloud, section.mannequin { background-size: 200%; }
-	div.survey-container {
+	div.survey-container, .three-col ul {
 		width: 100%;
 		float: none;
 	}
