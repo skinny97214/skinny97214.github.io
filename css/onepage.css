@@ -1,10 +1,4 @@
 @font-face {
-	font-family: 'Josefin Slab', serif;
-    font-style: italic;
-    font-weight: normal;
-}
-
-@font-face {
 	font-family: 'Plaster', cursive;
 	font-weight: normal;
 	font-style: normal;
@@ -133,9 +127,10 @@ section.tiptop {
 }
 
 section.title {
-	background-color: white;
+	background: white url('/img/levis-skinny.jpg') top center;
 	padding-top: 0.5em;
 	color: #444;
+	height: 500px;
 }
 
 section.title h1 {
