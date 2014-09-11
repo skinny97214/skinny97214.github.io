@@ -127,11 +127,10 @@ section.tiptop {
 }
 
 section.title {
-	background: white url('/img/levis-skinny.jpg') top center;
+	background: white;
 	padding-top: 0.5em;
 	color: #444;
-	height: 500px;
-}
+	}
 
 section.title h1 {
 	text-align: center;
