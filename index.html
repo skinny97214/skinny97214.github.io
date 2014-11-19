@@ -58,7 +58,7 @@
 
 		<section class="survey">
 		<!-- Begin MailChimp Signup Form -->
-		<div id="mc_embed_signup">
+		<div id="mc_signup">
 			<form action="http://skinnywhitegirl.us2.list-manage1.com/subscribe/post?u=493c3cbc6ea8f074d84037bef&amp;id=eb4baf5487" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 				<h2>Newsletter &amp; Fit Survey</h2>
 				<p class="helper">I respect that this data is very personal. It will never be sold to anyone. Period.</p>
@@ -223,7 +223,7 @@
 		try{
 		    err_style = mc_custom_error_style;
 		} catch(e){
-		    err_style = '#mc_embed_signup input.mce_inline_error{border-color:#6B0505;} #mc_embed_signup div.mce_inline_error{margin: 0 0 1em 0; padding: 5px 10px; background-color:#6B0505; font-weight: bold; z-index: 1; color:#fff;}';
+		    err_style = '#mc_signup input.mce_inline_error{border-color:#6B0505;} #mc_signup div.mce_inline_error{margin: 0 0 1em 0; padding: 5px 10px; background-color:#6B0505; font-weight: bold; z-index: 1; color:#fff;}';
 		}
 		var head= document.getElementsByTagName('head')[0];
 		var style= document.createElement('style');
@@ -266,7 +266,7 @@
 		      options = { url: 'http://skinnywhitegirl.us2.list-manage.com/subscribe/post-json?u=493c3cbc6ea8f074d84037bef&id=eb4baf5487&c=?', type: 'GET', dataType: 'json', contentType: "application/json; charset=utf-8",
 		                    beforeSubmit: function(){
 		                        $('#mce_tmp_error_msg').remove();
-		                        $('.datefield','#mc_embed_signup').each(
+		                        $('.datefield','#mc_signup').each(
 		                            function(){
 		                                var txt = 'filled';
 		                                var fields = new Array();
@@ -296,7 +296,7 @@
 			                                    }
 		                                    });
 		                            });
-		                        $('.phonefield-us','#mc_embed_signup').each(
+		                        $('.phonefield-us','#mc_signup').each(
 		                            function(){
 		                                var fields = new Array();
 		                                var i = 0;
@@ -361,7 +361,7 @@
 		                err_id = 'mce_tmp_error_msg';
 		                html = '<div id="'+err_id+'" style="'+err_style+'"> '+msg+'</div>';
 		                
-		                var input_id = '#mc_embed_signup';
+		                var input_id = '#mc_signup';
 		                var f = $(input_id);
 		                if (ftypes[index]=='address'){
 		                    input_id = '#mce-'+fnames[index]+'-addr1';
@@ -389,6 +389,6 @@
 		}
 		
 		</script>
-		<!--End mc_embed_signup-->
+		<!--End mc_signup-->
 	</body>
 </html>
