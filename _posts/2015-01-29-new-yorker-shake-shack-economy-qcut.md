@@ -15,7 +15,7 @@ The rewrite itself I'd position as something like "so I tried a little experimen
 
  If you picked up a paper or read a blog on January 29th, it was hard not to see the news of Shake Shack's IPO. Shake Shack is a beloved eatery which started with a few stands in New York City and grew to a have locations worldwide. I myself made the pilgrimage to the leafy location in Madison Square Park for their lovingly crafted burgers. Shake Shack was and still is emblematic of everything I love about the slow food movement – attention to detail, small business, locally grown ingredients and best of all, deliciousness.
  
-Clothing is today where food was ten or more years ago. I don't know of a better way to convey where I think fashion can and should go and what I hope Qcut will become.  This is a word-for-word rewrite of today's article in <a href="http://www.newyorker.com/magazine/2015/01/26/shake-shack-economy">The New Yorker. My words are italicized so you can see what is original and what's mine. So, without further ado, this is the article I hope they'll write about Qcut in ten years...
+There's fast food and slow food. H&M, Zara and Forever 21 created fast fashion. Qcut is part of the nascent slow fashion movement. I don't know of a better way to convey where I think fashion can and should go and what I hope Qcut will become.  This is a word-for-word rewrite of today's article in <a href="http://www.newyorker.com/magazine/2015/01/26/shake-shack-economy">The New Yorker. My words are italicized so you can see what is original and what's mine. So, without further ado, this is the article I hope they'll write about Qcut in ten years...
  
  ––
  
