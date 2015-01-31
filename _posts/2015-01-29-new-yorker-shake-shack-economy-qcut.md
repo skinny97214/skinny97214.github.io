@@ -10,7 +10,7 @@ published: true
 
 <img src="/img/new-yorker-shake-shack-economy.png" alt="New Yorker masthead" />
 
- This is a word-for-word rewrite of today's article in <a href="http://www.newyorker.com/magazine/2015/01/26/shake-shack-economy">The New Yorker about the rise of Shake Shack</a>, a restaurant which focuses of quality and taste in the face of fast-food giants like McDonald's. My words are bracketed so you can see what is original and what's mine. I don't know of a better way to convey where I think fashion can and should go and what I hope Qcut will become. So, without further ado, this is the article I hope they'll write about us in ten years...
+ This is a word-for-word rewrite of today's article in <a href="http://www.newyorker.com/magazine/2015/01/26/shake-shack-economy">The New Yorker about the rise of Shake Shack</a>, a restaurant which focuses of quality and taste in the face of fast-food giants like McDonald's. My words are bracketed so you can see what is original and what's mine. Clothing is today where food was ten or more years ago. I don't know of a better way to convey where I think fashion can and should go and what I hope Qcut will become. So, without further ado, this is the article I hope they'll write about us in ten years...
  
  ––
  
