@@ -10,12 +10,9 @@ published: true
 
 <img src="/img/new-yorker-shake-shack-economy.png" alt="New Yorker masthead" />
 
-Give a short explanation of Shake Shack and its growth, then the fact that it got a glowing write up in the NYer, then propose that this is a larger movement -- and QCut is right at home here.
-The rewrite itself I'd position as something like "so I tried a little experiment, substituting QCut for Shake Shack"etc
-
  If you picked up a paper or read a blog on January 29th, it was hard not to see the news of Shake Shack's IPO. Shake Shack is a beloved eatery which started with a few stands in New York City and grew to a have locations worldwide. I myself made the pilgrimage to the leafy location in Madison Square Park for their lovingly crafted burgers. Shake Shack was and still is emblematic of everything I love about the slow food movement – attention to detail, small business, locally grown ingredients and best of all, deliciousness.
  
-There's fast food and slow food. H&M, Zara and Forever 21 created fast fashion. Qcut is part of the nascent slow fashion movement. I don't know of a better way to convey where I think fashion can and should go and what I hope Qcut will become.  This is a word-for-word rewrite of today's article in <a href="http://www.newyorker.com/magazine/2015/01/26/shake-shack-economy">The New Yorker. My words are italicized so you can see what is original and what's mine. So, without further ado, this is the article I hope they'll write about Qcut in ten years...
+Just like there fast food and slow food, there's fast fashion and slow fashion. H&M, Zara and Forever 21 are the names you know cranking out cheap clothes with little regard to quality or ethics. Clothing is about ten years behind the slow food movement. I tried a little experiment to see what would happen if I did a find-and-replace with the article in <a href="http://www.newyorker.com/magazine/2015/01/26/shake-shack-economy">The New Yorker</a>. I don't know of a better way to convey where I think fashion can and should go and what I hope Qcut will become. My words are italicized so you can see what is original and what's mine. So, without further ado, this is the article I hope they'll write about Qcut in ten years...
  
  ––
  
