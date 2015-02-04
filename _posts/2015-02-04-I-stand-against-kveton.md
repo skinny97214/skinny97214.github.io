@@ -10,7 +10,7 @@ published: true
 
 _Trigger warning: explicit language_
 
-I was invited to speak about my [company](http://qcut.com "Qcut") at [Ignite Bridgetown](https://twitter.com/ignitebridgetwn), part of [Portland Startup Weekend](http://portland.startupweekend.org/). Of course I said yes. The organizers, Rick Turoczy and Cami Kaos, are pillars of the tech community and have supported me back in the PieLab days and beyond.
+I was invited to speak about my [company](http://qcut.com "Qcut") at [Ignite Bridgetown](https://twitter.com/ignitebridgetwn), part of [Portland Startup Weekend](http://portland.startupweek.co/). Of course I said yes. The organizers, Rick Turoczy and Cami Kaos, are pillars of the tech community and have supported me back in the PieLab days and beyond.
 
 I only realized that I would be sharing the stage with an accused rapist on Friday, when a friend texted me “Wow. Scott Kveton is on the Ignite lineup.” It took me only a matter of minutes to decide to withdraw as a speaker in protest unless he was removed. The organizers, as far as I can tell, gave him the choice whether or not to remain. He decided to remain. 
 
