@@ -14,7 +14,7 @@ I was invited to speak about my [company](http://qcut.com "Qcut") at [Ignite Bri
 
 I only realized that I would be sharing the stage with an accused rapist on Friday, when a friend texted me “Wow. Scott Kveton is on the Ignite lineup.” It took me only a matter of minutes to decide to withdraw as a speaker in protest unless he was removed. The organizers, as far as I can tell, gave him the choice whether or not to remain. He decided to remain. 
 
-The decision the event organizers are making is not whether he's guilty, but rather whether his presence as a speaker is good for the event and the community. We all have to come to conclusion with all the data we have available. (Note: I’ve intentionally left the discussion of the evidence against him to the last, for those who are triggered by such discussion.) You can’t decide not to decide. Giving him the benefit of the doubt is itself a decision.
+The decision the event organizers are making is not whether he's guilty, but rather whether his presence as a speaker is good for the event and the community. We all have to come to a conclusion with all the data we have available. (Note: I’ve intentionally left the discussion of the evidence against him to the last, for those who are triggered by such discussion.) You can’t decide not to decide. Giving him the benefit of the doubt is itself a decision.
 
 ### This is the hard reality of what it takes to make the tech community safe for women. 
 
@@ -24,9 +24,9 @@ This is especially true in the tech community, as many of us have seen in the pa
 
 Because of all of these contributing factors, I've made the decision to speak out about assault in this community, and withdraw my participation and support for an event that chooses willfully to have an accused rapist take the stage. This is not a court of law. I see, below, what evidence is available, and I have made my decision. I encourage you to do the same.
 
-##### Do not let the memory of this “unfortunate incident” be erased. Do not let us, the women of your community, be erased.{
+##### Do not let the memory of this “unfortunate incident” be erased. Do not let us, the women of your community, be erased.
 
-So what can you do now? *If you’re attending Ignite, and you support believing victims of sexual violence, I propose this: When Kveton takes the stage, get up walk out of the auditorium.* If you can’t get all the way out of your seat, and you’re able-bodied, stand up and turn your back. Show that assaulting women and all genders is not accepted in this community.
+So what can you do now? *If you’re attending Ignite, and you support believing victims of sexual violence, I propose this: When Kveton takes the stage, get up and walk out of the auditorium.* If you can’t get all the way out of your seat, and you’re able-bodied, stand up and turn your back. Show that assaulting women and all genders is not accepted in this community.
 
 _–– Trigger warning reiterated, this is where the graphic descriptions begin. ––_
 
