@@ -7,6 +7,7 @@ status: publish
 type: post
 published: true
 ---
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/_flood_/6317207354/in/photolist-aCekEb-8rL6SB-7mJiSM-3mz6WT-byiRy9-i2JnRe-6nUuo-67zbgk-aEcGM9-9ipFod-kvNdE-9DR5Vn-9fkbQc-9ZBB64-iveSSm-5mgpYP-2sKNT9-mD7gHH-61RUeh-mD6Spk-4dYC4i-4BNjKz-5ruF5m-5mgq2g-cLRhjm-5mwQjz-5mwQ7R-5n6LdZ-4mNzAX-5mkFTJ-5mB5QN-rR7KTf-cmyYGm-iNpH9k-aDfSh2-4qm9eh-9hQS3R-byiRTG-4U5mdw-4ndugL-6WNfH-5QfsW5-zyUrU-td6RtU-5mS8Lt-taeWq-5mkFGW-8ae52Z-8ae4R2-yguXy" title="November 5, 2011"><img src="https://farm7.staticflickr.com/6226/6317207354_4559f7562c_b.jpg" width="740" height="740" alt="November 5, 2011"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 I've been doing something every morning – call it a daily practice – that reminds me to be bold.
  
@@ -42,6 +43,6 @@ The voices seize onto the next topic as soon as it arises, of course. But I've f
  
 I'd love to hear what you do in your daily life to help you be more bold. Boldness is contagious, so please share yours. I'm on the Twitter at [@crystaldbeasley](http://twitter.com/crystaldbeasley).
  
- 
+*Thanks to Stefan Sagmeister for inspiring this essay in the first place.*
 
 
