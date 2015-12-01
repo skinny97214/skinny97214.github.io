@@ -125,7 +125,7 @@ a:hover.button { text-decoration: none; }
 	img { @include imageSize(464px, 324px); }
 }
 
-#headerPost { @include headerImg("../img/header-post.jpg", 400px); }
+#headerPost { @include headerImg("../img/header-home.jpg", 400px); }
 
 #headerArchive {  @include headerImg("../img/header-archive.jpg", 400px); }
 

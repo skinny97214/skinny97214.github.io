@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I Stand Against Kveton
+title: On Boldness and Earl Grey
 categories:
 tags: 
 status: publish
@@ -8,47 +8,40 @@ type: post
 published: true
 ---
 
-_Trigger warning: explicit language_
+I've been doing something every morning – call it a daily practice – that reminds me to be bold.
+ 
+I've given myself an assignment: to drink whatever flavor of tea I like. Successfully completing this task requires that I chose whichever one I damn well know I want that day – and in so doing give myself permission to make a decision for the sole reason of my own preference, taking no other considerations into account.
+ 
+I have taken many calculated risks in my life: traveling to Syria by myself just for fun; [volunteering in Cambodia](http://crystalbeasley.com/2013/09/10/my-one-third-life-crisis/) during three months of monsoon season; picking [public](http://crystalbeasley.com/2015/02/04/I-stand-against-kveton/) [fights](http://crystalbeasley.com/2014/01/04/my-nerd-story/) with [powerful men](https://twitter.com/search?q=from%3Askinny%20pmarca) in tech; running an [experimental pie cart](http://crystalbeasley.com/2010/08/24/first-day-of-pielabpdx/) on the sidewalks of Portland, Oregon; quitting a perfectly wonderful job to start a [women’s jeans company](http://qcut.com). Boldness has always served me well but it doesn't come easily and I have to talk myself into it every time.
+ 
+All year, I’ve started each day by trundling into the kitchen, shielding my eyes from the Portland gloom. The cat yowls encouragement only because she lacks thumbs to open the can of Fancy Feast Chicken and Cheese with Gravy. 
 
-I was invited to speak about my [company](http://qcut.com "Qcut") at [Ignite Bridgetown](https://twitter.com/ignitebridgetwn), part of [Portland Startup Weekend](http://portland.startupweek.co/). Of course I said yes. The organizers, Rick Turoczy and Cami Kaos, are pillars of the tech community and have supported me back in the PieLab days and beyond.
-
-I only realized that I would be sharing the stage with an accused rapist on Friday, when a friend texted me “Wow. Scott Kveton is on the Ignite lineup.” It took me only a matter of minutes to decide to withdraw as a speaker in protest unless he was removed. The organizers, as far as I can tell, gave him the choice whether or not to remain. He decided to remain. 
-
-The decision the event organizers are making is not whether he's guilty, but rather whether his presence as a speaker is good for the event and the community. We all have to come to a conclusion with all the data we have available. (Note: I’ve intentionally left the discussion of the evidence against him to the last, for those who are triggered by such discussion.) You can’t decide not to decide. Giving him the benefit of the doubt is itself a decision.
-
-### This is the hard reality of what it takes to make the tech community safe for women. 
-
-We can’t slip back into normal and let Kveton reinvent and relaunch himself as a respected member of the community. In our society, when someone is accused of rape, we have a serious set of choices to make: to believe the accused, or the accuser. Because of how society is structured, by default, we often choose to deny the victim her/his full humanity by defaulting to the assumption that the victim is lying. [Between 2 and 8 percent of accusations are false.](http://everydayfeminism.com/2013/06/lie-about-rape/) This default behavior perpetuates rape culture, and contributes to women particularly being repeatedly victimized not just by assaults, but also by the layer of victimization that they will never, ever be believed. (54% of rapes are not reported to police and 97% of accused rapists never go to jail.)
-
-This is especially true in the tech community, as many of us have seen in the past year particularly, around online harassment. Our collective condoning of terrible, sexist, and violent behaviors means that we perpetuate the culture that supports it. If we are not speaking out, we are complicit. In that culture, in *our* culture, women's experiences are denied, erased and invalidated. And we wonder why there's a pipeline problem with women in tech?
-
-Because of all of these contributing factors, I've made the decision to speak out about assault in this community, and withdraw my participation and support for an event that chooses willfully to have an accused rapist take the stage. This is not a court of law. I see, below, what evidence is available, and I have made my decision. I encourage you to do the same.
-
-##### Do not let the memory of this “unfortunate incident” be erased. Do not let us, the women of your community, be erased.
-
-So what can you do now? *If you’re attending Ignite, and you support believing victims of sexual violence, I propose this: When Kveton takes the stage, get up and walk out of the auditorium.* If you can’t get all the way out of your seat, and you’re able-bodied, stand up and turn your back. Show that assaulting women and all genders is not accepted in this community.
-
-_–– Trigger warning reiterated, this is where the graphic descriptions begin. ––_
-
-<img src="/img/salacious.png" alt="definition of salacious" />
-
-# The Evidence
-
-I am sympathetic to the concern that I am dragging Kveton’s good name through the mud. I am using all the information I have available to me to inform my belief. If everything in my interactions with a particular man, in this case Kveton himself, had already lead me to conclude he is a sexist bully, you better bet that if a woman accuses him of harassment or assault – I am going to believe that’s the truth. 
-
-In this incident, Kveton’s own words condemn him. I forced myself to read through the entire, painful [article from The Oregonian](http://www.oregonlive.com/silicon-forest/index.ssf/2014/07/top_portland_tech_ceo_faces_se.html#incart_river). According to the article, Kveton wrote this in an email to the victim. Emphasis is mine.
-
-"I think we did have a different memory ... I was not intoxicated and you were ... *I can remember you saying no in the past ... many, many, many times in fact and actually enjoying it all the same* ... I seem to think I even have video of it. That's neither here nor there however ... it was awful and I know it."      
-
-In addition, the story reports that he filmed their sex without her knowledge or permission. He later blackmailed her with these videos by threatening to show them to her employer. 
-
-My immediate gut reaction upon reading the rape accusation last July was, "Oh, he finally got caught." Do I know that Kveton is guilty? No. Do I believe he’s guilty? Yes, I believe it’s very likely true. I believe this anonymous woman, his child’s former nanny, was raped. By Kveton’s own admission, if the Oregonian’s reporting is correct, he raped her “many, many, many times in fact.”
-
-Let’s go back over the definition of rape – if a person says “no” and you have sex with that person anyways, you are a rapist. Kveton is claiming a BDSM defense here, which I call bullshit on. Safe and consensual BDSM has a number of measures ensuring the enthusiastic participation and security of all participants, including the _necessity_ of having a safe word defined beforehand. *Safe and consensual play negotiation ensures that you never accidentally rape your partner.* Practitioners of this style of kink care about not accidentally raping their partners. Again, Kveton’s own words:  "I know it was awful but we've always had that power differential. Maybe it was never healthy?” 
-
-No, Scott, it wasn’t ever healthy. If you accidentally raped your partner, you displayed gross negligence and disregard for her basic safety and are responsible for your actions. 
-
-We as a community are responsible for giving a damn.
-
+I open the drawer and survey my choices – [ginger peach](http://taooftea.com/product/ginger-peach/), [Tokyo green](https://www.harney.com/tokyo.html), [milk oolong](https://www.theteasmith.com/product/Milk-Oolong.html), [Paris black](https://www.harney.com/paris-tea.html), [Earl Grey](http://taooftea.com/product/earl-grey/). Such a stupidly simple task. Yet I find my head is cluttered with arguing voices. The “I” that is “I” makes the decision in an instant.
+ 
+The voices shout back.
+ 
+*"You've had Earl Grey five days in a row."*
+ 
+*"You're almost out of oolong, you better save it."*
+ 
+*"It's too expensive, drink the cheaper one."*
+ 
+*"If you don't like the ginger peach, why do you even have it? You should drink it so it doesn't get lonely."*
+ 
+What a bunch of bullshit. It’s all noise. Take the time to unwind those statements and they’re just a pile of petty judgments.
+ 
+I've done years of work identifying the difference between “me,” and “a voice in my head.” Doing the topic justice would take a book. In a nutshell, though, a “voice” is the old self protecting me from an old fear. When the voice tells me not to drink the expensive tea, that's the poor kid who grew up on food stamps talking. I named the voice who tries to keep me from living in a trailer park (again): Hi, Penny. She's a part of my history and will always be with me, but she is not me. Critically, she doesn't make the decisions.
+ 
+I'm not *her* – not anymore.
+ 
+I call this a practice because it’s a daily mental workout of setting an intention to connect with my gut instincts. The rest of the day, as I make decisions, there will be voices, telling me many things. Some of them, I will believe (I should believe even fewer of them). The chatter of past selves takes me away from the wisdom of my instincts, the sum of all that I know in this moment. If I don't practice listening, I won't be able to hear my present self.
+ 
+As soon as I pick up the tin of Earl Grey, the voices silence. They lost. The end. I enjoy the tea – fully. I'm always pleased with my choice.
+ 
+The voices seize onto the next topic as soon as it arises, of course. But I've flexed my muscle. I've reminded myself I have the strength to choose what serves the present me.
+ 
+I'd love to hear what you do in your daily life to help you be more bold. Boldness is contagious, so please share yours. I'm on the Twitter at [@crystaldbeasley](http://twitter.com/crystaldbeasley).
+ 
+ 
 
 
