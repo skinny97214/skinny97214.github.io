@@ -1,0 +1,679 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" xml:lang="en-US">
+    
+<!-- Mirrored from skinnywhitegirl.com/blog/ux-best-practices-login-persistence/452/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Jul 2017 17:42:17 GMT -->
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <title>UX Best Practices: login persistence | crystal beasley</title>
+        <meta http-equiv="Content-language" content="en-US" />
+		<link rel="profile" href="http://gmpg.org/xfn/11" />
+        <link rel="shortcut icon" href="/skinny/wp-content/themes/sight/images/favico.ico" type="image/x-icon" />
+        <link rel="stylesheet" type="text/css" media="all" href="/skinny/wp-content/themes/sight/style.css" />
+        <!--[if IE]><link rel="stylesheet" type="text/css" media="all" href="/skinny/content/themes/sight/ie.css" /><![endif]-->
+                
+
+
+<link rel='stylesheet' id='jquery.slimbox-css'  href='/skinny/wp-content/plugins/slimbox/stylesheets/jquery.slimbox89cc.css?ver=2.03' type='text/css' media='all' />
+<link rel='stylesheet' id='blackbirdpie-css-css'  href='/skinny/wp-content/plugins/twitter-blackbird-pie/css/blackbirdpie56f0.css?ver=20110416' type='text/css' media='all' />
+<script type='text/javascript' src='/skinny/wp-includes/js/jquery/jquery90f9.js?ver=1.11.1'></script>
+<script type='text/javascript' src='/skinny/wp-includes/js/jquery/jquery-migrate.min1576.js?ver=1.2.1'></script>
+<script type='text/javascript' src='/skinny/wp-content/plugins/slimbox/javascript/jquery.slimbox89cc.js?ver=2.03'></script>
+<script type='text/javascript' src='/skinny/wp-content/themes/sight/js/jquery.cycle.all.min863d.js?ver=4.1.18'></script>
+<script type='text/javascript' src='/skinny/wp-content/themes/sight/js/jquery.cookie863d.js?ver=4.1.18'></script>
+<script type='text/javascript' src='/skinny/wp-content/themes/sight/js/script863d.js?ver=4.1.18'></script>
+<script type='text/javascript' src='/skinny/wp-content/plugins/twitter-blackbird-pie/js/blackbirdpie9f6d.js?ver=20110404'></script>
+<script type='text/javascript' src='/skinny/wp-content/plugins/google-analyticator/external-tracking.min84fc.js?ver=6.4.3'></script>
+
+ 
+<link rel='prev' title='Being &#8220;right&#8221; is not enough' href='/skinny/being-right-is-not-enough/442/index.html' />
+<link rel='next' title='Web typography: hyphenation &amp; justification' href='/skinny/web-typography-hyphenation-justification/475/index.html' />
+<meta name="generator" content="WordPress 4.1.18" />
+<link rel='canonical' href='index.html' />
+<link rel='shortlink' href='/skinny/index20a4.html?p=452' />
+<script type="text/javascript">
+	jQuery(document).ready(function($){	
+	    var select = $('a[href$=".bmp"],a[href$=".gif"],a[href$=".jpg"],a[href$=".jpeg"], a[href$=".png"],a[href$=".BMP"],a[href$=".GIF"],a[href$=".JPG"],a[href$=".JPEG"],a[href$=".PNG"]');
+		select.slimbox();
+	});
+</script>
+<!-- Google Analytics Tracking by Google Analyticator 6.4.3: http://www.videousermanuals.com/google-analyticator/ -->
+<script type="text/javascript">
+	var analyticsFileTypes = [''];
+	var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-1913374-1']);
+        _gaq.push(['_addDevId', 'i9k95']); // Google Analyticator App ID with Google 
+        
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+        	</head>
+	<body >
+        <div class="wrapper">
+
+            <div class="header clear">
+                <div class="logo">
+                    <a href="/skinny/"><img src="/skinny/wp-content/uploads/2011/08/avatar_hot_tamale_reasonably_small.jpg" alt="crystal beasley"/></a>
+                </div>
+
+                <div class="site-description">			<div class="textwidget"><p>crystal beasley<br />
+gleam in her eye with whiteboard marker in hand</p>
+</div>
+		</div>
+                <div class="search">
+    <form method="get" id="searchform" action="/skinny/">
+        <fieldset>
+            <input name="s" type="text" onfocus="if(this.value=='Search') this.value='';" onblur="if(this.value=='') this.value='Search';" value="Search" />
+            <button type="submit"></button>
+        </fieldset>
+    </form>
+</div>
+                
+            </div>
+
+            <div class="nav"><ul id="dd" class="dd"><li id="menu-item-568" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-568"><a href="/skinny/index.html">Home</a></li>
+<li id="menu-item-562" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-562"><a href="/skinny/category/ux/index.html">ux</a></li>
+<li id="menu-item-569" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-569"><a href="/skinny/category/collaboration/index.html">collaboration</a></li>
+<li id="menu-item-565" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-565"><a href="/skinny/category/mozilla/index.html">mozilla</a></li>
+<li id="menu-item-563" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-563"><a href="/skinny/category/side-projects/index.html">side projects</a></li>
+<li id="menu-item-564" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-564"><a href="/skinny/category/portland/index.html">portland</a></li>
+<li id="menu-item-567" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-567"><a href="/skinny/category/always-choose-awesome/index.html">always choose awesome</a></li>
+</ul></div>
+            
+            <!-- Container -->
+            <div id="container" class="clear">
+                <!-- Content -->
+                <div id="content">
+
+            
+        <div class="content-title">
+            <a href="/skinny/category/ux/index.html" rel="category tag">ux</a>            <a href="http://facebook.com/share.php?u=/skinny/ux-best-practices-login-persistence/452/&amp;t=UX+Best+Practices%3A+login+persistence" target="_blank" class="f" title="Share on Facebook"></a>
+            <a href="http://twitter.com/home?status=UX%20Best%20Practices:%20login%20persistence%20http://tinyurl.com/3ch33a3" target="_blank" class="t" title="Spread the word on Twitter"></a>
+            <a href="http://digg.com/submit?phase=2&amp;url=/skinny/ux-best-practices-login-persistence/452/&amp;title=UX%20Best%20Practices:%20login%20persistence" target="_blank" class="di" title="Bookmark on Del.icio.us"></a>
+            <a href="http://stumbleupon.com/submit?url=/skinny/ux-best-practices-login-persistence/452/&amp;title=UX+Best+Practices%3A+login+persistence" target="_blank" class="su" title="Share on StumbleUpon"></a>
+        </div>
+
+        <div class="entry">
+            <div class="post-452 post type-post status-publish format-standard has-post-thumbnail hentry category-ux single clear" id="post_452">
+                <div class="post-meta">
+                    <h1>UX Best Practices: login persistence</h1>
+                    by <span class="post-author"><a href="/skinny/author/admin/index.html" title="Posts by Crystal Beasley">Crystal Beasley</a></span> on <span
+                        class="post-date">Aug 15, 2011</span> &bull; <span>7:56 pm</span> <a
+                        href="#comments" class="post-comms">17 Comments</a></div>
+                <div class="post-content"><p><a href="/skinny/wp-content/uploads/2011/08/amazon-comic.jpg"><img src="/skinny/wp-content/uploads/2011/08/amazon-comic-600x261.jpg" alt="persistent login from amazon ux" title="amazon-login-ux" width="600" height="261" class="alignleft size-large wp-image-472" /></a></p>
+<p>Login persistence has to be one of my top three UX annoyances. I see it everywhere, on tons of sites, big and small. Login friction is a huge problem and yet so many get it wrong.</p>
+<p>I have a couple of theories about why this is. Login persistence seems like a minor issue and it&#8217;s never URGENT so it never makes it up to the top of the list to get fixed. Also, there&#8217;s no real upside for a developer in reducing security. Setting the login cookie to expire in a year or never means someone *could* impersonate a user on a shared and/or public computer. OH NOES! They could add tons of comments to your TPR report generator site in someone else&#8217;s name! OH THE HORROR!  </p>
+<p><img src="/skinny/wp-content/uploads/2011/08/remember-me-410x180.jpg" alt="checkbox login openid" title="remember-me" width="410" height="180" class="aligncenter size-medium wp-image-456" /></p>
+<p>To add insult to injury is that damnable little &#8220;remember me&#8221; checkbox. Does it ever do anything? I&#8217;d like it if when I checked the box it would make the developer rip a really big windy at that moment. I digress&#8230; People are sad when you forget them. ALWAYS REMEMBER PEOPLE. </p>
+<p>Amazon has sorted this out. They have millions of people&#8217;s credit card numbers. They are a giant retailer. Their risk is much higher than yours and yet, they let you put stuff in your cart, show you recommendations based on your personal information, and see the contents of your cart. It&#8217;s when you checkout that it triggers you to login. At that point, you have a very clear task to accomplish and are motivated.</p>
+<p>How motivated are your users? I hope you&#8217;re providing a richer experience to users who are logged in. Yet users are only motivated to login when they have a specific task to accomplish that requires it. </p>
+<p>Proposal for best practice is this: have users logins persist forever. If you have sensitive info such as ecommerce, reauth right before they access that info. To keep your pretty databases from filling up with random sessions, delete the cookie if a user hasn&#8217;t logged in after two or three months. That way even infrequent users will never have to reauthenticate. </p>
+<p>We made this change on <a href="http://support.mozilla.com/">support.mozilla.com</a> and it has been very well received.</p>
+<p>What complexities do you think this would introduce?</p>
+</div>
+                <div class="post-footer"></div>
+            </div>
+            <div class="post-navigation clear">
+                                                            <a class="post-prev" href="/skinny/being-right-is-not-enough/442/index.html"><em>Previous post</em><span>Being "right" is not enough</span></a>
+                                                                <a class="post-next" href="/skinny/web-typography-hyphenation-justification/475/index.html"><em>Next post</em><span>Web typography: hyphenation & justification</span></a>
+                                    <div class="line"></div>
+            </div>
+        </div>
+
+            
+<div class="comments">
+    
+    
+    <div id="comments">
+            <h3>17 comments</h3>
+        <div class="comment_list">
+
+            <!-- <div class="navigation">
+                <div class="alignleft"></div>
+                <div class="alignright"></div>
+            </div> -->
+
+            <ol>
+                	<li>
+        <div id="comment-249" class="comment even thread-even depth-1">
+            <table>
+                <tr>
+                    <td>
+                        <img alt='' src='http://0.gravatar.com/avatar/af70c0a5f0abfb7165efb1613b868034?s=70&amp;d=http%3A%2F%2Fskinnywhitegirl.com%2Fblog%2Fwp-content%2Fthemes%2Fsight%2Fimages%2Fno-avatar.png%3Fs%3D70&amp;r=G' class='avatar avatar-70 photo' height='70' width='70' />                    </td>
+                    <td>
+                        <div class="comment-meta">
+                            <p class="comment-author"><span><a href='http://twitter.com/planetmozilla/status/103259442648322048/' rel='external nofollow' class='url'>Planet Mozilla (@planetmozilla)</a></span> says:</p>                            <p class="comment-date">Aug 15, 2011</p>                                                    </div>
+                    </td>
+                    <td>
+                        <div class="comment-text">
+                                                        <p>UX Best Practices: login persistence <a href="http://t.co/jJnn8Be" rel="nofollow">http://t.co/jJnn8Be</a></p>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+         </div>
+</li><!-- #comment-## -->
+	<li>
+        <div id="comment-242" class="comment odd alt thread-odd thread-alt depth-1">
+            <table>
+                <tr>
+                    <td>
+                        <img alt='' src='http://0.gravatar.com/avatar/c9c2aab18c8c14e0274f3e55a7e1746f?s=70&amp;d=http%3A%2F%2Fskinnywhitegirl.com%2Fblog%2Fwp-content%2Fthemes%2Fsight%2Fimages%2Fno-avatar.png%3Fs%3D70&amp;r=G' class='avatar avatar-70 photo' height='70' width='70' />                    </td>
+                    <td>
+                        <div class="comment-meta">
+                            <p class="comment-author"><span><a href='http://twitter.com/caryy' rel='external nofollow' class='url'>Cary</a></span> says:</p>                            <p class="comment-date">Aug 15, 2011</p>                                                    </div>
+                    </td>
+                    <td>
+                        <div class="comment-text">
+                                                        <p>I can see where you&#8217;re coming from, but I actually *like* having the &#8220;remember me&#8221; option.  I think it should be selected by default, but the option is nice to have: If I&#8217;m on a friend&#8217;s computer and I log in to some site to check a message or look something up, I don&#8217;t want it to remember my account&#8230; that&#8217;s not my computer.  Furthermore, I&#8217;m not about to go rooting around in their cookies to purge my session&#8217;s login persistence info.  Now, one might argue that I should simply make sure to log out before handing the computer back over.  There are two problems I see with that: 1. People (read: *all* people) forget to log out (plus if there&#8217;s no &#8220;remember me&#8221; box, decades of conditioning have taught us that the site will not remember you). 2. From a UX perspective, logout is very rarely a pleasant ordeal and, like the &#8220;remember me&#8221; checkbox, it&#8217;s not a make-or-break feature from a designer&#8217;s point of view&#8230;. your logout functionality is not going to cost you any traffic.  So there&#8217;s little incentive to give that feature much thought.  The fewer people clicking logout on your site, the better&#8230; for a host of reasons.</p>
+<p>TL;DR I can agree that &#8220;remember me&#8221; is good default functionality, but I think some users (like me) would really feel robbed if it was no longer optional.</p>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+         </div>
+</li><!-- #comment-## -->
+	<li>
+        <div id="comment-248" class="comment even thread-even depth-1">
+            <table>
+                <tr>
+                    <td>
+                        <img alt='' src='http://0.gravatar.com/avatar/2d9c733a9dae483d6e4d01337bff3f82?s=70&amp;d=http%3A%2F%2Fskinnywhitegirl.com%2Fblog%2Fwp-content%2Fthemes%2Fsight%2Fimages%2Fno-avatar.png%3Fs%3D70&amp;r=G' class='avatar avatar-70 photo' height='70' width='70' />                    </td>
+                    <td>
+                        <div class="comment-meta">
+                            <p class="comment-author"><span><a href='http://twitter.com/dascritch/status/103357022484959232/' rel='external nofollow' class='url'>Xavier Mouton-Dubosc (@dascritch)</a></span> says:</p>                            <p class="comment-date">Aug 16, 2011</p>                                                    </div>
+                    </td>
+                    <td>
+                        <div class="comment-text">
+                                                        <p>Confort vs sécurité. Je suis pas sûr que Crystal Beasley de Mozilla a raison de supprimer la case &quot;remember me&quot; <a href="http://t.co/88nKks1" rel="nofollow">http://t.co/88nKks1</a></p>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+         </div>
+</li><!-- #comment-## -->
+	<li>
+        <div id="comment-243" class="comment odd alt thread-odd thread-alt depth-1">
+            <table>
+                <tr>
+                    <td>
+                        <img alt='' src='http://0.gravatar.com/avatar/63ab3284cd28d9504d10a6ede2328ccc?s=70&amp;d=http%3A%2F%2Fskinnywhitegirl.com%2Fblog%2Fwp-content%2Fthemes%2Fsight%2Fimages%2Fno-avatar.png%3Fs%3D70&amp;r=G' class='avatar avatar-70 photo' height='70' width='70' />                    </td>
+                    <td>
+                        <div class="comment-meta">
+                            <p class="comment-author"><span>Ed</span> says:</p>                            <p class="comment-date">Aug 16, 2011</p>                                                    </div>
+                    </td>
+                    <td>
+                        <div class="comment-text">
+                                                        <p>But Amazon is an example where Login details are needed last. What happens to Digg or Mozilla, when you need to vote on Bugs or news?</p>
+<p>Having Remember Me is an option for those who use the site on Public Computer? No?</p>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+         </div>
+</li><!-- #comment-## -->
+	<li>
+        <div id="comment-247" class="comment even thread-even depth-1">
+            <table>
+                <tr>
+                    <td>
+                        <img alt='' src='http://1.gravatar.com/avatar/9cc91ed0a46bba25fd22c0ff6bbc9530?s=70&amp;d=http%3A%2F%2Fskinnywhitegirl.com%2Fblog%2Fwp-content%2Fthemes%2Fsight%2Fimages%2Fno-avatar.png%3Fs%3D70&amp;r=G' class='avatar avatar-70 photo' height='70' width='70' />                    </td>
+                    <td>
+                        <div class="comment-meta">
+                            <p class="comment-author"><span><a href='http://twitter.com/userexperience/status/103395937656901632/' rel='external nofollow' class='url'>Jonathan Lupo UX (@userexperience)</a></span> says:</p>                            <p class="comment-date">Aug 16, 2011</p>                                                    </div>
+                    </td>
+                    <td>
+                        <div class="comment-text">
+                                                        <p>UX Best Practices? I disagree. #login persistence<br />
+<a href="http://t.co/nSGLjzK" rel="nofollow">http://t.co/nSGLjzK</a></p>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+         </div>
+</li><!-- #comment-## -->
+	<li>
+        <div id="comment-246" class="comment odd alt thread-odd thread-alt depth-1">
+            <table>
+                <tr>
+                    <td>
+                        <img alt='' src='http://1.gravatar.com/avatar/bb5e6db3ff392773591777ac26520781?s=70&amp;d=http%3A%2F%2Fskinnywhitegirl.com%2Fblog%2Fwp-content%2Fthemes%2Fsight%2Fimages%2Fno-avatar.png%3Fs%3D70&amp;r=G' class='avatar avatar-70 photo' height='70' width='70' />                    </td>
+                    <td>
+                        <div class="comment-meta">
+                            <p class="comment-author"><span><a href='http://twitter.com/Zabisco/status/103398448816062464/' rel='external nofollow' class='url'>Zabisco (@Zabisco)</a></span> says:</p>                            <p class="comment-date">Aug 16, 2011</p>                                                    </div>
+                    </td>
+                    <td>
+                        <div class="comment-text">
+                                                        <p>Worth reading&#8230; interesting &amp; valid points RT: @userexperience UX Best Practices? I disagree. #login persistence <a href="http://t.co/opZ586Z" rel="nofollow">http://t.co/opZ586Z</a></p>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+         </div>
+</li><!-- #comment-## -->
+	<li>
+        <div id="comment-244" class="comment even thread-even depth-1">
+            <table>
+                <tr>
+                    <td>
+                        <img alt='' src='http://0.gravatar.com/avatar/e265d27c98373416cc77af4f465b2688?s=70&amp;d=http%3A%2F%2Fskinnywhitegirl.com%2Fblog%2Fwp-content%2Fthemes%2Fsight%2Fimages%2Fno-avatar.png%3Fs%3D70&amp;r=G' class='avatar avatar-70 photo' height='70' width='70' />                    </td>
+                    <td>
+                        <div class="comment-meta">
+                            <p class="comment-author"><span><a href='http://users.skynet.be/antoine.mechelynck/' rel='external nofollow' class='url'>Tony Mechelynck</a></span> says:</p>                            <p class="comment-date">Aug 16, 2011</p>                                                    </div>
+                    </td>
+                    <td>
+                        <div class="comment-text">
+                                                        <p>There is another sort of &#8220;Remember me&#8221; widget, which doesn&#8217;t use popups anymore nowadays (it used to), but doorhangers. It remembers me forever (if I decide that I want my password &amp; username to be remembered on this computer). If even it does forget me (e.g. because I used a different browser or a different profile), I can even wait a few seconds or minutes, and only click &#8220;Remember me&#8221; after I see that I didn&#8217;t mistype the password. I&#8217;m not advocating its exclusive use to the exclusion of login cookies or whatever, but on computers like this one (where I&#8217;m almost the only user, and if by exception a visitor needs to access the Internet I log him/her in with a different login name), the Password Manager is a nice thing to have to bring up my password when, after a day, a month or a year (depending on which site I&#8217;m on) the login cookie expires.</p>
+<p>And yes, when I&#8217;m not at home but on some public workstation, I need to make sure that once I go away my credentials are forgotten. Firefox (but not SeaMonkey and, I think, not Thunderbird) has &#8220;Private Browsing Mode&#8221;. Or I could triple-check that I log out before I leave the booth. And of course not check &#8220;Remember me&#8221; on this computer: I don&#8217;t want any random computer on the market place to remember my passwords when it&#8217;s out of my sight. But this is IMHO a case where redundancy is useful: belt and suspenders, you might say.</p>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+         </div>
+</li><!-- #comment-## -->
+	<li>
+        <div id="comment-245" class="comment byuser comment-author-admin bypostauthor odd alt thread-odd thread-alt depth-1">
+            <table>
+                <tr>
+                    <td>
+                        <img alt='' src='http://1.gravatar.com/avatar/54dc5d53232a9df9281ef637f40dafa8?s=70&amp;d=http%3A%2F%2Fskinnywhitegirl.com%2Fblog%2Fwp-content%2Fthemes%2Fsight%2Fimages%2Fno-avatar.png%3Fs%3D70&amp;r=G' class='avatar avatar-70 photo' height='70' width='70' />                    </td>
+                    <td>
+                        <div class="comment-meta">
+                            <p class="comment-author"><span><a href='http://skinnywhitegirl.com/' rel='external nofollow' class='url'>Crystal Beasley</a></span> says:</p>                            <p class="comment-date">Aug 16, 2011</p>                                                    </div>
+                    </td>
+                    <td>
+                        <div class="comment-text">
+                                                        <p>I agree that on sites like Facebook, anything that has financial info, email providers, and such that have especially sensitive info there should still be a remember me option. Indeed most of them do have it. However, on the long tail, 98% of sites, there&#8217;s so little risk of </p>
+<p>a) anyone else even using the same site as you, so how would they discover that you&#8217;re already logged in?</p>
+<p>b) anyone caring to do malice on some random site</p>
+<p>Most of us aren&#8217;t working on sites that fit into the sensitive info category, so we should reduce the user friction as much as possible.</p>
+<p>Ed: I think you should be able to vote and comment without reauthenticating.</p>
+<p>I&#8217;m hoping some others will chime in on what situations you&#8217;re specifically worried about.</p>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+         </div>
+</li><!-- #comment-## -->
+	<li>
+        <div id="comment-251" class="comment even thread-even depth-1">
+            <table>
+                <tr>
+                    <td>
+                        <img alt='' src='http://1.gravatar.com/avatar/bb79b709d9a57a02d9c3d80c5426c76a?s=70&amp;d=http%3A%2F%2Fskinnywhitegirl.com%2Fblog%2Fwp-content%2Fthemes%2Fsight%2Fimages%2Fno-avatar.png%3Fs%3D70&amp;r=G' class='avatar avatar-70 photo' height='70' width='70' />                    </td>
+                    <td>
+                        <div class="comment-meta">
+                            <p class="comment-author"><span><a href='http://twitter.com/dave_dash/status/103663007992782849/' rel='external nofollow' class='url'>Dave Dash (@dave_dash)</a></span> says:</p>                            <p class="comment-date">Aug 16, 2011</p>                                                    </div>
+                    </td>
+                    <td>
+                        <div class="comment-text">
+                                                        <p>Logged in is forever&#8230;</p>
+<p><a href="http://t.co/TRMsFF7" rel="nofollow">http://t.co/TRMsFF7</a></p>
+<p>#wontsomebodythinkabouttheuser</p>
+<p>/via @skinny</p>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+         </div>
+</li><!-- #comment-## -->
+	<li>
+        <div id="comment-252" class="comment odd alt thread-odd thread-alt depth-1">
+            <table>
+                <tr>
+                    <td>
+                        <img alt='' src='http://1.gravatar.com/avatar/1299800a69b6ce8023e8e12adeb6702d?s=70&amp;d=http%3A%2F%2Fskinnywhitegirl.com%2Fblog%2Fwp-content%2Fthemes%2Fsight%2Fimages%2Fno-avatar.png%3Fs%3D70&amp;r=G' class='avatar avatar-70 photo' height='70' width='70' />                    </td>
+                    <td>
+                        <div class="comment-meta">
+                            <p class="comment-author"><span><a href='http://twitter.com/onwardsearch/status/103835724675158016/' rel='external nofollow' class='url'>Onward Search (@onwardsearch)</a></span> says:</p>                            <p class="comment-date">Aug 17, 2011</p>                                                    </div>
+                    </td>
+                    <td>
+                        <div class="comment-text">
+                                                        <p>Funny little ready about #UX Best Practices &#8211; Login Persistence <a href="http://t.co/0EIpq0n" rel="nofollow">http://t.co/0EIpq0n</a> via @skinny</p>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+         </div>
+</li><!-- #comment-## -->
+	<li>
+        <div id="comment-253" class="comment even thread-even depth-1">
+            <table>
+                <tr>
+                    <td>
+                        <img alt='' src='http://0.gravatar.com/avatar/2bea9d5304275beb2a676b3bf6aa9787?s=70&amp;d=http%3A%2F%2Fskinnywhitegirl.com%2Fblog%2Fwp-content%2Fthemes%2Fsight%2Fimages%2Fno-avatar.png%3Fs%3D70&amp;r=G' class='avatar avatar-70 photo' height='70' width='70' />                    </td>
+                    <td>
+                        <div class="comment-meta">
+                            <p class="comment-author"><span><a href='http://twitter.com/cswanger/status/103847857064382465/' rel='external nofollow' class='url'>Colleen Swanger (@cswanger)</a></span> says:</p>                            <p class="comment-date">Aug 17, 2011</p>                                                    </div>
+                    </td>
+                    <td>
+                        <div class="comment-text">
+                                                        <p>UX Best Practices: login persistence &#8211; <a href="http://t.co/b5fZgXu" rel="nofollow">http://t.co/b5fZgXu</a></p>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+         </div>
+</li><!-- #comment-## -->
+	<li>
+        <div id="comment-254" class="comment odd alt thread-odd thread-alt depth-1">
+            <table>
+                <tr>
+                    <td>
+                        <img alt='' src='http://0.gravatar.com/avatar/87cac0a523e2334c0dbf220b5ffd1bc1?s=70&amp;d=http%3A%2F%2Fskinnywhitegirl.com%2Fblog%2Fwp-content%2Fthemes%2Fsight%2Fimages%2Fno-avatar.png%3Fs%3D70&amp;r=G' class='avatar avatar-70 photo' height='70' width='70' />                    </td>
+                    <td>
+                        <div class="comment-meta">
+                            <p class="comment-author"><span><a href='http://www.rushyo.com/' rel='external nofollow' class='url'>Danny Moules</a></span> says:</p>                            <p class="comment-date">Aug 18, 2011</p>                                                    </div>
+                    </td>
+                    <td>
+                        <div class="comment-text">
+                                                        <p>&#8220;OH NOES! They could add tons of comments to your TPR report generator site in someone else’s name! OH THE HORROR!&#8221;</p>
+<p>If there&#8217;s a login, there&#8217;s something worth protecting even if that&#8217;s just an identity. If it&#8217;s not worth protecting cut out the middleman and don&#8217;t waste time with a bespoke login at all.</p>
+<p>Saying something is important enough to justify a login but not important enough to bother providing people with the option to keep that login secure makes no sense. It&#8217;s like handing someone a door key and then saying &#8220;but if you need to get in, you can always use the one hung on the wall there &#8211; don&#8217;t worry, only people in this flat are near to that wall and they&#8217;re all sound.&#8221;</p>
+<p>&#8220;Amazon has sorted this out.&#8221;</p>
+<p>Really? At my enterprise Amazon has almost single-handedly resulted in the banning of accessing e-commerce web sites in our contracts. The reason for that clause? Because the company doesn&#8217;t want to be liable if another employee comes along and buys something on my account. That doesn&#8217;t sound a success story to me.</p>
+<p>&#8220;a) anyone else even using the same site as you, so how would they discover that you’re already logged in?&#8221;</p>
+<p>History. Awesome bar. Watching over your shoulder. Behaviour patterns. Somebody looking to cause mischief is going to be-line straight for those. The opportunity is staring them in face.</p>
+<p>&#8220;b) anyone caring to do malice on some random site&#8221;</p>
+<p>You&#8217;re making security assumptions on the grounds that everyone is huggy and friendly? &#8216;Fraping&#8217; is standard practice &#8211; it doesn&#8217;t take much imagination to see why somebody would think to sneak on your machine and, perhaps, do something &#8216;funny&#8217; which happened to be malicious as well. It happens around me on a daily basis.</p>
+<p>You may trust your colleagues and that random dude in the library not to think &#8220;hey, I can post some swear words on this guy&#8217;s work account and get him fired. That&#8217;d be funny&#8221; but I certainly don&#8217;t. I don&#8217;t appreciate you choosing to make that decision for me instead of giving me, as a user, the freedom to choose.</p>
+<p>But thanks for the heads up: I now know support.mozilla.com should not be used on a public/work machine without taking extra precautions out of my way which damage my UX because I need to make behavioural exceptions for that site that I do not for any other as they all provide a consistent method of bypassing it: The &#8220;Remember Me&#8221; box.</p>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+         </div>
+</li><!-- #comment-## -->
+	<li>
+        <div id="comment-257" class="comment byuser comment-author-admin bypostauthor even thread-even depth-1">
+            <table>
+                <tr>
+                    <td>
+                        <img alt='' src='http://1.gravatar.com/avatar/54dc5d53232a9df9281ef637f40dafa8?s=70&amp;d=http%3A%2F%2Fskinnywhitegirl.com%2Fblog%2Fwp-content%2Fthemes%2Fsight%2Fimages%2Fno-avatar.png%3Fs%3D70&amp;r=G' class='avatar avatar-70 photo' height='70' width='70' />                    </td>
+                    <td>
+                        <div class="comment-meta">
+                            <p class="comment-author"><span><a href='http://skinnywhitegirl.com/' rel='external nofollow' class='url'>Crystal Beasley</a></span> says:</p>                            <p class="comment-date">Aug 19, 2011</p>                                                    </div>
+                    </td>
+                    <td>
+                        <div class="comment-text">
+                                                        <p>Using the locked door as the metaphor isn&#8217;t a very helpful for most sites. The useful metaphor is recognizing a friend&#8217;s face so you can call upon your history together to have a meaningful conversation. </p>
+<p>I refuse to lock down sites to the nth degree because of malicious users for the same reason I don&#8217;t believe being forced to take of my shoes at the airport makes me any safer. It&#8217;s security as theater. </p>
+<p>Users absolutely have the freedom to logout of any site at any time. Private browsing is always a good idea if you&#8217;re not on your own personal machine. Also, you&#8217;re not required to log into support.mozilla.com to use the majority of features.</p>
+<p>The risks are almost equal in having the session never expire as having it expire in one day. Should users have to reauthenticate themselves every 30 minutes? Every 5? It&#8217;s just an absurd way to approach it.</p>
+<p>Relying on sessions for real security will never be the solution.</p>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+         </div>
+</li><!-- #comment-## -->
+	<li>
+        <div id="comment-258" class="comment odd alt thread-odd thread-alt depth-1">
+            <table>
+                <tr>
+                    <td>
+                        <img alt='' src='http://0.gravatar.com/avatar/e522bb37944a2793b28e3367a892e9fe?s=70&amp;d=http%3A%2F%2Fskinnywhitegirl.com%2Fblog%2Fwp-content%2Fthemes%2Fsight%2Fimages%2Fno-avatar.png%3Fs%3D70&amp;r=G' class='avatar avatar-70 photo' height='70' width='70' />                    </td>
+                    <td>
+                        <div class="comment-meta">
+                            <p class="comment-author"><span><a href='http://twitter.com/henrik/status/104889138452508672/' rel='external nofollow' class='url'>Henrik Nyh (@henrik)</a></span> says:</p>                            <p class="comment-date">Aug 20, 2011</p>                                                    </div>
+                    </td>
+                    <td>
+                        <div class="comment-text">
+                                                        <p>&quot;People are sad when you forget them. ALWAYS REMEMBER PEOPLE.&quot; (<a href="http://t.co/qvKpwzM" rel="nofollow">http://t.co/qvKpwzM</a> by @skinny)</p>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+         </div>
+</li><!-- #comment-## -->
+	<li>
+        <div id="comment-310" class="comment even thread-even depth-1">
+            <table>
+                <tr>
+                    <td>
+                        <img alt='' src='http://1.gravatar.com/avatar/3ae084e8fc6fa7c1e9a605da0b6d1ffa?s=70&amp;d=http%3A%2F%2Fskinnywhitegirl.com%2Fblog%2Fwp-content%2Fthemes%2Fsight%2Fimages%2Fno-avatar.png%3Fs%3D70&amp;r=G' class='avatar avatar-70 photo' height='70' width='70' />                    </td>
+                    <td>
+                        <div class="comment-meta">
+                            <p class="comment-author"><span><a href='http://twitter.com/adamd/status/115603140040069120/' rel='external nofollow' class='url'>Adam DuVander (@adamd)</a></span> says:</p>                            <p class="comment-date">Sep 18, 2011</p>                                                    </div>
+                    </td>
+                    <td>
+                        <div class="comment-text">
+                                                        <p>@JamesChevalier A recent post from @skinny about login persistence. <a href="http://t.co/JJQF3QOQ" rel="nofollow">http://t.co/JJQF3QOQ</a></p>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+         </div>
+</li><!-- #comment-## -->
+	<li>
+        <div id="comment-407" class="comment odd alt thread-odd thread-alt depth-1">
+            <table>
+                <tr>
+                    <td>
+                        <img alt='' src='http://0.gravatar.com/avatar/2bb18e1baf8eda8bdf90834ffe624727?s=70&amp;d=http%3A%2F%2Fskinnywhitegirl.com%2Fblog%2Fwp-content%2Fthemes%2Fsight%2Fimages%2Fno-avatar.png%3Fs%3D70&amp;r=G' class='avatar avatar-70 photo' height='70' width='70' />                    </td>
+                    <td>
+                        <div class="comment-meta">
+                            <p class="comment-author"><span>Jensen Samuels</span> says:</p>                            <p class="comment-date">Jan 5, 2012</p>                                                    </div>
+                    </td>
+                    <td>
+                        <div class="comment-text">
+                                                        <p>@dannymoules &#8211; if you are THAT worried that someone will use your computer to buy something on Amazon, why are you leaving your computer unsecured?  AND &#8211; if people around you are THAT nefarious, do you think they wouldn&#8217;t be able to find out your password?  A cleverly hidden webcam, social engineering or even a key-logger can easily be used to get your password and then OH NOES &#8211; THEY&#8217;VE ORDERED FROM AMAZON!  BTW &#8211; remind me to not go to work for your company.  Their &#8220;use an atom bomb to kill a fly&#8221; way of doing things means I wouldn&#8217;t get along well with them.  See, I just HATE stupid people.</p>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+         </div>
+</li><!-- #comment-## -->
+	<li>
+        <div id="comment-423" class="comment even thread-even depth-1">
+            <table>
+                <tr>
+                    <td>
+                        <img alt='' src='http://0.gravatar.com/avatar/257644cb6b53469585c8945b0b47a160?s=70&amp;d=http%3A%2F%2Fskinnywhitegirl.com%2Fblog%2Fwp-content%2Fthemes%2Fsight%2Fimages%2Fno-avatar.png%3Fs%3D70&amp;r=G' class='avatar avatar-70 photo' height='70' width='70' />                    </td>
+                    <td>
+                        <div class="comment-meta">
+                            <p class="comment-author"><span><a href='http://twitter.com/Mr0wka18/status/158527199685783554/' rel='external nofollow' class='url'>Iza Bartosiewicz (@Mr0wka18)</a></span> says:</p>                            <p class="comment-date">Jan 15, 2012</p>                                                    </div>
+                    </td>
+                    <td>
+                        <div class="comment-text">
+                                                        <p>#UX Best Practices: login persistence  <a href="http://t.co/uf3a4jTi" rel="nofollow">http://t.co/uf3a4jTi</a> #webforms</p>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+         </div>
+</li><!-- #comment-## -->
+            </ol>
+
+            <!-- <div class="navigation">
+                <div class="alignleft"></div>
+                <div class="alignright"></div>
+            </div> -->
+
+        </div>
+        </div>
+
+    
+    <div id="respond">
+        <h3>What do you think?</h3>
+        <div class="comment_form">
+
+        
+            <form action="/skinny/comments-post.php" method="post" id="commentform">
+
+                
+                    <table>
+                        <tr>
+                            <td colspan="3">
+                                <div class="commform-textarea">
+                                    <textarea name="comment" id="comment" cols="50" rows="7" tabindex="1"></textarea>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="commform-author">
+                                <p>Name <span>required</span></p>
+                                <div>
+                                    <input type="text" name="author" id="author" tabindex="2" />
+                                </div>
+                            </td>
+                            <td class="commform-email">
+                                <p>Email <span>required</span></p>
+                                <div>
+                                    <input type="text" name="email" id="email" tabindex="3" />
+                                </div>
+                            </td>
+                            <td class="commform-url">
+                                <p>Website</p>
+                                <div>
+                                    <input type="text" name="url" id="url" tabindex="4" />
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+
+                
+                <!--<p class="comment_message"><small><strong>XHTML:</strong> You can use these tags: <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </code></small></p>-->
+
+                <div class="submit clear">
+                    <input name="submit" type="submit" id="submit" tabindex="5" value="Submit" />
+                    <p id="cancel-comment-reply"><a rel="nofollow" id="cancel-comment-reply-link" href="index.html#respond" style="display:none;">Click here to cancel reply.</a></p>
+                </div>
+                    
+                <div><input type='hidden' name='comment_post_ID' value='452' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="d3c8ac84e8" /></p></div>
+
+            </form>
+
+        
+        </div>
+
+        
+    </div>
+
+</div>
+<!-- #comments -->
+            </div>
+            <!-- /Content -->
+
+            <div class="sidebar">
+                <div id="getconnected-3" class="widget_getconnected widget">                <h3>Contact me</h3><div class="widget-body clear">
+                    <!-- RSS -->
+                    <div class="getconnected_rss">
+                    <a href="/skinny/feed/index.html">RSS Feed</a>
+                                        </div>
+                    <!-- /RSS -->
+
+                    <!-- Twitter -->
+                                        <div class="getconnected_twitter">
+                    <a href="http://twitter.com/skinny">Twitter</a>
+                    <span> followers</span>
+                    </div>
+                                        <!-- /Twitter -->
+
+                    <!-- Facebook -->
+                                        <!-- /Facebook -->
+
+                    <!-- Flickr -->
+                                        <!-- /Flickr -->
+
+                    <!-- Behance -->
+                                        <!-- /Behance -->
+
+                    <!-- Delicious -->
+                                        <!-- /Delicious -->
+
+                    <!-- Stumbleupon -->
+                                        <!-- /Stumbleupon -->
+
+                    <!-- Tumblr -->
+                                        <!-- /Tumblr -->
+
+                    <!-- Vimeo -->
+                                        <!-- /Vimeo -->
+
+                    <!-- Youtube -->
+                                        <!-- /Youtube -->
+
+            </div></div>                    <div id="recentposts_thumbnail-3" class="widget_recentposts_thumbnail widget">            <h3>Recent musings</h3><div class="widget-body clear">
+            
+                <a href="/skinny/my-nerd-story/1101/index.html" class="rpthumb clear">
+                    <img width="50" height="50" src="/skinny/wp-content/uploads/2013/12/4whiz-50x50.jpg" class="attachment-mini-thumbnail wp-post-image" alt="VTech Whiz Kid" />                    <span class="rpthumb-title" style="padding-left: 65px;">My Nerd Story</span>
+                    <span class="rpthumb-date" style="padding-left: 65px;">Jan 4, 2014</span>
+                </a>
+
+            
+                <a href="/skinny/my-one-third-life-crisis/1058/index.html" class="rpthumb clear">
+                    <img width="50" height="50" src="/skinny/wp-content/uploads/2013/08/phnom-penh-facade-50x50.jpg" class="attachment-mini-thumbnail wp-post-image" alt="License Attribution Noncommercial Share Alike Some rights reserved by Jonas Hansel" />                    <span class="rpthumb-title" style="padding-left: 65px;">My 1/3-Life Crisis</span>
+                    <span class="rpthumb-date" style="padding-left: 65px;">Sep 10, 2013</span>
+                </a>
+
+            
+                <a href="/skinny/designing-for-coppa/1033/index.html" class="rpthumb clear">
+                    <img width="50" height="50" src="/skinny/wp-content/uploads/2013/04/sidewalk-chalk-kid-50x50.jpg" class="attachment-mini-thumbnail wp-post-image" alt="sidewalk-chalk-kid" />                    <span class="rpthumb-title" style="padding-left: 65px;">Designing for COPPA</span>
+                    <span class="rpthumb-date" style="padding-left: 65px;">Apr 1, 2013</span>
+                </a>
+
+            
+                <a href="/skinny/ux-of-a-wine-glass-2/1021/index.html" class="rpthumb clear">
+                    <img width="50" height="50" src="/skinny/wp-content/uploads/2013/02/ux-of-wine-glass-50x50.jpg" class="attachment-mini-thumbnail wp-post-image" alt="ux-of-wine-glass" />                    <span class="rpthumb-title" style="padding-left: 65px;">UX of a Wine Glass</span>
+                    <span class="rpthumb-date" style="padding-left: 65px;">Feb 4, 2013</span>
+                </a>
+
+            
+                <a href="/skinny/people-care-about-little-p-privacy/970/index.html" class="rpthumb clear">
+                    <img width="50" height="50" src="/skinny/wp-content/uploads/2012/10/sister-computer-50x50.jpg" class="attachment-mini-thumbnail wp-post-image" alt="sister-computer" />                    <span class="rpthumb-title" style="padding-left: 65px;">People DO Care About Little &#8220;p&#8221; Privacy</span>
+                    <span class="rpthumb-date" style="padding-left: 65px;">Dec 18, 2012</span>
+                </a>
+
+            
+                <a href="/skinny/how-to-interview-a-developer/1002/index.html" class="rpthumb clear">
+                                        <span class="rpthumb-title" >How to Interview a Developer</span>
+                    <span class="rpthumb-date" >Nov 26, 2012</span>
+                </a>
+
+            
+                <a href="/skinny/code-talks-and-designers-dont-speak-the-language/930/index.html" class="rpthumb clear">
+                    <img width="50" height="50" src="/skinny/wp-content/uploads/2012/10/code-talks-featured-50x50.jpg" class="attachment-mini-thumbnail wp-post-image" alt="code-talks-featured" />                    <span class="rpthumb-title" style="padding-left: 65px;">Code Talks and Designers Don&#8217;t Speak the Language</span>
+                    <span class="rpthumb-date" style="padding-left: 65px;">Oct 10, 2012</span>
+                </a>
+
+            
+                <a href="/skinny/top-sites-agree-required-login-is-whac/824/index.html" class="rpthumb clear">
+                    <img width="50" height="50" src="/skinny/wp-content/uploads/2012/02/login_cookies-square-50x50.png" class="attachment-mini-thumbnail wp-post-image" alt="login_cookies-square" />                    <span class="rpthumb-title" style="padding-left: 65px;">9 of 10 Sites Agree Requiring Log-in is Whack</span>
+                    <span class="rpthumb-date" style="padding-left: 65px;">Feb 14, 2012</span>
+                </a>
+
+            
+            </div></div>        </div>
+            </div>
+            <!-- /Container -->
+
+            <div class="footer">
+                <p class="copyright">&copy; 2010 <a href="/skinny/">crystal beasley</a>. All Rights Reserved.<br /><span>Powered by <a
+                        href="http://wordpress.org/">WordPress</a>.</span></p>
+                <p class="credits">Designed by <a href="http://wpshower.com/">WPSHOWER</a></p>
+            </div>
+        </div>
+        <!-- Page generated: 0.383 s, 13 queries -->
+        <script type='text/javascript' src='/skinny/wp-includes/js/comment-reply.min863d.js?ver=4.1.18'></script>
+
+        
+	</body>
+
+<!-- Mirrored from skinnywhitegirl.com/blog/ux-best-practices-login-persistence/452/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Jul 2017 17:42:22 GMT -->
+</html>
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced
+Database Caching 37/47 queries in 0.010 seconds using disk: basic
+
+ Served from: skinnywhitegirl.com @ 2017-07-29 13:04:57 by W3 Total Cache -->

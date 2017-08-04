@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>crystal beasley &#187; mozilla | crystal beasley</title>
+	<atom:link href="/skinny/category/mozilla/feed/" rel="self" type="application/rss+xml" />
+	<link>/skinny/</link>
+	<description>terrified and excited, just like I like it</description>
+	<lastBuildDate>Tue, 07 Jan 2014 14:50:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.1.18</generator>
+	<item>
+		<title>Designing for COPPA</title>
+		<link>/skinny/designing-for-coppa/1033/</link>
+		<comments>/skinny/designing-for-coppa/1033/#comments</comments>
+		<pubDate>Mon, 01 Apr 2013 21:31:28 +0000</pubDate>
+		<dc:creator><![CDATA[Crystal Beasley]]></dc:creator>
+				<category><![CDATA[design]]></category>
+		<category><![CDATA[mozilla]]></category>
+		<category><![CDATA[always-choose-awesome]]></category>
+
+		<guid isPermaLink="false">/skinny/?p=1033</guid>
+		<description><![CDATA[If you&#8217;ve never heard of COPPA, consider yourself lucky&#8230; and now, warned. Chances are, if you&#8217;re finding this article via a search engine, you&#8217;re already in the thick of it. For that, I offer my consolations and a few lessons learned. Disclaimer: I am not a lawyer. None of the suggestions contained in this blog post constitute legal advice. Some rights reserved by matt.forestpath Age Neutral Verification This is the biggest area of impact on the interface. If you have a site which offers kid-attractive content, you&#8217;ll need to know if they&#8217;re above thirteen before making an account or storing personally identifiable information. The problem is that you can&#8217;t actually ask that in a way that indicates that thirteen is the break point. This is what &#8220;age-neutral verification&#8221; means. If only it was as simple as a checkbox that they tick which says &#8220;I am over 13 years of age.&#8221; Nuuuh-uh, not so fast, cowboy. That&#8217;s not legal. (See FAQ #39 of the COPPA statute.) If the user fails the age-neutral test, you must fail in a obtuse way that doesn&#8217;t indicate to them that the age check was the reason. This defies all good UX principles around writing clear [&#8230;]<p><a href="/skinny/designing-for-coppa/1033/">Designing for COPPA</a> is a post from: <a href="/skinny/">Crystal Beasley, UX Designer at Mozilla</a></p>
+]]></description>
+				<content:encoded><![CDATA[<p>If you&#8217;ve never heard of COPPA, consider yourself lucky&#8230; and now, warned. Chances are, if you&#8217;re finding this article via a search engine, you&#8217;re already in the thick of it. For that, I offer my consolations and a few lessons learned.<span id="more-1033"></span> <em>Disclaimer: I am not a lawyer. None of the suggestions contained in this blog post constitute legal advice.</em></p>
+<p><a href="/skinny/content/uploads/2013/04/sidewalk-chalk-kid.jpg"><img class="size-large wp-image-1042" alt="sidewalk-chalk-kid" src="/skinny/wp-content/uploads/2013/04/sidewalk-chalk-kid-600x450.jpg" width="600" height="450" /></a><span style="font-size: 9px;">Some rights reserved by <a title="original photo at flickr" href="http://www.flickr.com/photos/18123948@N00/281857282">matt.forestpath</a></span></p>
+<h3>Age Neutral Verification</h3>
+<p>This is the biggest area of impact on the interface. If you have a site which offers kid-attractive content, you&#8217;ll need to know if they&#8217;re above thirteen before making an account or storing personally identifiable information.</p>
+<p>The problem is that you can&#8217;t actually ask that in a way that indicates that thirteen is the break point. This is what &#8220;age-neutral verification&#8221; means. If only it was as simple as a checkbox that they tick which says &#8220;I am over 13 years of age.&#8221; Nuuuh-uh, not so fast, cowboy. That&#8217;s not legal. (See <a title="COPPA FAQs" href="http://www.ftc.gov/privacy/coppafaqs.shtm" target="_blank">FAQ #39 of the COPPA statute</a>.)</p>
+<p>If the user fails the age-neutral test, <strong>you must fail in a obtuse way</strong> that doesn&#8217;t indicate to them that the age check was the reason. This defies all good UX principles around writing clear error message that tell people what is actually going on. As much as this boils my cockles, it is the law. But it doesn&#8217;t end there. You must prevent them from turning around trying again. Finally, your company must delete all info from any source that you have about that user.</p>
+<h3>Options</h3>
+<p><a href="/skinny/content/uploads/2013/04/coppa-birthday-facebook.png"><img class="size-full wp-image-1034 alignnone" alt="coppa birthday example from facebook" src="/skinny/wp-content/uploads/2013/04/coppa-birthday-facebook.png" width="511" height="83" /></a></p>
+<p>Most providers, including the screenshot from Facebook, are asking for a birth date, as that&#8217;s the example solution given in the law. Facebook&#8217;s popup delicately explains &#8220;Providing your birthday helps make sure you get the right Facebook experience for your age. You can choose to hide this info from your timeline later if you want. For more details, please visit our <a href="https://www.facebook.com/about/privacy/">Data Use Policy</a>.&#8221;</p>
+<p><a href="/skinny/content/uploads/2013/04/Screen-Shot-2013-04-01-at-2.05.42-PM.png"><img class="alignnone size-full wp-image-1039" alt="COPPA birth year" src="/skinny/wp-content/uploads/2013/04/Screen-Shot-2013-04-01-at-2.05.42-PM.png" width="432" height="100" /></a></p>
+<p>Another option is to simplify down to only asking for the birth year. The drawback to this method is that you need to toss out all of the people who turned thirteen that calendar year who would otherwise be able to use your site.</p>
+<p><a href="/skinny/content/uploads/2013/04/age-neutral-btwf.png"><img class="size-full wp-image-1037 alignnone" alt="Age Neutral Verification BTWF" src="/skinny/wp-content/uploads/2013/04/age-neutral-btwf.png" width="299" height="116" /></a></p>
+<p>Lastly, my favorite option is the radio buttons with age ranges approach. This example is from the Born This Way Foundation. It&#8217;s the best UX but the riskiest approach from a legal standpoint.</p>
+<h3>Tricks up our sleeve</h3>
+<p>Since Gmail, Hotmail, Yahoo all are under the same restrictions, they have already asked this question of users. A feature we&#8217;ve been talking about for <a title="Mozilla Persona : the official blog" href="http://identity.mozilla.com/" target="_blank">Persona</a> is to flag such users&#8217; accounts as good to go. As we roll this future feature out, this will mean that we can give sites both a verified email address and a verified age-neutral check.  Again, check with your lawyers to see what sort of documentation you&#8217;ll need to keep around to prove that these third parties were indeed performing the check.</p>
+<p><a href="/skinny/designing-for-coppa/1033/">Designing for COPPA</a> is a post from: <a href="/skinny/">Crystal Beasley, UX Designer at Mozilla</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/skinny/designing-for-coppa/1033/feed/</wfw:commentRss>
+		<slash:comments>11</slash:comments>
+		</item>
+		<item>
+		<title>People DO Care About Little &#8220;p&#8221; Privacy</title>
+		<link>/skinny/people-care-about-little-p-privacy/970/</link>
+		<comments>/skinny/people-care-about-little-p-privacy/970/#comments</comments>
+		<pubDate>Tue, 18 Dec 2012 22:33:20 +0000</pubDate>
+		<dc:creator><![CDATA[Crystal Beasley]]></dc:creator>
+				<category><![CDATA[design]]></category>
+		<category><![CDATA[mozilla]]></category>
+		<category><![CDATA[always-choose-awesome]]></category>
+
+		<guid isPermaLink="false">/skinny/?p=970</guid>
+		<description><![CDATA[There&#8217;s a common perception that people don&#8217;t care about privacy. This is sort of right. Our research shows that most users are unaware of how extensively they&#8217;re being tracked by advertisers across the websites they visit. Even those that do know are unsure of what to do about it. They know there&#8217;s a horrible legalese privacy policy hanging out somewhere. They know they should read it. They don&#8217;t. They know they should use different passwords on each site. They don&#8217;t. Our research found a fatalistic attitude towards privacy and security. We heard everything from &#8220;No one wants my identity anyway. There&#8217;s no money in my bank account.*&#8221; to &#8220;If a hacker wanted to get in, I&#8217;m sure they could. I wouldn&#8217;t even know where to begin to defend myself.&#8221; *Note: that&#8217;s not how identity theft works. The kind of privacy they care about is from the people closest to them that could physically pick up their phone or computer. This is why people clear browser history and explicitly log out of sites. It&#8217;s not the hacker they&#8217;re worried about, it&#8217;s their visiting mother-in-law or kid sister getting a look at their email or being able to vandalize their Facebook wall. [&#8230;]<p><a href="/skinny/people-care-about-little-p-privacy/970/">People DO Care About Little &#8220;p&#8221; Privacy</a> is a post from: <a href="/skinny/">Crystal Beasley, UX Designer at Mozilla</a></p>
+]]></description>
+				<content:encoded><![CDATA[<p><a href="/skinny/content/uploads/2012/10/sister-computer.jpg"><img class="size-large wp-image-971" title="sister-computer" alt="" src="/skinny/wp-content/uploads/2012/10/sister-computer-600x485.jpg" width="600" height="485" /></a></p>
+<p>There&#8217;s a common perception that people don&#8217;t care about privacy. This is sort of right. Our research shows that most users are unaware of how extensively they&#8217;re being <a href="http://www.technologyreview.com/view/424170/how-facebook-leveraged-publishers-desperation-to/">tracked by advertisers</a> across the websites they visit. Even those that do know are unsure of what to do about it. They know there&#8217;s a horrible legalese privacy policy hanging out somewhere. They know they <em>should</em> read it. They don&#8217;t. They know they <em>should</em> use different passwords on each site. They don&#8217;t.</p>
+<p>Our research found a fatalistic attitude towards privacy and security. We heard everything from &#8220;No one wants my identity anyway. There&#8217;s no money in my bank account.*&#8221; to &#8220;If a hacker wanted to get in, I&#8217;m sure they could. I wouldn&#8217;t even know where to begin to defend myself.&#8221; <em>*Note: that&#8217;s not how identity theft works.</em></p>
+<p>The kind of privacy they care about is from the people closest to them that could physically pick up their phone or computer. This is why people clear browser history and explicitly log out of sites. It&#8217;s not the hacker they&#8217;re worried about, it&#8217;s their visiting mother-in-law or kid sister getting a look at their email or being able to vandalize their Facebook wall. Unlike the big &#8220;P&#8221; privacy, this consequences of this threat are immediate and visceral. The potential costs to their reputation are perceived to be higher than anything a hacker could or would do.</p>
+<p>Further, we found that the existing password manager is under serving the majority of our users. Many people aren&#8217;t having the browser save their passwords because it leaves their account wide open to anyone who has physical access to their device. It doesn&#8217;t defend against the primary threat they&#8217;re worried about. They are left with no tools to help.</p>
+<p>It&#8217;s little wonder we see such bad statistics on password reuse. We&#8217;ve told people not reuse passwords, but it&#8217;s a cognitive impossibility to comply. It&#8217;s like saying you could avoid drowning by walking on water. Worse, even, is that everyone I&#8217;ve interviewed apologies for not having a good enough memory. We&#8217;ve done no service to our users by making them feel stupid or inadequate.</p>
+<p>The Persona team has been busy prototyping better tools that address this set of user needs. Follow us on twitter at <a title="Mozilla Persona on Twitter" href="https://twitter.com/mozillapersona" target="_blank">@mozillapersona</a> to hear about these experiments and more.</p>
+<p>&nbsp;</p>
+<p><strong>Check out the research that underpins the <a title="The Persona Team blog" href="http://identity.mozilla.com/">Persona team</a>:</strong></p>
+<p><a title="Permanent link to “Identity and the Internet: A study”" href="https://blog.mozilla.org/always-choose-awesome/2012/10/identity-and-the-internet-a-study/" rel="bookmark">Identity and the Internet: A study</a><br />
+<a title="Permanent link to “Some attitudes on Facebook privacy”" href="https://blog.mozilla.org/always-choose-awesome/2012/04/some-attitudes-on-facebook-privacy/" rel="bookmark">Some attitudes on Facebook privacy</a><br />
+<a title="Permanent link to “Privacy and social media: a small German study”" href="https://blog.mozilla.org/always-choose-awesome/2012/09/privacy-and-social-media-a-small-german-study/" rel="bookmark">Privacy and social media: a small German study</a></p>
+<p><small>Photo credit: <a href="http://www.flickr.com/photos/valeriamelissia/131149574/">Creative Commons license by Valeria Melissia Rosalez</a></small></p>
+<p><a href="/skinny/people-care-about-little-p-privacy/970/">People DO Care About Little &#8220;p&#8221; Privacy</a> is a post from: <a href="/skinny/">Crystal Beasley, UX Designer at Mozilla</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/skinny/people-care-about-little-p-privacy/970/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>How to Interview a Developer</title>
+		<link>/skinny/how-to-interview-a-developer/1002/</link>
+		<comments>/skinny/how-to-interview-a-developer/1002/#comments</comments>
+		<pubDate>Mon, 26 Nov 2012 22:34:17 +0000</pubDate>
+		<dc:creator><![CDATA[Crystal Beasley]]></dc:creator>
+				<category><![CDATA[collaboration]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[mozilla]]></category>
+
+		<guid isPermaLink="false">/skinny/?p=1002</guid>
+		<description><![CDATA[I&#8217;m in the fortunate position of interviewing developers for the Identity team at Mozilla. I&#8217;m not sure how common it is for a designer to interview a developer, but that&#8217;s how we do. I queried Twitter &#8220;Designers: When interviewing a developer for your team, what are your best questions for finding out if you&#8217;ll work well together?&#8221; Here are the excellent responses. &#160; &#160; ===UPDATE 11/27=== I neglected to specify that of course, I&#8217;m not the *only* person interviewing developers. That would just be ludicrous. The majority of the people interviewing any given candidate will share the same skillset. Then a few others from the project team will ensure culture fit. Mozilla typically does two or three phone screens and approximately six in-person interviews. How to Interview a Developer is a post from: Crystal Beasley, UX Designer at Mozilla<p><a href="/skinny/how-to-interview-a-developer/1002/">How to Interview a Developer</a> is a post from: <a href="/skinny/">Crystal Beasley, UX Designer at Mozilla</a></p>
+]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;m in the fortunate position of interviewing developers for the <a title="Code Talks and Designers Don’t Speak the Language" href="http://identity.mozilla.com/" target="_blank">Identity team</a> at Mozilla. I&#8217;m not sure how common it is for a designer to interview a developer, but that&#8217;s how we do. I <a title="twitter status" href="https://twitter.com/skinny/status/266233924286550016">queried Twitter</a> &#8220;Designers: When interviewing a developer for your team, what are your best questions for finding out if you&#8217;ll work well together?&#8221; Here are the excellent responses.</p>
+<p>&nbsp;</p>
+<p><a href="/skinny/content/uploads/2012/11/interviewing-devs.png"><img class="alignnone size-full wp-image-1004" title="interviewing-devs" src="/skinny/wp-content/uploads/2012/11/interviewing-devs.png" alt="twitter replies" width="511" height="1235" /></a></p>
+<p>&nbsp;</p>
+<p>===UPDATE 11/27===</p>
+<p>I neglected to specify that of course, I&#8217;m not the *only* person interviewing developers. That would just be ludicrous. The majority of the people interviewing any given candidate will share the same skillset. Then a few others from the project team will ensure culture fit. Mozilla typically does two or three phone screens and approximately six in-person interviews.</p>
+<p><a href="/skinny/how-to-interview-a-developer/1002/">How to Interview a Developer</a> is a post from: <a href="/skinny/">Crystal Beasley, UX Designer at Mozilla</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/skinny/how-to-interview-a-developer/1002/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Code Talks and Designers Don&#8217;t Speak the Language</title>
+		<link>/skinny/code-talks-and-designers-dont-speak-the-language/930/</link>
+		<comments>/skinny/code-talks-and-designers-dont-speak-the-language/930/#comments</comments>
+		<pubDate>Wed, 10 Oct 2012 20:43:31 +0000</pubDate>
+		<dc:creator><![CDATA[Crystal Beasley]]></dc:creator>
+				<category><![CDATA[collaboration]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[mozilla]]></category>
+		<category><![CDATA[always-choose-awesome]]></category>
+
+		<guid isPermaLink="false">/skinny/?p=930</guid>
+		<description><![CDATA[In an exasperated voice &#8220;Why is it so hard to get designers in open source.&#8221; I hear this all the time. Well firstly, it depends on what sorts of skills you&#8217;re talking about. Just like in code, there are small tactical problems that are good first bugs. Even the simplest issue requires a knowledge of the design patterns that the site employs. Many of the bugs, however, require a deep understanding of why the product exists in the marketplace and a thorough understanding of the research that underpins the project. These strategic questions are analogous to what a software architect would do. I was on the Persona project full time for three months before I felt confident making significant choices about UX. Open source generally isn&#8217;t welcoming to designers. A shock, I know! There are many reasons for this. In general, coders don&#8217;t know what to expect from us. My conception of what I do often bears little resemblance to what coders think I do. When I join a team that&#8217;s never worked closely with a UX designer, I have to educate them. Otherwise, there&#8217;s a gap of misunderstanding that leads to stress and unhappiness. We get up in your [&#8230;]<p><a href="/skinny/code-talks-and-designers-dont-speak-the-language/930/">Code Talks and Designers Don&#8217;t Speak the Language</a> is a post from: <a href="/skinny/">Crystal Beasley, UX Designer at Mozilla</a></p>
+]]></description>
+				<content:encoded><![CDATA[<p><a href="/skinny/content/uploads/2012/10/code-talks-600px.jpg"><img class="alignnone size-full wp-image-942" title="Why design in open source is hard" src="/skinny/wp-content/uploads/2012/10/code-talks-600px.jpg" alt="" width="600" height="341" /></a></p>
+<p>In an exasperated voice <em>&#8220;Why is it so hard to get designers in open source.&#8221;</em> I hear this all the time. Well firstly, it depends on what sorts of skills you&#8217;re talking about. Just like in code, there are small tactical problems that are good first bugs. Even the simplest issue requires a knowledge of the design patterns that the site employs.</p>
+<p>Many of the bugs, however, require a deep understanding of why the product exists in the marketplace and a thorough understanding of the research that underpins the project. These strategic questions are analogous to what a software architect would do. I was on the Persona project full time for three months before I felt confident making significant choices about UX.</p>
+<p>Open source generally isn&#8217;t welcoming to designers. A shock, I know! There are many reasons for this.</p>
+<ol>
+<li>In general, <strong>coders don&#8217;t know what to expect from us</strong>. My conception of what I do often bears little resemblance to what coders think I do. When I join a team that&#8217;s never worked closely with a UX designer, I have to educate them. Otherwise, there&#8217;s a gap of misunderstanding that leads to stress and unhappiness. We get up in your business and ask you to change things that you don&#8217;t want to change because
+<ul>
+<li>It seems trivial and unimportant.</li>
+<li>Conversely, it&#8217;s <em>too hard</em>.</li>
+<li>You don&#8217;t agree.</li>
+</ul>
+</li>
+<li>Ultimately, we&#8217;re beholden to convince a dev to implement our bug, likely because we don&#8217;t code or even if we do it&#8217;s not the best use of our time to be implementing. (If you want to pick a fight, insult a designer by asking why we don&#8217;t &#8220;just learn to code.&#8221;) We&#8217;re starting from a disadvantaged position. In version control systems such as github, <strong>code talks and designers don&#8217;t speak the language</strong>.</li>
+<li>Probably the most daunting question for projects without any design lead that has the trust of the team is, <strong>how do the devs know if the proposed design is correct</strong>? Without that trust, bugs quickly devolve into nasty arguments. How you build that trust has been the subject of entire books. But the question remains, who and how do you approve a mockup? The code review process works great for just that&#8230; code.</li>
+<li>Github issues and their parallels track problems at a level of granularity that&#8217;s useful for devs. The UX problems that constitute my work are of a much larger granularity. When I add such a strategic issues to the tracker, it makes devs uncomfortable. There&#8217;s nothing actionable here. There&#8217;s nothing to implement. My job is to think through big issues. By the time I&#8217;ve converted it into something a dev would recognize as a bug, my work is done. Thus, <strong>representing the work of a designer requires a shift in culture</strong> of the dev team so that they won&#8217;t close down my issues.</li>
+<li>My UX bugs are all tracked publicly in <a title="Persona Issues on Github" href="https://github.com/mozilla/browserid/issues">Persona&#8217;s github</a> and yet I can count on one hand the number of UX volunteers that have contributed to the project. It&#8217;s not that there aren&#8217;t any good first bugs, its that <strong>there is a shortage of UX/UI designers in the market</strong>. Yes, I&#8217;m sure Mozilla could do a better job of getting designers to volunteer. We know it and we&#8217;re working on it.</li>
+</ol>
+<p>The solutions to all these problems lie in communication and building a trusted relationship. It&#8217;s a higher barrier for designers that takes time to overcome. I&#8217;ve found all of my team to be receptive when I&#8217;ve taken the time to explain the principles that guide my decisions. I work with an awesome group of super smart folks! They just need to know I&#8217;ve got this handled. The longer we work together, the more shorthanded my explanations can be. Designers start by renovating small stuff and move up to innovating as they build their reputation. As the paid UX designers in Mozilla change the culture, it will become more welcoming because we will have laid the groundwork. Recommended reading: <a title="Socializing UX" href="http://boxesandarrows.com/view/we-tried-to-warn-you32">How to socialize UX into your project</a> and the post I wrote a year ago about <a title="Chief eXperience Officer at Mozilla in 2012" href="/skinny/chief-experience-officer-at-mozilla-in-2012/707/">design leadership</a>.</p>
+<p>And yes, we are actively <a title="Careers at Mozilla" href="http://careers.mozilla.org">hiring</a>. It&#8217;s an amazing place to work. If there&#8217;s a specific position you&#8217;re interested in, send a holler to me directly at <a title="email Crystal" href="mailto:crystal@mozilla.com">crystal@mozilla.com</a>.</p>
+<p><a href="/skinny/code-talks-and-designers-dont-speak-the-language/930/">Code Talks and Designers Don&#8217;t Speak the Language</a> is a post from: <a href="/skinny/">Crystal Beasley, UX Designer at Mozilla</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/skinny/code-talks-and-designers-dont-speak-the-language/930/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+		<item>
+		<title>Simple: Getting users to pick strong, memorable passwords</title>
+		<link>/skinny/password-strength-bank-simple/788/</link>
+		<comments>/skinny/password-strength-bank-simple/788/#comments</comments>
+		<pubDate>Sat, 14 Jan 2012 23:48:54 +0000</pubDate>
+		<dc:creator><![CDATA[Crystal Beasley]]></dc:creator>
+				<category><![CDATA[design]]></category>
+		<category><![CDATA[mozilla]]></category>
+		<category><![CDATA[always-choose-awesome]]></category>
+
+		<guid isPermaLink="false">/skinny/?p=788</guid>
+		<description><![CDATA[Simple (a.k.a. Bank Simple) is doing a hell of a job with their password strength indicator. Here&#8217;s a sneak peak into their interface. Thanks to Ryan Snyder for getting me a super early invite. I&#8217;m using this to improve the password field for Mozilla&#8217;s identity project. Join the discussion in comments here or on the github issue. Simple: Getting users to pick strong, memorable passwords is a post from: Crystal Beasley, UX Designer at Mozilla<p><a href="/skinny/password-strength-bank-simple/788/">Simple: Getting users to pick strong, memorable passwords</a> is a post from: <a href="/skinny/">Crystal Beasley, UX Designer at Mozilla</a></p>
+]]></description>
+				<content:encoded><![CDATA[<p><a href="http://simple.com">Simple</a> (a.k.a. Bank Simple) is doing a hell of a job with their password strength indicator. Here&#8217;s a sneak peak into their interface. Thanks to <a href="http://twitter.com/ryansnyder">Ryan Snyder</a> for getting me a super early invite.<span id="more-788"></span></p>
+<p><iframe src="http://www.youtube.com/embed/xwDcaOQlqLs" height="375" width="610" frameborder="0"></iframe></p>
+<p>I&#8217;m using this to improve the password field for <a href="http://identity.mozilla.com/">Mozilla&#8217;s identity project</a>. Join the discussion in comments here or on the <a href="https://github.com/mozilla/browserid/issues/755">github issue</a>.</p>
+<p><a href="/skinny/password-strength-bank-simple/788/">Simple: Getting users to pick strong, memorable passwords</a> is a post from: <a href="/skinny/">Crystal Beasley, UX Designer at Mozilla</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/skinny/password-strength-bank-simple/788/feed/</wfw:commentRss>
+		<slash:comments>22</slash:comments>
+		</item>
+		<item>
+		<title>Chief eXperience Officer at Mozilla in 2012</title>
+		<link>/skinny/chief-experience-officer-at-mozilla-in-2012/707/</link>
+		<comments>/skinny/chief-experience-officer-at-mozilla-in-2012/707/#comments</comments>
+		<pubDate>Tue, 03 Jan 2012 18:31:37 +0000</pubDate>
+		<dc:creator><![CDATA[Crystal Beasley]]></dc:creator>
+				<category><![CDATA[always choose awesome]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[mozilla]]></category>
+		<category><![CDATA[always-choose-awesome]]></category>
+
+		<guid isPermaLink="false">/skinny/?p=707</guid>
+		<description><![CDATA[&#160; Yes, this is a post about Mozilla, but you can generalize to any open-source software project. At every conference I hear the same refrain, &#8220;Why is design so hard in open source?&#8221; It&#8217;s so hard because *drumroll please* it&#8217;s not made a priority. None of the top decision-makers are designers. Period. The End. You can stop reading. Without someone in the c-level or steering committee with a design background to speak on users&#8217; behalf, Mozilla is missing out. Engineers and business people see entirely different challenges. Without all sides (technical needs, business needs, user needs), we have a giant blind spot. Chief of Experience? Never heard of one. If everyone jumped off the bridge, would you do it too? It&#8217;s true, there aren&#8217;t many tech companies, especially open-source ones that have a design representative at the executive level. Google, Microsoft, Opera, Facebook, Intel, Amazon and even Adobe lack it. There are some surprising companies that do. Oracle has a Chief Evangelist of User Experience. Flipboard has a Head of Design. Nokia and Yahoo have a Senior VP of Design. You might&#8217;ve heard of the most notable SVP of Design, Johnny Ive of Apple. You&#8217;ll note titles of this position [&#8230;]<p><a href="/skinny/chief-experience-officer-at-mozilla-in-2012/707/">Chief eXperience Officer at Mozilla in 2012</a> is a post from: <a href="/skinny/">Crystal Beasley, UX Designer at Mozilla</a></p>
+]]></description>
+				<content:encoded><![CDATA[<p>&nbsp;</p>
+<p><a href="/skinny/content/uploads/2011/11/user-business-technical-needs.jpg"><img class="alignnone size-full wp-image-721" title="user needs technical needs business needs" src="/skinny/wp-content/uploads/2011/11/user-business-technical-needs.jpg" alt="" width="600" height="468" /></a></p>
+<p>Yes, this is a post about Mozilla, but you can generalize to any open-source software project. At every conference I hear the same refrain, &#8220;Why is design so hard in open source?&#8221; It&#8217;s so hard because *drumroll please* it&#8217;s not made a priority. None of the top decision-makers are designers. Period. The End. You can stop reading.</p>
+<p>Without someone in the c-level or steering committee with a design background to speak on users&#8217; behalf, Mozilla is missing out. Engineers and business people see entirely different challenges. Without all sides (technical needs, business needs, user needs), we have a giant blind spot.</p>
+<h3>Chief of Experience? Never heard of one.</h3>
+<p>If everyone jumped off the bridge, would you do it too? It&#8217;s true, there aren&#8217;t many tech companies, especially open-source ones that have a design representative at the executive level. Google, Microsoft, Opera, Facebook, Intel, Amazon and even Adobe lack it. There are some surprising companies that do. Oracle has a Chief Evangelist of User Experience. Flipboard has a Head of Design. Nokia and Yahoo have a Senior VP of Design. You might&#8217;ve heard of the most notable SVP of Design, Johnny Ive of Apple. You&#8217;ll note titles of this position haven&#8217;t settled down, not surprising given the short time the discipline has been around.</p>
+<p>There&#8217;s an opportunity for Mozilla to be the first big open-source tech company to deeply bake design DNA into the process. Gary (CEO) has been exalting us to to produce a kick-ass product. UX and UR are a source of innovation. Further, prioritizing around user needs is essential to making an excellent product.</p>
+<p><a href="/skinny/content/uploads/2011/11/Tesla-Roadster-Sport-Tesla-Motors-to-Open-Colorado-Gallery-Rear-Angle.jpg"><img title="Tesla-Roadster-Sport-Tesla-Motors-to-Open-Colorado-Gallery-Rear-Angle" src="/skinny/wp-content/uploads/2011/11/Tesla-Roadster-Sport-Tesla-Motors-to-Open-Colorado-Gallery-Rear-Angle-600x337.jpg" alt="" width="600" height="337" /></a></p>
+<p>One bit I didn&#8217;t expect in my survey was that the Chief of Design is a well-established role in car companies. Tesla, BMW, Volvo&#8230; they all have one. It&#8217;s curious to me because car manufacturers are entrenched in technical, mechanical requirements as well. Seems as though they&#8217;ve figured out that it takes more than the feature list and specifications to sell cars to people.</p>
+<h3>Get to the point</h3>
+<ol>
+<li>UX is an objective discipline, not something based on feelings about which shade of blue is prettier.</li>
+<li>It should be an organizational priority that blocks projects from launching in the same way the infrasec does.</li>
+<li>UX is vital part of every project. We shouldn&#8217;t DO a project unless a trained interaction designer can ensure user needs are met. Until UX is included from the very beginning, before requirements are written, it will be chasing after product and engineering.</li>
+</ol>
+<h3>So what do we DO?</h3>
+<ol>
+<li>We need someone with an interaction design background at the c-level and/or steering committee.</li>
+<li>Hire UX at a sane number. The ratio in my group is 30:1. It should be around 4:1.</li>
+<li>Until we can do that, hire contractors to pick up the slack.</li>
+</ol>
+<p>&nbsp;</p>
+<p><a title="The ROI of User Experience - Human Factors International" href="http://www.youtube.com/watch?v=O94kYyzqvTc" target="_blank">[Video: the ROI of User Experience]</a></p>
+<p><a href="http://boxesandarrows.com/view/we-tried-to-warn-you32">[Post: We Tried to Warn You, Socializing UX into organizations]</a></p>
+<p>&nbsp;</p>
+<p>===== UPDATE 12/6/2012 =====</p>
+<p>It&#8217;s the end of the year. Time for a progress report. Just a few months after I wrote this we reorganized user experience designers and researchers into their own functional team. I was immensely happy for one of our own, Jinghua Zhang, to be promoted as Director of User Experience. In our org chart, that makes her a level 5. VP and C-levels are as high as it goes at level 6. I&#8217;m very proud to see Mozilla&#8217;s progress this year. Onward!</p>
+<p><a href="/skinny/chief-experience-officer-at-mozilla-in-2012/707/">Chief eXperience Officer at Mozilla in 2012</a> is a post from: <a href="/skinny/">Crystal Beasley, UX Designer at Mozilla</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/skinny/chief-experience-officer-at-mozilla-in-2012/707/feed/</wfw:commentRss>
+		<slash:comments>23</slash:comments>
+		</item>
+		<item>
+		<title>Web typography: hyphenation &amp; justification</title>
+		<link>/skinny/web-typography-hyphenation-justification/475/</link>
+		<comments>/skinny/web-typography-hyphenation-justification/475/#comments</comments>
+		<pubDate>Wed, 17 Aug 2011 22:25:41 +0000</pubDate>
+		<dc:creator><![CDATA[Crystal Beasley]]></dc:creator>
+				<category><![CDATA[design]]></category>
+		<category><![CDATA[mozilla]]></category>
+		<category><![CDATA[always-choose-awesome]]></category>
+
+		<guid isPermaLink="false">/skinny/?p=475</guid>
+		<description><![CDATA[Post in collaboration with Bram Pitoyo, Digital Design Strategist &#038; Typographer at Wieden+Kennedy. Firefox joined Safari in supporting hyphenation. Despite CSS coming out 14 years ago in 1996, we&#8217;re just now getting some of the fine-grained controls necessary for beautiful typography. Details of the proposed spec at Mozilla Developer Network. -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; Words need to be hyphenated because paragraphs need to be justified. But do you know why most justified texts aren’t very readable even though it looks visually pleasing at a glance? It’s not because they’re justified. It’s because they’re not justified carefully. Mental exercise: why is the documents you’ve justified in MS Word so hard to read compared to a book? Justified text in books looks great because a lot of things have been adjusted: Margin kerning. E.g. hanging punctuation. Character kerning. Ie. letter-spacing needs to be made tighter or looser to make the appearance more even to the eye. [1] Additional kerning for specific characters. E.g. when typesetting French, you’d need to add a word space before (:) and after («»), and a thin space before (?), (!) and (;). [2] Word-spacing. You can’t rely on spacing that’s mechanically widened to fit the [&#8230;]<p><a href="/skinny/web-typography-hyphenation-justification/475/">Web typography: hyphenation &#038; justification</a> is a post from: <a href="/skinny/">Crystal Beasley, UX Designer at Mozilla</a></p>
+]]></description>
+				<content:encoded><![CDATA[<p><a class='hyphenation-rollover' href="/skinny/content/uploads/2011/08/hyphenation-lg.jpg" style="width:410px; height:402px; display: block; text-decoration: none; border: 1px solid #ccc; background-image: url('/skinny/wp-content/uploads/2011/08/hyphenation.jpg')"></a></p>
+<p style="font-variant:italic;"><img alt="" src="http://a2.twimg.com/profile_images/1082075935/bram-pitoyo-avatar.jpg" title="bram pitoyo, w3c-font" class="alignleft" width="50" height="50" />Post in collaboration with <a href="http://www.brampitoyo.com/" title="bram pitoyo">Bram Pitoyo</a>, Digital Design Strategist &#038; Typographer at <a href="http://wk.com" title="wieden+kennedy">Wieden+Kennedy</a>.</p>
+<p><br style="clear:both; height:0;" /></p>
+<p>Firefox joined Safari in supporting hyphenation. Despite CSS coming out 14 years ago in 1996, we&#8217;re just now getting some of the fine-grained controls necessary for beautiful typography. <a href="https://developer.mozilla.org/en/CSS/hyphens" title="MDN proposed spec for hyphenation">Details of the proposed spec</a> at Mozilla Developer Network.</p>
+<pre>
+    -webkit-hyphens: auto;<br />
+    -moz-hyphens: auto;<br />
+    hyphens: auto;</pre>
+<p>Words need to be hyphenated because paragraphs need to be justified. But do you know why most justified texts aren’t very readable even though it looks visually pleasing at a glance? It’s not because they’re justified. It’s because they’re not justified carefully.</p>
+<p>Mental exercise: why is the documents you’ve justified in MS Word so hard to read compared to a book? Justified text in books looks great because a lot of things have been adjusted:</p>
+<ol>
+<li>Margin kerning. E.g. hanging punctuation.
+</li>
+<li>Character kerning. Ie. letter-spacing needs to be made tighter or looser to make the appearance more even to the eye. <a href="http://texblog.net/png/blindtext.png"><sup>[1]</sup></a>
+</li>
+<li>Additional kerning for specific characters. E.g. when typesetting French, you’d need to add a word space before (:) and after («»), and a thin space before (?), (!) and (;). <a href="http://www.microsoft.com/typography/developers/fdsspec/punc.htm"><sup>[2]</sup></a>
+</li>
+<li>Word-spacing. You can’t rely on spacing that’s mechanically widened to fit the paragraph width.
+</li>
+<li>Ligatures. Ie. when you letterspace loosely, ligatures should be turned off.</li>
+</ol>
+<p>Justified text in a word processor doesn’t look pleasing because, well, the application doesn’t come with most of these settings.</p>
+<p>But how far ahead (or behind) are web browsers in this department? All browsers have a setting to tweak word and letter-spacing (though not finely), and turn ligatures on and off (different browsers, different syntaxes). <a href="http://marc.baffl.co.uk/browser_bugs/css-ligatures.html"><sup>[3]</sup></a> Problem is, you’d need to adjust everything manually.</p>
+<p>Firefox does allows for fine control of letterspacing, although it&#8217;s the only browser that does. Here&#8217;s a great discussion of this still frustrating topic on the <a href="http://treehouseagency.com/blog/tim-cosgrove/2011/01/22/putting-letter-spacing-under-microscope">Treehouse Agency blog</a>.</p>
+<p>Sure, everything I’ve just described kind of returned us back at square one. But this isn’t to say that justified text isn’t appropriate to use on the web. Here’s how you can start today:</p>
+<p>Many of us have control over words on the webpage, even as designers and developers. We can add, remove or change words around to make the word-spacing more even. If not, we have the capability to ask the copywriter sitting in the next room if this nicely-fitted wording still conveys the meaning just as well as the last version.</p>
+<p>Since doing this to every paragraph isn’t practical, you might want to limit the use of justified spacing to shorter bodies of text that are easier to control in terms of wording. Longer subheads and introductory paragraphs are perfect.</p>
+<p>Sources:</p>
+<ol>
+<li><a href="http://texblog.net/png/blindtext.png">http://texblog.net/png/blindtext.png</a>
+</li>
+<li><a href="http://www.microsoft.com/typography/developers/fdsspec/punc.htm">http://www.microsoft.com/typography/developers/fdsspec/punc.htm</a>
+</li>
+<li><a href="http://marc.baffl.co.uk/browser_bugs/css-ligatures.html">http://marc.baffl.co.uk/browser_bugs/css-ligatures.html</a></li>
+</ol>
+<style type="text/css">
+a.hyphenation-rollover:hover {
+background-position: 0 -402px;
+}
+</style>
+<p><a href="/skinny/web-typography-hyphenation-justification/475/">Web typography: hyphenation &#038; justification</a> is a post from: <a href="/skinny/">Crystal Beasley, UX Designer at Mozilla</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/skinny/web-typography-hyphenation-justification/475/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+		<item>
+		<title>Three Things You Don&#8217;t Know About Mozilla</title>
+		<link>/skinny/four-things-you-dont-know-about-mozilla/410/</link>
+		<comments>/skinny/four-things-you-dont-know-about-mozilla/410/#comments</comments>
+		<pubDate>Wed, 22 Jun 2011 19:32:54 +0000</pubDate>
+		<dc:creator><![CDATA[Crystal Beasley]]></dc:creator>
+				<category><![CDATA[mozilla]]></category>
+
+		<guid isPermaLink="false">/skinny/?p=410</guid>
+		<description><![CDATA[Even though I&#8217;d been using Firefox for a half a dozen years and have been working in tech for a decade, there was a lot I didn&#8217;t know about Mozilla until recently. Judging from the questions I&#8217;ve been fielding since I accepted the position, you don&#8217;t know either. Mozilla is a non-profit. Unlike Google and Microsoft, Mozilla doesn&#8217;t have a stock symbol. Mozilla Foundation wholly owns Mozilla Corporation which exists to employ me and the rest of the talented folks there to support the open web. How does Mozilla make money? Most of the revenues come from that little search box in the upper right-hand corner of Firefox. Search engines (Google, Bing) pay for placement. Those revenues are used to pursue the mission to push the web forward. Mozilla is extremely friendly to remote workers. Of the ~400 employees, about 225 of them are remote. They have an excellent culture for keeping everyone connected like quarterly all-hands where everyone comes out to the HQ in Mountain View, CA. Please do check out the careers page. Even if you don&#8217;t see the exact fit for you, send in a resume. If we find an awesome person, we&#8217;ll find a spot for [&#8230;]<p><a href="/skinny/four-things-you-dont-know-about-mozilla/410/">Three Things You Don&#8217;t Know About Mozilla</a> is a post from: <a href="/skinny/">Crystal Beasley, UX Designer at Mozilla</a></p>
+]]></description>
+				<content:encoded><![CDATA[<div id="attachment_575" style="width: 590px" class="wp-caption aligncenter"><a href="/skinny/content/uploads/2011/06/moz-fox.jpg"><img src="/skinny/wp-content/uploads/2011/06/moz-fox.jpg" alt="" title="Mozilla Creative Collective by amateur" width="580" height="580" class="size-full wp-image-575" /></a><p class="wp-caption-text">Illustration by amateur on Creative Collective</p></div>
+<p>Even though I&#8217;d been using Firefox for a half a dozen years and have been working in tech for a decade, there was a lot I didn&#8217;t know about Mozilla until recently. Judging from the questions I&#8217;ve been fielding since I accepted the position, you don&#8217;t know either.</p>
+<p><strong>Mozilla is a non-profit.</strong> Unlike Google and Microsoft, Mozilla doesn&#8217;t have a stock symbol. Mozilla Foundation wholly owns Mozilla Corporation which exists to employ me and the rest of the talented folks there to <a href="http://www.mozilla.org/about/mission.html">support the open web</a>.</p>
+<p><strong>How does Mozilla make money?</strong> Most of the revenues come from that little search box in the upper right-hand corner of Firefox. Search engines (Google, Bing) pay for placement. Those revenues are used to pursue the mission to push the web forward.</p>
+<p><strong>Mozilla is extremely friendly to remote workers.</strong> Of the ~400 employees, about 225 of them are remote. They have an excellent culture for keeping everyone connected like quarterly all-hands where everyone comes out to the HQ in Mountain View, CA. Please do check out the <a href="http://www.mozilla.com/en-US/about/careers.html">careers page.</a> Even if you don&#8217;t see the exact fit for you, send in a resume. If we find an awesome person, we&#8217;ll find a spot for them. For extra credit, send me a ping on <a href="http://twitter.com/skinny">twitter</a> so I can flag you in the hiring database.</p>
+<p><a href="/skinny/four-things-you-dont-know-about-mozilla/410/">Three Things You Don&#8217;t Know About Mozilla</a> is a post from: <a href="/skinny/">Crystal Beasley, UX Designer at Mozilla</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/skinny/four-things-you-dont-know-about-mozilla/410/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+		<item>
+		<title>Inked with Mozilla</title>
+		<link>/skinny/inked-with-mozilla/377/</link>
+		<comments>/skinny/inked-with-mozilla/377/#comments</comments>
+		<pubDate>Fri, 20 May 2011 19:19:07 +0000</pubDate>
+		<dc:creator><![CDATA[Crystal Beasley]]></dc:creator>
+				<category><![CDATA[always choose awesome]]></category>
+		<category><![CDATA[mozilla]]></category>
+
+		<guid isPermaLink="false">/skinny/?p=377</guid>
+		<description><![CDATA[Hooray! I just inked a contract with Mozilla to come on as a full-time UX Designer. I&#8217;ll be working on external stuff like campaign sites and internal tools like crash reporter. I start June 13th. The whole 35 person Web UX team is flying up to Portland the week after to meet me. Ok, not really. They&#8217;re coming for OSBridge. Several Mozillans have talks: Ryan Snyder: Pulling the Plug Shyam Mani: DNSSEC @ Mozilla Frederic Wenzel: Massively scaling Django for a global audience with Playdoh Les Orchard: Inviting Contributors to Open Source Webdev through Virtualization WAAAAHOOOOO! Inked with Mozilla is a post from: Crystal Beasley, UX Designer at Mozilla<p><a href="/skinny/inked-with-mozilla/377/">Inked with Mozilla</a> is a post from: <a href="/skinny/">Crystal Beasley, UX Designer at Mozilla</a></p>
+]]></description>
+				<content:encoded><![CDATA[<p><img src="/skinny/content/uploads/2011/05/mozilla-contract-signing.gif" alt="mozilla contract signing" title="mozilla-contract-signing" width="410" height="306" class="aligncenter size-full wp-image-378" /></p>
+<p>Hooray! I just inked a contract with Mozilla to come on as a full-time UX Designer. I&#8217;ll be working on external stuff like campaign sites and internal tools like crash reporter. I start June 13th. </p>
+<p>The whole 35 person Web UX team is flying up to Portland the week after to meet me. Ok, not really. They&#8217;re coming for <a href="http://opensourcebridge.org/">OSBridge</a>. Several Mozillans have talks: </p>
+<ul>
+<li>Ryan Snyder: <a href="http://opensourcebridge.org/sessions/622">Pulling the Plug</a></li>
+<li>Shyam Mani: <a href="http://opensourcebridge.org/sessions/577">DNSSEC @ Mozilla</a></li>
+<li>Frederic Wenzel: <a href="http://opensourcebridge.org/sessions/576">Massively scaling Django for a global audience with Playdoh</a></li>
+<li>Les Orchard: <a href="http://opensourcebridge.org/sessions/635">Inviting Contributors to Open Source Webdev through Virtualization</a></li>
+</ul>
+<p>WAAAAHOOOOO!</p>
+<p><a href="/skinny/inked-with-mozilla/377/">Inked with Mozilla</a> is a post from: <a href="/skinny/">Crystal Beasley, UX Designer at Mozilla</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/skinny/inked-with-mozilla/377/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced
+Database Caching 11/20 queries in 0.005 seconds using disk: basic
+
+ Served from: skinnywhitegirl.com @ 2017-07-29 13:37:54 by W3 Total Cache -->
