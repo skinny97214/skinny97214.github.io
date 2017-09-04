@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>crystal beasley &#187; always-choose-awesome | crystal beasley</title>
+	<atom:link href="/skinny/category/always-choose-awesome/feed/" rel="self" type="application/rss+xml" />
+	<link>/skinny/</link>
+	<description>terrified and excited, just like I like it</description>
+	<lastBuildDate>Tue, 07 Jan 2014 14:50:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.1.18</generator>
+	<item>
+		<title>Designing for COPPA</title>
+		<link>/skinny/designing-for-coppa/1033/</link>
+		<comments>/skinny/designing-for-coppa/1033/#comments</comments>
+		<pubDate>Mon, 01 Apr 2013 21:31:28 +0000</pubDate>
+		<dc:creator><![CDATA[Crystal Beasley]]></dc:creator>
+				<category><![CDATA[design]]></category>
+		<category><![CDATA[mozilla]]></category>
+		<category><![CDATA[always-choose-awesome]]></category>
+
+		<guid isPermaLink="false">/skinny/?p=1033</guid>
+		<description><![CDATA[If you&#8217;ve never heard of COPPA, consider yourself lucky&#8230; and now, warned. Chances are, if you&#8217;re finding this article via a search engine, you&#8217;re already in the thick of it. For that, I offer my consolations and a few lessons learned. Disclaimer: I am not a lawyer. None of the suggestions contained in this blog post constitute legal advice. Some rights reserved by matt.forestpath Age Neutral Verification This is the biggest area of impact on the interface. If you have a site which offers kid-attractive content, you&#8217;ll need to know if they&#8217;re above thirteen before making an account or storing personally identifiable information. The problem is that you can&#8217;t actually ask that in a way that indicates that thirteen is the break point. This is what &#8220;age-neutral verification&#8221; means. If only it was as simple as a checkbox that they tick which says &#8220;I am over 13 years of age.&#8221; Nuuuh-uh, not so fast, cowboy. That&#8217;s not legal. (See FAQ #39 of the COPPA statute.) If the user fails the age-neutral test, you must fail in a obtuse way that doesn&#8217;t indicate to them that the age check was the reason. This defies all good UX principles around writing clear [&#8230;]<p><a href="/skinny/designing-for-coppa/1033/">Designing for COPPA</a> is a post from: <a href="/skinny/">Crystal Beasley, UX Designer at Mozilla</a></p>
+]]></description>
+				<content:encoded><![CDATA[<p>If you&#8217;ve never heard of COPPA, consider yourself lucky&#8230; and now, warned. Chances are, if you&#8217;re finding this article via a search engine, you&#8217;re already in the thick of it. For that, I offer my consolations and a few lessons learned.<span id="more-1033"></span> <em>Disclaimer: I am not a lawyer. None of the suggestions contained in this blog post constitute legal advice.</em></p>
+<p><a href="/skinny/content/uploads/2013/04/sidewalk-chalk-kid.jpg"><img class="size-large wp-image-1042" alt="sidewalk-chalk-kid" src="/skinny/wp-content/uploads/2013/04/sidewalk-chalk-kid-600x450.jpg" width="600" height="450" /></a><span style="font-size: 9px;">Some rights reserved by <a title="original photo at flickr" href="http://www.flickr.com/photos/18123948@N00/281857282">matt.forestpath</a></span></p>
+<h3>Age Neutral Verification</h3>
+<p>This is the biggest area of impact on the interface. If you have a site which offers kid-attractive content, you&#8217;ll need to know if they&#8217;re above thirteen before making an account or storing personally identifiable information.</p>
+<p>The problem is that you can&#8217;t actually ask that in a way that indicates that thirteen is the break point. This is what &#8220;age-neutral verification&#8221; means. If only it was as simple as a checkbox that they tick which says &#8220;I am over 13 years of age.&#8221; Nuuuh-uh, not so fast, cowboy. That&#8217;s not legal. (See <a title="COPPA FAQs" href="http://www.ftc.gov/privacy/coppafaqs.shtm" target="_blank">FAQ #39 of the COPPA statute</a>.)</p>
+<p>If the user fails the age-neutral test, <strong>you must fail in a obtuse way</strong> that doesn&#8217;t indicate to them that the age check was the reason. This defies all good UX principles around writing clear error message that tell people what is actually going on. As much as this boils my cockles, it is the law. But it doesn&#8217;t end there. You must prevent them from turning around trying again. Finally, your company must delete all info from any source that you have about that user.</p>
+<h3>Options</h3>
+<p><a href="/skinny/content/uploads/2013/04/coppa-birthday-facebook.png"><img class="size-full wp-image-1034 alignnone" alt="coppa birthday example from facebook" src="/skinny/wp-content/uploads/2013/04/coppa-birthday-facebook.png" width="511" height="83" /></a></p>
+<p>Most providers, including the screenshot from Facebook, are asking for a birth date, as that&#8217;s the example solution given in the law. Facebook&#8217;s popup delicately explains &#8220;Providing your birthday helps make sure you get the right Facebook experience for your age. You can choose to hide this info from your timeline later if you want. For more details, please visit our <a href="https://www.facebook.com/about/privacy/">Data Use Policy</a>.&#8221;</p>
+<p><a href="/skinny/content/uploads/2013/04/Screen-Shot-2013-04-01-at-2.05.42-PM.png"><img class="alignnone size-full wp-image-1039" alt="COPPA birth year" src="/skinny/wp-content/uploads/2013/04/Screen-Shot-2013-04-01-at-2.05.42-PM.png" width="432" height="100" /></a></p>
+<p>Another option is to simplify down to only asking for the birth year. The drawback to this method is that you need to toss out all of the people who turned thirteen that calendar year who would otherwise be able to use your site.</p>
+<p><a href="/skinny/content/uploads/2013/04/age-neutral-btwf.png"><img class="size-full wp-image-1037 alignnone" alt="Age Neutral Verification BTWF" src="/skinny/wp-content/uploads/2013/04/age-neutral-btwf.png" width="299" height="116" /></a></p>
+<p>Lastly, my favorite option is the radio buttons with age ranges approach. This example is from the Born This Way Foundation. It&#8217;s the best UX but the riskiest approach from a legal standpoint.</p>
+<h3>Tricks up our sleeve</h3>
+<p>Since Gmail, Hotmail, Yahoo all are under the same restrictions, they have already asked this question of users. A feature we&#8217;ve been talking about for <a title="Mozilla Persona : the official blog" href="http://identity.mozilla.com/" target="_blank">Persona</a> is to flag such users&#8217; accounts as good to go. As we roll this future feature out, this will mean that we can give sites both a verified email address and a verified age-neutral check.  Again, check with your lawyers to see what sort of documentation you&#8217;ll need to keep around to prove that these third parties were indeed performing the check.</p>
+<p><a href="/skinny/designing-for-coppa/1033/">Designing for COPPA</a> is a post from: <a href="/skinny/">Crystal Beasley, UX Designer at Mozilla</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/skinny/designing-for-coppa/1033/feed/</wfw:commentRss>
+		<slash:comments>11</slash:comments>
+		</item>
+		<item>
+		<title>UX of a Wine Glass</title>
+		<link>/skinny/always-choose-awesome-of-a-wine-glass-2/1021/</link>
+		<comments>/skinny/always-choose-awesome-of-a-wine-glass-2/1021/#comments</comments>
+		<pubDate>Mon, 04 Feb 2013 21:22:23 +0000</pubDate>
+		<dc:creator><![CDATA[Crystal Beasley]]></dc:creator>
+				<category><![CDATA[design]]></category>
+		<category><![CDATA[always-choose-awesome]]></category>
+
+		<guid isPermaLink="false">/skinny/?p=1021</guid>
+		<description><![CDATA[There&#8217;s a study that shows that people report that wine tastes better out of fancy crystal wine glass. Poor winemakers toil away in the mud, consulting the phases of the moon, to bottle a more excellent vintage than the last. Who knew all they need do is order up a box of Riedel stems. Your product is not so different from that bottle of wine. A good visual design will enhance the experience of using your product. The visual design will indicate what sort of this this is, who the product is for, how much it costs, etc. Note that it indicates this whether or not you want it to. Serving Châteauneuf du Pape in a paper cup may not be an intentional choice, it will affect the experience of drinking it nonetheless. This doesn&#8217;t mean your visual design should be fancy or slick or nice. What&#8217;s right for wine isn&#8217;t right for everything. Beer doesn&#8217;t taste better out of a wine glass. You drink Miller straight out of the longneck. Stella Artois has made a whole advertising campaign of its signature glass. Churchkey is reviving a line of working man&#8217;s beer in 1940&#8217;s cans. Miller is for working men, [&#8230;]<p><a href="/skinny/always-choose-awesome-of-a-wine-glass-2/1021/">UX of a Wine Glass</a> is a post from: <a href="/skinny/">Crystal Beasley, UX Designer at Mozilla</a></p>
+]]></description>
+				<content:encoded><![CDATA[<p>There&#8217;s a study that shows that people report that wine tastes better out of fancy crystal wine glass. Poor winemakers toil away in the mud, consulting the phases of the moon, to bottle a more excellent vintage than the last. Who knew all they need do is order up a box of Riedel stems.<span id="more-1021"></span></p>
+<p><a href="/skinny/content/uploads/2013/02/ux-of-wine-glass.jpg"><img class="alignnone size-large wp-image-1022" alt="ux-of-wine-glass" src="/skinny/wp-content/uploads/2013/02/ux-of-wine-glass-600x402.jpg" width="600" height="402" /></a></p>
+<p>Your product is not so different from that bottle of wine. A good visual design will enhance the experience of using your product. The visual design will indicate what sort of this this is, who the product is for, how much it costs, etc. Note that it indicates this whether or not you want it to. Serving Châteauneuf du Pape in a paper cup may not be an intentional choice, it will affect the experience of drinking it nonetheless.</p>
+<p>This doesn&#8217;t mean your visual design should be fancy or slick or nice. What&#8217;s right for wine isn&#8217;t right for everything. Beer doesn&#8217;t taste better out of a wine glass. You drink Miller straight out of the longneck. Stella Artois has made a whole advertising campaign of its signature glass. Churchkey is reviving a line of working man&#8217;s beer in 1940&#8217;s cans. Miller is for working men, Stella is for working men who wish they were hipsters, Churchkey is for hipsters who wish they were working men.</p>
+<p>It&#8217;s all about knowing who audience is. Your visual design should say to them &#8220;this is for me.&#8221;</p>
+<p><em>Originally posted on <a title="The Heretic | Pascal Finette" href="http://theheretic.me/">The Heretic Newsletter</a></em></p>
+<p><a href="/skinny/always-choose-awesome-of-a-wine-glass-2/1021/">UX of a Wine Glass</a> is a post from: <a href="/skinny/">Crystal Beasley, UX Designer at Mozilla</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/skinny/always-choose-awesome-of-a-wine-glass-2/1021/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>People DO Care About Little &#8220;p&#8221; Privacy</title>
+		<link>/skinny/people-care-about-little-p-privacy/970/</link>
+		<comments>/skinny/people-care-about-little-p-privacy/970/#comments</comments>
+		<pubDate>Tue, 18 Dec 2012 22:33:20 +0000</pubDate>
+		<dc:creator><![CDATA[Crystal Beasley]]></dc:creator>
+				<category><![CDATA[design]]></category>
+		<category><![CDATA[mozilla]]></category>
+		<category><![CDATA[always-choose-awesome]]></category>
+
+		<guid isPermaLink="false">/skinny/?p=970</guid>
+		<description><![CDATA[There&#8217;s a common perception that people don&#8217;t care about privacy. This is sort of right. Our research shows that most users are unaware of how extensively they&#8217;re being tracked by advertisers across the websites they visit. Even those that do know are unsure of what to do about it. They know there&#8217;s a horrible legalese privacy policy hanging out somewhere. They know they should read it. They don&#8217;t. They know they should use different passwords on each site. They don&#8217;t. Our research found a fatalistic attitude towards privacy and security. We heard everything from &#8220;No one wants my identity anyway. There&#8217;s no money in my bank account.*&#8221; to &#8220;If a hacker wanted to get in, I&#8217;m sure they could. I wouldn&#8217;t even know where to begin to defend myself.&#8221; *Note: that&#8217;s not how identity theft works. The kind of privacy they care about is from the people closest to them that could physically pick up their phone or computer. This is why people clear browser history and explicitly log out of sites. It&#8217;s not the hacker they&#8217;re worried about, it&#8217;s their visiting mother-in-law or kid sister getting a look at their email or being able to vandalize their Facebook wall. [&#8230;]<p><a href="/skinny/people-care-about-little-p-privacy/970/">People DO Care About Little &#8220;p&#8221; Privacy</a> is a post from: <a href="/skinny/">Crystal Beasley, UX Designer at Mozilla</a></p>
+]]></description>
+				<content:encoded><![CDATA[<p><a href="/skinny/content/uploads/2012/10/sister-computer.jpg"><img class="size-large wp-image-971" title="sister-computer" alt="" src="/skinny/wp-content/uploads/2012/10/sister-computer-600x485.jpg" width="600" height="485" /></a></p>
+<p>There&#8217;s a common perception that people don&#8217;t care about privacy. This is sort of right. Our research shows that most users are unaware of how extensively they&#8217;re being <a href="http://www.technologyreview.com/view/424170/how-facebook-leveraged-publishers-desperation-to/">tracked by advertisers</a> across the websites they visit. Even those that do know are unsure of what to do about it. They know there&#8217;s a horrible legalese privacy policy hanging out somewhere. They know they <em>should</em> read it. They don&#8217;t. They know they <em>should</em> use different passwords on each site. They don&#8217;t.</p>
+<p>Our research found a fatalistic attitude towards privacy and security. We heard everything from &#8220;No one wants my identity anyway. There&#8217;s no money in my bank account.*&#8221; to &#8220;If a hacker wanted to get in, I&#8217;m sure they could. I wouldn&#8217;t even know where to begin to defend myself.&#8221; <em>*Note: that&#8217;s not how identity theft works.</em></p>
+<p>The kind of privacy they care about is from the people closest to them that could physically pick up their phone or computer. This is why people clear browser history and explicitly log out of sites. It&#8217;s not the hacker they&#8217;re worried about, it&#8217;s their visiting mother-in-law or kid sister getting a look at their email or being able to vandalize their Facebook wall. Unlike the big &#8220;P&#8221; privacy, this consequences of this threat are immediate and visceral. The potential costs to their reputation are perceived to be higher than anything a hacker could or would do.</p>
+<p>Further, we found that the existing password manager is under serving the majority of our users. Many people aren&#8217;t having the browser save their passwords because it leaves their account wide open to anyone who has physical access to their device. It doesn&#8217;t defend against the primary threat they&#8217;re worried about. They are left with no tools to help.</p>
+<p>It&#8217;s little wonder we see such bad statistics on password reuse. We&#8217;ve told people not reuse passwords, but it&#8217;s a cognitive impossibility to comply. It&#8217;s like saying you could avoid drowning by walking on water. Worse, even, is that everyone I&#8217;ve interviewed apologies for not having a good enough memory. We&#8217;ve done no service to our users by making them feel stupid or inadequate.</p>
+<p>The Persona team has been busy prototyping better tools that address this set of user needs. Follow us on twitter at <a title="Mozilla Persona on Twitter" href="https://twitter.com/mozillapersona" target="_blank">@mozillapersona</a> to hear about these experiments and more.</p>
+<p>&nbsp;</p>
+<p><strong>Check out the research that underpins the <a title="The Persona Team blog" href="http://identity.mozilla.com/">Persona team</a>:</strong></p>
+<p><a title="Permanent link to “Identity and the Internet: A study”" href="https://blog.mozilla.org/always-choose-awesome/2012/10/identity-and-the-internet-a-study/" rel="bookmark">Identity and the Internet: A study</a><br />
+<a title="Permanent link to “Some attitudes on Facebook privacy”" href="https://blog.mozilla.org/always-choose-awesome/2012/04/some-attitudes-on-facebook-privacy/" rel="bookmark">Some attitudes on Facebook privacy</a><br />
+<a title="Permanent link to “Privacy and social media: a small German study”" href="https://blog.mozilla.org/always-choose-awesome/2012/09/privacy-and-social-media-a-small-german-study/" rel="bookmark">Privacy and social media: a small German study</a></p>
+<p><small>Photo credit: <a href="http://www.flickr.com/photos/valeriamelissia/131149574/">Creative Commons license by Valeria Melissia Rosalez</a></small></p>
+<p><a href="/skinny/people-care-about-little-p-privacy/970/">People DO Care About Little &#8220;p&#8221; Privacy</a> is a post from: <a href="/skinny/">Crystal Beasley, UX Designer at Mozilla</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/skinny/people-care-about-little-p-privacy/970/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Code Talks and Designers Don&#8217;t Speak the Language</title>
+		<link>/skinny/code-talks-and-designers-dont-speak-the-language/930/</link>
+		<comments>/skinny/code-talks-and-designers-dont-speak-the-language/930/#comments</comments>
+		<pubDate>Wed, 10 Oct 2012 20:43:31 +0000</pubDate>
+		<dc:creator><![CDATA[Crystal Beasley]]></dc:creator>
+				<category><![CDATA[collaboration]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[mozilla]]></category>
+		<category><![CDATA[always-choose-awesome]]></category>
+
+		<guid isPermaLink="false">/skinny/?p=930</guid>
+		<description><![CDATA[In an exasperated voice &#8220;Why is it so hard to get designers in open source.&#8221; I hear this all the time. Well firstly, it depends on what sorts of skills you&#8217;re talking about. Just like in code, there are small tactical problems that are good first bugs. Even the simplest issue requires a knowledge of the design patterns that the site employs. Many of the bugs, however, require a deep understanding of why the product exists in the marketplace and a thorough understanding of the research that underpins the project. These strategic questions are analogous to what a software architect would do. I was on the Persona project full time for three months before I felt confident making significant choices about UX. Open source generally isn&#8217;t welcoming to designers. A shock, I know! There are many reasons for this. In general, coders don&#8217;t know what to expect from us. My conception of what I do often bears little resemblance to what coders think I do. When I join a team that&#8217;s never worked closely with a UX designer, I have to educate them. Otherwise, there&#8217;s a gap of misunderstanding that leads to stress and unhappiness. We get up in your [&#8230;]<p><a href="/skinny/code-talks-and-designers-dont-speak-the-language/930/">Code Talks and Designers Don&#8217;t Speak the Language</a> is a post from: <a href="/skinny/">Crystal Beasley, UX Designer at Mozilla</a></p>
+]]></description>
+				<content:encoded><![CDATA[<p><a href="/skinny/content/uploads/2012/10/code-talks-600px.jpg"><img class="alignnone size-full wp-image-942" title="Why design in open source is hard" src="/skinny/wp-content/uploads/2012/10/code-talks-600px.jpg" alt="" width="600" height="341" /></a></p>
+<p>In an exasperated voice <em>&#8220;Why is it so hard to get designers in open source.&#8221;</em> I hear this all the time. Well firstly, it depends on what sorts of skills you&#8217;re talking about. Just like in code, there are small tactical problems that are good first bugs. Even the simplest issue requires a knowledge of the design patterns that the site employs.</p>
+<p>Many of the bugs, however, require a deep understanding of why the product exists in the marketplace and a thorough understanding of the research that underpins the project. These strategic questions are analogous to what a software architect would do. I was on the Persona project full time for three months before I felt confident making significant choices about UX.</p>
+<p>Open source generally isn&#8217;t welcoming to designers. A shock, I know! There are many reasons for this.</p>
+<ol>
+<li>In general, <strong>coders don&#8217;t know what to expect from us</strong>. My conception of what I do often bears little resemblance to what coders think I do. When I join a team that&#8217;s never worked closely with a UX designer, I have to educate them. Otherwise, there&#8217;s a gap of misunderstanding that leads to stress and unhappiness. We get up in your business and ask you to change things that you don&#8217;t want to change because
+<ul>
+<li>It seems trivial and unimportant.</li>
+<li>Conversely, it&#8217;s <em>too hard</em>.</li>
+<li>You don&#8217;t agree.</li>
+</ul>
+</li>
+<li>Ultimately, we&#8217;re beholden to convince a dev to implement our bug, likely because we don&#8217;t code or even if we do it&#8217;s not the best use of our time to be implementing. (If you want to pick a fight, insult a designer by asking why we don&#8217;t &#8220;just learn to code.&#8221;) We&#8217;re starting from a disadvantaged position. In version control systems such as github, <strong>code talks and designers don&#8217;t speak the language</strong>.</li>
+<li>Probably the most daunting question for projects without any design lead that has the trust of the team is, <strong>how do the devs know if the proposed design is correct</strong>? Without that trust, bugs quickly devolve into nasty arguments. How you build that trust has been the subject of entire books. But the question remains, who and how do you approve a mockup? The code review process works great for just that&#8230; code.</li>
+<li>Github issues and their parallels track problems at a level of granularity that&#8217;s useful for devs. The UX problems that constitute my work are of a much larger granularity. When I add such a strategic issues to the tracker, it makes devs uncomfortable. There&#8217;s nothing actionable here. There&#8217;s nothing to implement. My job is to think through big issues. By the time I&#8217;ve converted it into something a dev would recognize as a bug, my work is done. Thus, <strong>representing the work of a designer requires a shift in culture</strong> of the dev team so that they won&#8217;t close down my issues.</li>
+<li>My UX bugs are all tracked publicly in <a title="Persona Issues on Github" href="https://github.com/mozilla/browserid/issues">Persona&#8217;s github</a> and yet I can count on one hand the number of UX volunteers that have contributed to the project. It&#8217;s not that there aren&#8217;t any good first bugs, its that <strong>there is a shortage of UX/UI designers in the market</strong>. Yes, I&#8217;m sure Mozilla could do a better job of getting designers to volunteer. We know it and we&#8217;re working on it.</li>
+</ol>
+<p>The solutions to all these problems lie in communication and building a trusted relationship. It&#8217;s a higher barrier for designers that takes time to overcome. I&#8217;ve found all of my team to be receptive when I&#8217;ve taken the time to explain the principles that guide my decisions. I work with an awesome group of super smart folks! They just need to know I&#8217;ve got this handled. The longer we work together, the more shorthanded my explanations can be. Designers start by renovating small stuff and move up to innovating as they build their reputation. As the paid UX designers in Mozilla change the culture, it will become more welcoming because we will have laid the groundwork. Recommended reading: <a title="Socializing UX" href="http://boxesandarrows.com/view/we-tried-to-warn-you32">How to socialize UX into your project</a> and the post I wrote a year ago about <a title="Chief eXperience Officer at Mozilla in 2012" href="/skinny/chief-experience-officer-at-mozilla-in-2012/707/">design leadership</a>.</p>
+<p>And yes, we are actively <a title="Careers at Mozilla" href="http://careers.mozilla.org">hiring</a>. It&#8217;s an amazing place to work. If there&#8217;s a specific position you&#8217;re interested in, send a holler to me directly at <a title="email Crystal" href="mailto:crystal@mozilla.com">crystal@mozilla.com</a>.</p>
+<p><a href="/skinny/code-talks-and-designers-dont-speak-the-language/930/">Code Talks and Designers Don&#8217;t Speak the Language</a> is a post from: <a href="/skinny/">Crystal Beasley, UX Designer at Mozilla</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/skinny/code-talks-and-designers-dont-speak-the-language/930/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+		<item>
+		<title>9 of 10 Sites Agree Requiring Log-in is Whack</title>
+		<link>/skinny/top-sites-agree-required-login-is-whac/824/</link>
+		<comments>/skinny/top-sites-agree-required-login-is-whac/824/#comments</comments>
+		<pubDate>Tue, 14 Feb 2012 18:39:48 +0000</pubDate>
+		<dc:creator><![CDATA[Crystal Beasley]]></dc:creator>
+				<category><![CDATA[always-choose-awesome]]></category>
+
+		<guid isPermaLink="false">/skinny/?p=824</guid>
+		<description><![CDATA[I&#8217;ve been thinking about log-in a lot lately. Yesterday it occurred to me to see what sites across the web were doing about it. Do they require log-in? Sure, almost all of these have user accounts, but can you use the core functionality of the site without one? The results were overwhelming, 87 of the top 100 US sites by traffic are useful without a log-in. Let&#8217;s talk about the outliers. What can be so valuable that they can put a locked door in front of the users? Banking is not a surprise. They don&#8217;t hand off their log-in to a third party like Facebook Connect because security and privacy are the paramount concern. Banks already have a brick-and-mortar relationship with the customer that they extend in the online space. All of the site below started as online-only concerns, so they didn&#8217;t have that advantage. Facebook, Twitter and a pair of dating sites make up the next category. These things are inextricably tied to your identity. It makes sense that you can&#8217;t participate in these sites without logging in, as it would destroy the whole fabric of what they are. In the media category we have Netflix and Pandora. I [&#8230;]<p><a href="/skinny/top-sites-agree-required-login-is-whac/824/">9 of 10 Sites Agree Requiring Log-in is Whack</a> is a post from: <a href="/skinny/">Crystal Beasley, UX Designer at Mozilla</a></p>
+]]></description>
+				<content:encoded><![CDATA[<p><a href="/skinny/content/uploads/2012/02/login_cookies.png"><img src="/skinny/wp-content/uploads/2012/02/login_cookies.png" alt="" title="require login cookies " width="308" height="283" class="alignnone size-full wp-image-915" /></a></p>
+<p>I&#8217;ve been <a href="/skinny/how-people-think-facebook-connect-login-logout-work/861/" title="How People *Think* Facebook Connect Log‑in and Log‑out Work">thinking about log-in</a> <a href="/skinny/password-strength-bank-simple/788/" title="Simple: Getting users to pick strong, memorable passwords">a lot lately</a>. Yesterday it occurred to me to see what sites across the web were doing about it. Do they require log-in? Sure, almost all of these have user accounts, but can you use the core functionality of the site without one? The results were overwhelming, 87 of the top 100 US sites by traffic are useful without a log-in.</p>
+<p>Let&#8217;s talk about the outliers. What can be so valuable that they can put a locked door in front of the users? </p>
+<p>Banking is not a surprise. They don&#8217;t hand off their log-in to a third party like Facebook Connect because security and privacy are the paramount concern. Banks already have a brick-and-mortar relationship with the customer that they extend in the online space. </p>
+<p>All of the site below started as online-only concerns, so they didn&#8217;t have that advantage. </p>
+<p>Facebook, Twitter and a pair of dating sites make up the next category. These things are inextricably tied to your identity. It makes sense that you can&#8217;t participate in these sites without logging in, as it would destroy the whole fabric of what they are.</p>
+<p>In the media category we have Netflix and Pandora. I should note that Hulu is in the no log-in required club, and they are challenging Netflix&#8217;s business model. All of Pandora&#8217;s direct competitors seem to require log-in. All I can surmise is, people really want this content and DRM is a bitch. </p>
+<p>Let&#8217;s back up and talk about Twitter for one more second. I put Twitter in the category of log-in required, but it&#8217;s not that black and white. The majority of users reading Twitter do have an account, but you actually can get started with the site by following celebrities. They increased their sign-ups by 29% when they redesigned their sign-up forms with principles of <a href="http://www.lukew.com/ff/entry.asp?1128" title="Gradual Engagement Boosts Twitter Sign-Ups by 29%">gradual engagement</a>.</p>
+<p>Lastly, the sole appearance in the product category is Groupon. Whoa. People loves dem deals. Their disruptive idea (requiring log-in) plus an engagement model that used emails as the primary interaction created a whole new business model. You can debate whether their $12 billion valuation is correct to the nearest order of magnitude, but it&#8217;s surely a signal that they did something interesting.</p>
+<p>Twitter flipped the paradigm on Facebook&#8217;s walled garden by replacing the private friend relationship with a public follow one. Hulu upset Netflix by dropping required login. Despite what the title of this post may imply, I don&#8217;t think the future of the web is for everyone to go log-in free. If your competitors are doing it one way, see what&#8217;s possible by reversing it. Don&#8217;t take log-in for granted. It&#8217;s crucial that you get it right.</p>
+<p>Further reading: Luke Williams on <a href="http://www.disruptive-thinking.com/">Disruptive Thinking</a></p>
+<h3>Login REQUIRED</h3>
+<style type="text/css"> table.tableizer-table {font-size: 12px;} .tableizer-table td, .tableizer-table th {padding: 4px; margin: 3px; border-bottom: 1px solid #DDDDDD; width:111px} </style>
+<table class="tableizer-table">
+<tbody>
+<tr class="tableizer-firstrow">
+<th>identity</th>
+<th>banking</th>
+<th>media</th>
+<th>product</th>
+</tr>
+<tr>
+<td>Facebook</td>
+<td>PayPal</td>
+<td>Netflix</td>
+<td>Groupon</td>
+</tr>
+<tr>
+<td>Twitter</td>
+<td>Bank of America</td>
+<td>Pandora</td>
+<td></td>
+</tr>
+<tr>
+<td>Match.com</td>
+<td>Chase Bank</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>pof.com</td>
+<td>Wells Fargo</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>American Express</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Capital One</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h3>Login NOT required</h3>
+<table class="tableizer-table">
+<tbody>
+<tr class="tableizer-firstrow">
+<th>portal</th>
+<th>ecommerce</th>
+<th>media</th>
+<th>product</th>
+<th>glue</th>
+</tr>
+<tr>
+<td>Google</td>
+<td>Craigslist.org</td>
+<td>YouTube</td>
+<td>Wikipedia</td>
+<td>t.co</td>
+</tr>
+<tr>
+<td>Yahoo!</td>
+<td>Apple Inc.</td>
+<td>Blogspot.com</td>
+<td>IMDB</td>
+<td>www.ZEDO.com</td>
+</tr>
+<tr>
+<td>Windows Live</td>
+<td>Amazon.com</td>
+<td>WordPress.com</td>
+<td>The Weather Channel</td>
+<td>Imgur</td>
+</tr>
+<tr>
+<td>MSN</td>
+<td>eBay</td>
+<td>CNN Interactive</td>
+<td>About.com</td>
+<td>Askoptmd.com</td>
+</tr>
+<tr>
+<td>Go</td>
+<td>Wal-Mart Online</td>
+<td>ESPN</td>
+<td>Yelp</td>
+<td>googleusercontent.com</td>
+</tr>
+<tr>
+<td>Bing</td>
+<td>Best Buy</td>
+<td>Washington Post</td>
+<td>LinkedIn</td>
+<td>outbrain.com</td>
+</tr>
+<tr>
+<td>Comcast</td>
+<td>Target</td>
+<td>The Huffington Post</td>
+<td>Pinterest</td>
+<td>AWeber Systems</td>
+</tr>
+<tr>
+<td>AOL</td>
+<td>etsy.com</td>
+<td>Blogger.com</td>
+<td>Flickr</td>
+<td>Constant Contact</td>
+</tr>
+<tr>
+<td>Road Runner</td>
+<td>NewEgg.com</td>
+<td>CNET.com</td>
+<td>Hulu</td>
+<td>StumbleUpon</td>
+</tr>
+<tr>
+<td>AVG | Antivirus</td>
+<td>Go Daddy</td>
+<td>New York Times</td>
+<td>Reddit</td>
+<td>amazonaws.com</td>
+</tr>
+<tr>
+<td>AT&amp;T</td>
+<td>Publishers Clearing House</td>
+<td>BBC Online</td>
+<td>eHow</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>Verizon</td>
+<td>FedEx</td>
+<td>FoxNews.com</td>
+<td>Dictionary.com</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Adobe</td>
+<td>USA Today</td>
+<td>Allrecipes</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Microsoft</td>
+<td>Drudge Report</td>
+<td>The Warrior Forum</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>USPS</td>
+<td>The Daily Mail</td>
+<td>The Pirate Bay</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>UPS</td>
+<td>Wall Street Journal</td>
+<td>Photobucket</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>Los Angeles Times</td>
+<td>Indeed.com</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>FOX Sports</td>
+<td>1-Click Answers</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>ABCNews.com</td>
+<td>Swagbucks.com</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>Tumblr</td>
+<td>LiveJasmin.com</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>NFL.COM</td>
+<td>xhamster.com</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>WordPress</td>
+<td>pornhub.com</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>xvideos.com</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>Youporn</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><a href="/skinny/top-sites-agree-required-login-is-whac/824/">9 of 10 Sites Agree Requiring Log-in is Whack</a> is a post from: <a href="/skinny/">Crystal Beasley, UX Designer at Mozilla</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/skinny/top-sites-agree-required-login-is-whac/824/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+		</item>
+		<item>
+		<title>How People *Think* Facebook Connect Log&#8209;in and Log&#8209;out Work</title>
+		<link>/skinny/how-people-think-facebook-connect-login-logout-work/861/</link>
+		<comments>/skinny/how-people-think-facebook-connect-login-logout-work/861/#comments</comments>
+		<pubDate>Tue, 07 Feb 2012 17:59:17 +0000</pubDate>
+		<dc:creator><![CDATA[Crystal Beasley]]></dc:creator>
+				<category><![CDATA[always-choose-awesome]]></category>
+
+		<guid isPermaLink="false">/skinny/?p=861</guid>
+		<description><![CDATA[&#160; As part of my work on the Identity project at Mozilla, I&#8217;ve been taking a look into how the average person thinks about single sign-on. It&#8217;s a complex system, so not surprisingly, it&#8217;s most often misunderstood at a fundamental level. I ran an unmoderated user test with usertesting.com with five users. Their task was to go to Buyosphere, a site that implements Facebook Connect, create an account, then log out. Then I asked them a series of questions. All five indicated they had used Facebook to log into sites before. &#8220;When you log out of Buyosphere, do you think it logs you out of Facebook also? Why or why not and how would you tell for sure?&#8221; Incorrect answers are red and bold. User 1) &#8220;i believe that once i log out of buyosphere, i am also logged out of facebook. once i am logged out i cannot see any more information regarding my account after logging out.&#8221; User 2) &#8220;I think it does log me out because it gave me connect with Facebook, thus it mean it is not recognizing that I have a Facebook account. I&#8217;d tell if I am or not by opening up Facebook in [&#8230;]<p><a href="/skinny/how-people-think-facebook-connect-login-logout-work/861/">How People *Think* Facebook Connect Log&#8209;in and Log&#8209;out Work</a> is a post from: <a href="/skinny/">Crystal Beasley, UX Designer at Mozilla</a></p>
+]]></description>
+				<content:encoded><![CDATA[<p><a href="/skinny/content/uploads/2012/02/facebook-connect1.png"><img class="alignnone size-large wp-image-888" title="facebook-connect-login" src="/skinny/wp-content/uploads/2012/02/facebook-connect1-600x113.png" alt="" width="600" height="113" /></a></p>
+<p>&nbsp;</p>
+<p>As part of my work on the <a href="http://identity.mozilla.com/">Identity project</a> at Mozilla, I&#8217;ve been taking a look into how the average person thinks about single sign-on. It&#8217;s a complex system, so not surprisingly, it&#8217;s most often misunderstood at a fundamental level.</p>
+<p>I ran an unmoderated user test with <a href="http://usertesting.com">usertesting.com</a> with five users. Their task was to go to <a href="http://Buyosphere.com">Buyosphere</a>, a site that implements Facebook Connect, create an account, then log out. Then I asked them a series of questions. All five indicated they had used Facebook to log into sites before.</p>
+<p>&#8220;When you log out of Buyosphere, do you think it logs you out of Facebook also? Why or why not and how would you tell for sure?&#8221; Incorrect answers are red and bold.</p>
+<ul>
+<li><span style="color: #800000;"><strong>User 1)</strong></span> &#8220;i believe that once i log out of buyosphere, i am also logged out of facebook. once i am logged out i cannot see any more information regarding my account after logging out.&#8221;</li>
+<li><span style="color: #800000;"><strong>User 2)</strong></span> &#8220;I think it does log me out because it gave me connect with Facebook, thus it mean it is not recognizing that I have a Facebook account. I&#8217;d tell if I am or not by opening up Facebook in a new tab and seeing if it is automatically logged in or not.&#8221;</li>
+<li>User 3) &#8220;No, I told facebook to remember me. I would open my facebook page in a different browser window? I don&#8217;t normally tell it to log me out, so that is only a guess.&#8221;</li>
+<li><span style="color: #800000;"><strong>User 4)</strong></span> &#8220;Yes. I do not see a separate window for my facebook site so I would assume that Buyosphere would have set it up to log me out when I&#8217;m done on their site. I think I can check to see if I&#8217;m logged out by opening facebook and seeing if the login boxes come up or if it takes me straight to my FB page. I will try it right now&#8230;.I was wrong it didn&#8217;t log me out. I am surprised by that. That makes the process of logging off take longer if I have to log out of this site and then go to FB to log out of that site separately.&#8221;</li>
+<li>User 5) &#8220;I don&#8217;t think it would log me out. I have used other sites through facebook and usually the log in and log outs are separate. I can tell for sure by checking my facebook page which I just did and I am logged in.&#8221;</li>
+</ul>
+<p>The goal of this research was to determine if users had a mental model that would allow them to correctly log out of a single sign-on system in places where there are security concerns like a shared computer or public terminal. The answer is no. <em>Disclaimer: Do not be tempted to extrapolate that this means 60% of people would get this question wrong. This is qualitative research, not quantitative and should not be regarded as having statistical significance.</em></p>
+<p>The last little gut-wrenching nugget comes from the last 20 seconds of one test. Watch and weep.</p>
+<p><object id="_player" width="610" height="399" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="flashvars" value="config={'key':'#$a7865b80ef02a600b6d','screen':{'width':'610','height':'375','top':'0','left':'0'},'clip':{'url':'http://dc2.usertesting.com/videos/255685-1.mp4', 'autoPlay':false},'plugins':{'controls':{'url':'http://www.usabilitytestresults.com/fp/flowplayer.controls-3.2.5.swf','autohide':'never'}}}" /><param name="src" value="http://www.usabilitytestresults.com/fp/flowplayer.commercial-3.2.6.swf" /><embed id="_player" width="610" height="399" type="application/x-shockwave-flash" src="http://www.usabilitytestresults.com/fp/flowplayer.commercial-3.2.6.swf" allowfullscreen="true" allowscriptaccess="always" flashvars="config={'key':'#$a7865b80ef02a600b6d','screen':{'width':'610','height':'375','top':'0','left':'0'},'clip':{'url':'http://dc2.usertesting.com/videos/255685-1.mp4', 'autoPlay': false, 'autoBuffering': true},'plugins':{'controls':{'url':'http://www.usabilitytestresults.com/fp/flowplayer.controls-3.2.5.swf','autohide':'never'}}}" /></object></p>
+<p>You caught it, right? She believes she could use her Facebook user and password to log into this site. *sigh* It&#8217;s horrifying how easily a bad actor could build a honeypot to collect Facebook credentials.</p>
+<p>In addition to confusion over when/where/how to log-in and log-out, we know that sites have big percentages of users with multiple accounts. This video clearly illustrates how that can happen.</p>
+<p>What are sites to do? I don&#8217;t think there is a good answer. As much as your business case allows, use only one identity provider. If you&#8217;re using Facebook Connect, don&#8217;t have a standard log-in. Too often, two log-in systems are less than the sum of their parts. <a href="http://always-choose-awesomedesign.smashingmagazine.com/2011/08/22/new-approaches-to-designing-login-forms/">LukeW&#8217;s article</a> details experiments to mitigate these problems. Some of them have security concerns that wouldn&#8217;t fly with many sites. I&#8217;m not confident any of them work massively better than only supporting one way of logging in. However, many site will feel it necessary to have a standard log-in plus Facebook Connect. Clearly more thinking and testing needs to be done in this direction.</p>
+<p>Of course, my biased view is that we can build <a href="http://identity.mozilla.com/">better solutions for single sign-on</a>.</p>
+<p><a href="/skinny/how-people-think-facebook-connect-login-logout-work/861/">How People *Think* Facebook Connect Log&#8209;in and Log&#8209;out Work</a> is a post from: <a href="/skinny/">Crystal Beasley, UX Designer at Mozilla</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/skinny/how-people-think-facebook-connect-login-logout-work/861/feed/</wfw:commentRss>
+		<slash:comments>20</slash:comments>
+<enclosure url="http://dc2.usertesting.com/videos/255685-1.mp4" length="531062" type="video/mp4" />
+		</item>
+		<item>
+		<title>13 Signs Your Site Needs a UX Exorcism</title>
+		<link>/skinny/13-signs-your-site-needs-a-always-choose-awesome-exorcism/745/</link>
+		<comments>/skinny/13-signs-your-site-needs-a-always-choose-awesome-exorcism/745/#comments</comments>
+		<pubDate>Fri, 20 Jan 2012 19:25:08 +0000</pubDate>
+		<dc:creator><![CDATA[Crystal Beasley]]></dc:creator>
+				<category><![CDATA[always-choose-awesome]]></category>
+
+		<guid isPermaLink="false">/skinny/?p=745</guid>
+		<description><![CDATA[13 Signs Your UX Needs an Exorcism View more presentations from Crystal Beasley. Making simple, elegant solutions is HARD and often invisible. These are some of the most common things I hear when heading for a bad UX decision. And before any veteran designers go ripping me a new one, these are rules of thumb intended for a 101 audience. They do not apply in every circumstance. However, you must know the rules to know when to break them, and that requires varsity-level skills. &#160; 1. &#8220;I&#8217;ve got this really great idea for a site.&#8221; I&#8217;ve seen entire sites built to do something no one wants, and it&#8217;s more common than you would believe. How, you may ask, does this happen? You start with a solution and then go find a problem it solves as justification. We get ourselves into this situation because of a lack of research into where peoples&#8217; needs and frustrations lie. 2. &#8220;I&#8217;ve got this really great idea for a feature.&#8221; Developing new features is most often at odds with making an interface that&#8217;s easy to use. Features have a technical cost, but the UX cost is much higher. Make the happy path supremely happy by [&#8230;]<p><a href="/skinny/13-signs-your-site-needs-a-always-choose-awesome-exorcism/745/">13 Signs Your Site Needs a UX Exorcism</a> is a post from: <a href="/skinny/">Crystal Beasley, UX Designer at Mozilla</a></p>
+]]></description>
+				<content:encoded><![CDATA[<div style="width:610px" id="__ss_11180207"><strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/skinnywhitegirl/13-signs-your-always-choose-awesome-needs-an-exorcism" title="13 Signs Your UX Needs an Exorcism">13 Signs Your UX Needs an Exorcism</a></strong><object id="__sse11180207" width="610" height="514"><param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=13-signs-collaboration-exorcism-ss-120120132124-phpapp01&#038;stripped_title=13-signs-your-design-needs-an-exorcism&#038;userName=skinnywhitegirl" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><param name="wmode" value="transparent"/><embed name="__sse11180207" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=13-signs-game-strategy-exorcism-ss-120120132124-phpapp01&#038;stripped_title=13-signs-your-iconrainbow-needs-an-exorcism&#038;userName=skinnywhitegirl" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" wmode="transparent" width="610" height="514"></embed></object>
+<div style="padding:5px 0 12px">View more <a href="http://www.slideshare.net/">presentations</a> from <a href="http://www.slideshare.net/skinnywhitegirl">Crystal Beasley</a>.</div>
+</div>
+<p>Making simple, elegant solutions is HARD and often invisible. These are some of the most common things I hear when heading for a bad UX decision.</p>
+<p>And before any veteran designers go ripping me a new one, these are rules of thumb intended for a 101 audience. They do not apply in every circumstance. However, you must know the rules to know when to break them, and that requires varsity-level skills.</p>
+<p>&nbsp;</p>
+<h4>1. &#8220;I&#8217;ve got this really great idea for a site.&#8221;</h4>
+<p>I&#8217;ve seen entire sites built to do something no one wants, and it&#8217;s more common than you would believe. How, you may ask, does this happen? You start with a solution and then go find a problem it solves as justification. We get ourselves into this situation because of a lack of research into where peoples&#8217; needs and frustrations lie.</p>
+<h4>2. &#8220;I&#8217;ve got this really great idea for a feature.&#8221;</h4>
+<p>Developing new features is most often at odds with making an interface that&#8217;s easy to use. Features have a technical cost, but the UX cost is much higher. Make the happy path supremely happy by rigorously pruning off features from the UI that are wanted by only 2% of users. For features 20% of users will need, it&#8217;s ok to make that flow a bit more lengthy. You&#8217;re optimizing for the sweet spot of tasks 80% of users will need. I&#8217;m sure *you* have never been guilty of having a pet feature. I&#8217;m sure everyone will want to use it. Avoid long fights on where in the 80/20/2 scheme the feature falls by employing a/b metrics and user testing. Otherwise, the loudest or HIPO (highest paid opinion) in the room will likely prevail.</p>
+<h4>3. &#8220;Let&#8217;s put a sentence under the button to explain.&#8221;</h4>
+<p>You can&#8217;t document your way out of a confusing UI. Remove half the words. Then remove another half. Kinks in the UI can usually be resolved by the next bullet point&#8230;</p>
+<h4>4. &#8220;What we&#8217;re doing here is so novel.&#8221;</h4>
+<p>Reuse existing paradigms. People don&#8217;t want to read unless required, so use patterns to make reading mostly unnecessary. The user must recognize which mental model is in use or else be able to quickly and correctly learn the model. Breaking a paradigm is serious, varsity-level stuff. Find someone who&#8217;s trained if you are convinced you need a novel pattern.</p>
+<h4>5. &#8220;I think the button should be on the right.&#8221;</h4>
+<p>It&#8217;s not about opinion. Here&#8217;s how you make design decisions. Step 1. Adhere to patterns in your designs. Ahem, we just covered that. Step 2. Test. Users are weirder and more interesting than you can imagine. Step 3. Go back to step 1 and refine with what your learned. Even pros (especially pros) test their designs. You can&#8217;t afford not to validate your assumptions. You MUST test with real people to escape your biases. Additionally, when you make a decision independent of data, you have a process that is vulnerable to organizational politics and maneuverings.</p>
+<h4>6. &#8220;We don&#8217;t want the user to do XYZ thing they want to do &#8230; Let&#8217;s make that path really arduous.&#8221;</h4>
+<p>If your users want to do something you don&#8217;t want, it&#8217;s time to closely examine why. Fix the root cause. Chances are this is damn hard or you would&#8217;ve already done it. Still, there&#8217;s no better solution. Fighting your users is never a winning strategy.</p>
+<h4>7. &#8220;Maybe we need a FAQ.&#8221;</h4>
+<p>Only put the information where/when the users will need to use it. In a flow, there should be a clear path for the user to take (either a CTA or a clear choice). The most important information on each page should be OBVIOUS. Think of every page a user would likely land on from search as a mini-homepage. Your site should have a purpose, and it should be clear to the user. Users should have enough context to know where they are within the structure of the site and what other related info is available.</p>
+<h4>8. &#8220;Can&#8217;t we just pop up a confirm dialog?&#8221;</h4>
+<p>Confirm dialogs are of the devil. Prevent errors. Support undo. Again, don&#8217;t document that something is dangerous if you can fix the danger. Instead of putting a sign up saying there&#8217;s a giant hole in the road, repair the hole or let the driver hit the magic button to fix the muffler that fell off.</p>
+<h4>9. &#8220;Let&#8217;s split this flow up into different steps so it seems smaller.&#8221;</h4>
+<p>Don&#8217;t lie to users. Set expectations appropriately. Wizards are usually not the answer. Make the flow smaller. Every field you ask from users reduces conversions. Also related &#8220;This thing is taking a long time, can we add a spinner?&#8221;<br />
+No, make it faster.</p>
+<h4>10. &#8220;Make it red so it will really stand out.&#8221;</h4>
+<p>There comes a time in every designer&#8217;s life where they have to learn about the birds and bees. Red is a very wonderful color in the palette. It&#8217;s saved for that special person, i.e. error text, critical system warnings. If you must use red because you&#8217;re a fire department or Ohio State University, use yellow for errors.</p>
+<h3>These things don&#8217;t get talked about nearly enough.</h3>
+<h4>11. Navigation</h4>
+<p>Your site should be organized in the way your users think about it. If your nav mirrors your org chart, you didn&#8217;t make the decision with data. I guarantee users don&#8217;t think of your product the way you do. To escape your own bias, you&#8217;ll need metrics and analytics to understand what the most common tasks your users are trying to solve. Then, card sorts and tree testing can distill that into the correct, mutually-exclusive taxonomy with jargon-free labels.</p>
+<h4>12. Copy</h4>
+<p>Did I say jargon-free? To know what your users call things, you have to ask them. Those card sorts sound stupid easy, right? So go do it. Jakob Nielsen has great guidelines for <a href="http://www.useit.com/alertbox/9710a.html">writing for the web</a>. In short, keep it short. Users scan in a F shape, so keep keywords toward the beginning of the line and especially in the headers. This is no place for cutesy language.</p>
+<h4>13. Login</h4>
+<p>Do you really need login or can you do the same thing with a cookie? Delay it until absolutely necessary even if so. Give users a way to gradually engage with your site. They won&#8217;t make an account until they understand the value. A registered user is like gold, so treat them as such. Nothing will destroy your engagement of returning users faster than forgetting who they are, so persist user sessions FOREVER. Go assign yourself that bug to make links from your emails automatically log them in.</p>
+<p>&nbsp;</p>
+<h3>Further reading</h3>
+<p>Steve Krug, <a href="http://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1322872609&amp;sr=1-1">Don&#8217;t Make Me Think</a></p>
+<p><a href="http://always-choose-awesomemyths.com/">collaborationmyths</a></p>
+<p><a title="It's Complex To Make A Product Simple" href="http://www.zurb.com/article/869/its-complex-to-make-a-product-simple">It&#8217;s Complex To Make A Product Simple</a></p>
+<p>Photo credit <a href="http://www.flickr.com/photos/ahpook/2758600159/sizes/z/in/photostream/">Some rights reserved by ahp00k</a></p>
+<p><a href="/skinny/13-signs-your-site-needs-a-always-choose-awesome-exorcism/745/">13 Signs Your Site Needs a UX Exorcism</a> is a post from: <a href="/skinny/">Crystal Beasley, UX Designer at Mozilla</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/skinny/13-signs-your-site-needs-a-always-choose-awesome-exorcism/745/feed/</wfw:commentRss>
+		<slash:comments>12</slash:comments>
+		</item>
+		<item>
+		<title>Simple: Getting users to pick strong, memorable passwords</title>
+		<link>/skinny/password-strength-bank-simple/788/</link>
+		<comments>/skinny/password-strength-bank-simple/788/#comments</comments>
+		<pubDate>Sat, 14 Jan 2012 23:48:54 +0000</pubDate>
+		<dc:creator><![CDATA[Crystal Beasley]]></dc:creator>
+				<category><![CDATA[design]]></category>
+		<category><![CDATA[mozilla]]></category>
+		<category><![CDATA[always-choose-awesome]]></category>
+
+		<guid isPermaLink="false">/skinny/?p=788</guid>
+		<description><![CDATA[Simple (a.k.a. Bank Simple) is doing a hell of a job with their password strength indicator. Here&#8217;s a sneak peak into their interface. Thanks to Ryan Snyder for getting me a super early invite. I&#8217;m using this to improve the password field for Mozilla&#8217;s identity project. Join the discussion in comments here or on the github issue. Simple: Getting users to pick strong, memorable passwords is a post from: Crystal Beasley, UX Designer at Mozilla<p><a href="/skinny/password-strength-bank-simple/788/">Simple: Getting users to pick strong, memorable passwords</a> is a post from: <a href="/skinny/">Crystal Beasley, UX Designer at Mozilla</a></p>
+]]></description>
+				<content:encoded><![CDATA[<p><a href="http://simple.com">Simple</a> (a.k.a. Bank Simple) is doing a hell of a job with their password strength indicator. Here&#8217;s a sneak peak into their interface. Thanks to <a href="http://twitter.com/ryansnyder">Ryan Snyder</a> for getting me a super early invite.<span id="more-788"></span></p>
+<p><iframe src="http://www.youtube.com/embed/xwDcaOQlqLs" height="375" width="610" frameborder="0"></iframe></p>
+<p>I&#8217;m using this to improve the password field for <a href="http://identity.mozilla.com/">Mozilla&#8217;s identity project</a>. Join the discussion in comments here or on the <a href="https://github.com/mozilla/browserid/issues/755">github issue</a>.</p>
+<p><a href="/skinny/password-strength-bank-simple/788/">Simple: Getting users to pick strong, memorable passwords</a> is a post from: <a href="/skinny/">Crystal Beasley, UX Designer at Mozilla</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/skinny/password-strength-bank-simple/788/feed/</wfw:commentRss>
+		<slash:comments>22</slash:comments>
+		</item>
+		<item>
+		<title>Chief eXperience Officer at Mozilla in 2012</title>
+		<link>/skinny/chief-experience-officer-at-mozilla-in-2012/707/</link>
+		<comments>/skinny/chief-experience-officer-at-mozilla-in-2012/707/#comments</comments>
+		<pubDate>Tue, 03 Jan 2012 18:31:37 +0000</pubDate>
+		<dc:creator><![CDATA[Crystal Beasley]]></dc:creator>
+				<category><![CDATA[always choose awesome]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[mozilla]]></category>
+		<category><![CDATA[always-choose-awesome]]></category>
+
+		<guid isPermaLink="false">/skinny/?p=707</guid>
+		<description><![CDATA[&#160; Yes, this is a post about Mozilla, but you can generalize to any open-source software project. At every conference I hear the same refrain, &#8220;Why is design so hard in open source?&#8221; It&#8217;s so hard because *drumroll please* it&#8217;s not made a priority. None of the top decision-makers are designers. Period. The End. You can stop reading. Without someone in the c-level or steering committee with a design background to speak on users&#8217; behalf, Mozilla is missing out. Engineers and business people see entirely different challenges. Without all sides (technical needs, business needs, user needs), we have a giant blind spot. Chief of Experience? Never heard of one. If everyone jumped off the bridge, would you do it too? It&#8217;s true, there aren&#8217;t many tech companies, especially open-source ones that have a design representative at the executive level. Google, Microsoft, Opera, Facebook, Intel, Amazon and even Adobe lack it. There are some surprising companies that do. Oracle has a Chief Evangelist of User Experience. Flipboard has a Head of Design. Nokia and Yahoo have a Senior VP of Design. You might&#8217;ve heard of the most notable SVP of Design, Johnny Ive of Apple. You&#8217;ll note titles of this position [&#8230;]<p><a href="/skinny/chief-experience-officer-at-mozilla-in-2012/707/">Chief eXperience Officer at Mozilla in 2012</a> is a post from: <a href="/skinny/">Crystal Beasley, UX Designer at Mozilla</a></p>
+]]></description>
+				<content:encoded><![CDATA[<p>&nbsp;</p>
+<p><a href="/skinny/content/uploads/2011/11/user-business-technical-needs.jpg"><img class="alignnone size-full wp-image-721" title="user needs technical needs business needs" src="/skinny/wp-content/uploads/2011/11/user-business-technical-needs.jpg" alt="" width="600" height="468" /></a></p>
+<p>Yes, this is a post about Mozilla, but you can generalize to any open-source software project. At every conference I hear the same refrain, &#8220;Why is design so hard in open source?&#8221; It&#8217;s so hard because *drumroll please* it&#8217;s not made a priority. None of the top decision-makers are designers. Period. The End. You can stop reading.</p>
+<p>Without someone in the c-level or steering committee with a design background to speak on users&#8217; behalf, Mozilla is missing out. Engineers and business people see entirely different challenges. Without all sides (technical needs, business needs, user needs), we have a giant blind spot.</p>
+<h3>Chief of Experience? Never heard of one.</h3>
+<p>If everyone jumped off the bridge, would you do it too? It&#8217;s true, there aren&#8217;t many tech companies, especially open-source ones that have a design representative at the executive level. Google, Microsoft, Opera, Facebook, Intel, Amazon and even Adobe lack it. There are some surprising companies that do. Oracle has a Chief Evangelist of User Experience. Flipboard has a Head of Design. Nokia and Yahoo have a Senior VP of Design. You might&#8217;ve heard of the most notable SVP of Design, Johnny Ive of Apple. You&#8217;ll note titles of this position haven&#8217;t settled down, not surprising given the short time the discipline has been around.</p>
+<p>There&#8217;s an opportunity for Mozilla to be the first big open-source tech company to deeply bake design DNA into the process. Gary (CEO) has been exalting us to to produce a kick-ass product. UX and UR are a source of innovation. Further, prioritizing around user needs is essential to making an excellent product.</p>
+<p><a href="/skinny/content/uploads/2011/11/Tesla-Roadster-Sport-Tesla-Motors-to-Open-Colorado-Gallery-Rear-Angle.jpg"><img title="Tesla-Roadster-Sport-Tesla-Motors-to-Open-Colorado-Gallery-Rear-Angle" src="/skinny/wp-content/uploads/2011/11/Tesla-Roadster-Sport-Tesla-Motors-to-Open-Colorado-Gallery-Rear-Angle-600x337.jpg" alt="" width="600" height="337" /></a></p>
+<p>One bit I didn&#8217;t expect in my survey was that the Chief of Design is a well-established role in car companies. Tesla, BMW, Volvo&#8230; they all have one. It&#8217;s curious to me because car manufacturers are entrenched in technical, mechanical requirements as well. Seems as though they&#8217;ve figured out that it takes more than the feature list and specifications to sell cars to people.</p>
+<h3>Get to the point</h3>
+<ol>
+<li>UX is an objective discipline, not something based on feelings about which shade of blue is prettier.</li>
+<li>It should be an organizational priority that blocks projects from launching in the same way the infrasec does.</li>
+<li>UX is vital part of every project. We shouldn&#8217;t DO a project unless a trained interaction designer can ensure user needs are met. Until UX is included from the very beginning, before requirements are written, it will be chasing after product and engineering.</li>
+</ol>
+<h3>So what do we DO?</h3>
+<ol>
+<li>We need someone with an interaction design background at the c-level and/or steering committee.</li>
+<li>Hire UX at a sane number. The ratio in my group is 30:1. It should be around 4:1.</li>
+<li>Until we can do that, hire contractors to pick up the slack.</li>
+</ol>
+<p>&nbsp;</p>
+<p><a title="The ROI of User Experience - Human Factors International" href="http://www.youtube.com/watch?v=O94kYyzqvTc" target="_blank">[Video: the ROI of User Experience]</a></p>
+<p><a href="http://boxesandarrows.com/view/we-tried-to-warn-you32">[Post: We Tried to Warn You, Socializing UX into organizations]</a></p>
+<p>&nbsp;</p>
+<p>===== UPDATE 12/6/2012 =====</p>
+<p>It&#8217;s the end of the year. Time for a progress report. Just a few months after I wrote this we reorganized user experience designers and researchers into their own functional team. I was immensely happy for one of our own, Jinghua Zhang, to be promoted as Director of User Experience. In our org chart, that makes her a level 5. VP and C-levels are as high as it goes at level 6. I&#8217;m very proud to see Mozilla&#8217;s progress this year. Onward!</p>
+<p><a href="/skinny/chief-experience-officer-at-mozilla-in-2012/707/">Chief eXperience Officer at Mozilla in 2012</a> is a post from: <a href="/skinny/">Crystal Beasley, UX Designer at Mozilla</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/skinny/chief-experience-officer-at-mozilla-in-2012/707/feed/</wfw:commentRss>
+		<slash:comments>23</slash:comments>
+		</item>
+		<item>
+		<title>My Android tablet is Kenneth Parcell</title>
+		<link>/skinny/my-android-tablet-is-kenneth-parcell/663/</link>
+		<comments>/skinny/my-android-tablet-is-kenneth-parcell/663/#comments</comments>
+		<pubDate>Fri, 04 Nov 2011 20:17:21 +0000</pubDate>
+		<dc:creator><![CDATA[Crystal Beasley]]></dc:creator>
+				<category><![CDATA[always-choose-awesome]]></category>
+
+		<guid isPermaLink="false">/skinny/?p=663</guid>
+		<description><![CDATA[You know Kenneth. From 30 Rock. The one who&#8217;s well-meaning, goofy, clumsy, sweet and&#8230; charming? Or something not quite like that. His earnestness makes you want it all to work out for him, but you know it won&#8217;t. My Android tablet, the Samsung Galaxy Tab, is Kenneth. Its helpfulness is enraging. There&#8217;s a bright little bring-a-ling chime that happily informs you that the battery is going to die. At least, that&#8217;s what I think it means. It reminds me despite the fact that it&#8217;s 4:13am, and that waking me means it&#8217;s in mortal danger. Why, indeed, is the chime a peppy tune? The UX doesn&#8217;t naturally map to a dead battery. Dead battery sounds to me like slow, falling, sonorous tones. When you wake the device to see what was so very important, there&#8217;s no notification. So, I&#8217;m not even sure what the chime means. Kill. Kill. Die. Die. Die. Ok, I feel better. === UPDATE 11/16/2011 &#8211; My trusty iPhone, though the battery was so dead it shut itself off at 10pm, saved enough juice to sound my wake up alarm the next morning. MY HERO! My Android tablet is Kenneth Parcell is a post from: Crystal Beasley, UX [&#8230;]<p><a href="/skinny/my-android-tablet-is-kenneth-parcell/663/">My Android tablet is Kenneth Parcell</a> is a post from: <a href="/skinny/">Crystal Beasley, UX Designer at Mozilla</a></p>
+]]></description>
+				<content:encoded><![CDATA[<p><a href="/skinny/content/uploads/2011/11/android-goofy-clumsy.jpg"><img class="alignleft size-full wp-image-666" title="android-goofy-clumsy" src="/skinny/wp-content/uploads/2011/11/android-goofy-clumsy.jpg" alt="" width="600" height="359" /></a></p>
+<p>You know Kenneth. From 30 Rock. The one who&#8217;s well-meaning, goofy, clumsy, sweet and&#8230; charming? Or something not quite like that. His earnestness makes you want it all to work out for him, but you know it won&#8217;t.</p>
+<p>My Android tablet, the Samsung Galaxy Tab, is Kenneth.</p>
+<p>Its helpfulness is enraging. There&#8217;s a bright little bring-a-ling chime that happily informs you that the battery is going to die. At least, that&#8217;s what I think it means. It reminds me despite the fact that it&#8217;s 4:13am, and that waking me means it&#8217;s in mortal danger. </p>
+<p>Why, indeed, is the chime a peppy tune? The UX doesn&#8217;t naturally map to a dead battery. Dead battery sounds to me like slow, falling, sonorous tones. When you wake the device to see what was so very important, there&#8217;s no notification. So, I&#8217;m not even sure what the chime means.</p>
+<p>Kill. Kill. Die. Die. Die.</p>
+<p>Ok, I feel better.</p>
+<p>===</p>
+<p>UPDATE 11/16/2011 &#8211; My trusty iPhone, though the battery was so dead it shut itself off at 10pm, saved enough juice to sound my wake up alarm the next morning. MY HERO!</p>
+<p><a href="/skinny/my-android-tablet-is-kenneth-parcell/663/">My Android tablet is Kenneth Parcell</a> is a post from: <a href="/skinny/">Crystal Beasley, UX Designer at Mozilla</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/skinny/my-android-tablet-is-kenneth-parcell/663/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced
+Database Caching 11/20 queries in 0.005 seconds using disk: basic
+
+ Served from: skinnywhitegirl.com @ 2017-07-29 13:36:43 by W3 Total Cache -->
